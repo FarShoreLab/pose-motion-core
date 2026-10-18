@@ -1,0 +1,722 @@
+[
+  {
+    "frame": 1,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.875794529914856,
+    "blue_anchor_cosine": 0.2247726172208786
+  },
+  {
+    "frame": 2,
+    "target_detection_index": 3,
+    "positive_anchor_cosine": 0.8063507676124573,
+    "blue_anchor_cosine": 0.23584309220314026
+  },
+  {
+    "frame": 3,
+    "target_detection_index": 3,
+    "positive_anchor_cosine": 0.7031272649765015,
+    "blue_anchor_cosine": 0.23554426431655884
+  },
+  {
+    "frame": 4,
+    "target_detection_index": 3,
+    "positive_anchor_cosine": 0.7056106328964233,
+    "blue_anchor_cosine": 0.23597152531147003
+  },
+  {
+    "frame": 5,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.6310062408447266,
+    "blue_anchor_cosine": 0.2738136053085327
+  },
+  {
+    "frame": 6,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.6956669688224792,
+    "blue_anchor_cosine": 0.24930112063884735
+  },
+  {
+    "frame": 7,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.7286227941513062,
+    "blue_anchor_cosine": 0.279996395111084
+  },
+  {
+    "frame": 8,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.7441156506538391,
+    "blue_anchor_cosine": 0.2916227877140045
+  },
+  {
+    "frame": 9,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.7070966958999634,
+    "blue_anchor_cosine": 0.2801287770271301
+  },
+  {
+    "frame": 10,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.703927218914032,
+    "blue_anchor_cosine": 0.2826398015022278
+  },
+  {
+    "frame": 11,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.705955982208252,
+    "blue_anchor_cosine": 0.23126158118247986
+  },
+  {
+    "frame": 12,
+    "target_detection_index": 0,
+    "positive_anchor_cosine": 0.5671137571334839,
+    "blue_anchor_cosine": 0.243845596909523
+  },
+  {
+    "frame": 13,
+    "target_detection_index": 3,
+    "positive_anchor_cosine": 0.5601733922958374,
+    "blue_anchor_cosine": 0.2068914920091629
+  },
+  {
+    "frame": 14,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.5843228101730347,
+    "blue_anchor_cosine": 0.1805058717727661
+  },
+  {
+    "frame": 15,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.6571221351623535,
+    "blue_anchor_cosine": 0.20939958095550537
+  },
+  {
+    "frame": 16,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.6545470952987671,
+    "blue_anchor_cosine": 0.21947512030601501
+  },
+  {
+    "frame": 17,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.6004910469055176,
+    "blue_anchor_cosine": 0.24170233309268951
+  },
+  {
+    "frame": 18,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.5183137655258179,
+    "blue_anchor_cosine": 0.2525738477706909
+  },
+  {
+    "frame": 19,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.5385017395019531,
+    "blue_anchor_cosine": 0.2557651400566101
+  },
+  {
+    "frame": 20,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.537274956703186,
+    "blue_anchor_cosine": 0.20532937347888947
+  },
+  {
+    "frame": 31,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.28778785467147827,
+    "blue_anchor_cosine": 0.23162126541137695
+  },
+  {
+    "frame": 32,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.36883091926574707,
+    "blue_anchor_cosine": 0.19128921627998352
+  },
+  {
+    "frame": 33,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.3528190553188324,
+    "blue_anchor_cosine": 0.20113863050937653
+  },
+  {
+    "frame": 34,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.36114832758903503,
+    "blue_anchor_cosine": 0.20796522498130798
+  },
+  {
+    "frame": 35,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.37114083766937256,
+    "blue_anchor_cosine": 0.19869199395179749
+  },
+  {
+    "frame": 36,
+    "target_detection_index": 0,
+    "positive_anchor_cosine": 0.4222782850265503,
+    "blue_anchor_cosine": 0.21862849593162537
+  },
+  {
+    "frame": 37,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.3805685341358185,
+    "blue_anchor_cosine": 0.24326437711715698
+  },
+  {
+    "frame": 38,
+    "target_detection_index": 3,
+    "positive_anchor_cosine": 0.40255171060562134,
+    "blue_anchor_cosine": 0.26208338141441345
+  },
+  {
+    "frame": 39,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.35941213369369507,
+    "blue_anchor_cosine": 0.24420559406280518
+  },
+  {
+    "frame": 40,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.35850366950035095,
+    "blue_anchor_cosine": 0.2403162717819214
+  },
+  {
+    "frame": 41,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.34123265743255615,
+    "blue_anchor_cosine": 0.23445114493370056
+  },
+  {
+    "frame": 42,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.4298830032348633,
+    "blue_anchor_cosine": 0.24078083038330078
+  },
+  {
+    "frame": 43,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.41984686255455017,
+    "blue_anchor_cosine": 0.23044076561927795
+  },
+  {
+    "frame": 44,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.4971330761909485,
+    "blue_anchor_cosine": 0.2575255334377289
+  },
+  {
+    "frame": 45,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.47527840733528137,
+    "blue_anchor_cosine": 0.2879517674446106
+  },
+  {
+    "frame": 46,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.4711112082004547,
+    "blue_anchor_cosine": 0.2830123007297516
+  },
+  {
+    "frame": 47,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.6076487302780151,
+    "blue_anchor_cosine": 0.2559027075767517
+  },
+  {
+    "frame": 48,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.5906188488006592,
+    "blue_anchor_cosine": 0.23117688298225403
+  },
+  {
+    "frame": 49,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.5136169791221619,
+    "blue_anchor_cosine": 0.25451475381851196
+  },
+  {
+    "frame": 50,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.5622396469116211,
+    "blue_anchor_cosine": 0.2550264000892639
+  },
+  {
+    "frame": 51,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.49913036823272705,
+    "blue_anchor_cosine": 0.18361961841583252
+  },
+  {
+    "frame": 52,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.49839773774147034,
+    "blue_anchor_cosine": 0.184931218624115
+  },
+  {
+    "frame": 53,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.5154482126235962,
+    "blue_anchor_cosine": 0.26377084851264954
+  },
+  {
+    "frame": 54,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.4328216314315796,
+    "blue_anchor_cosine": 0.24166879057884216
+  },
+  {
+    "frame": 55,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.4679950773715973,
+    "blue_anchor_cosine": 0.21410027146339417
+  },
+  {
+    "frame": 56,
+    "target_detection_index": 0,
+    "positive_anchor_cosine": 0.49130022525787354,
+    "blue_anchor_cosine": 0.24695484340190887
+  },
+  {
+    "frame": 57,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.39367440342903137,
+    "blue_anchor_cosine": 0.24277737736701965
+  },
+  {
+    "frame": 58,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.38964787125587463,
+    "blue_anchor_cosine": 0.24198800325393677
+  },
+  {
+    "frame": 59,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.4103142321109772,
+    "blue_anchor_cosine": 0.24930605292320251
+  },
+  {
+    "frame": 60,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.36682164669036865,
+    "blue_anchor_cosine": 0.2565394639968872
+  },
+  {
+    "frame": 61,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.44892817735671997,
+    "blue_anchor_cosine": 0.23570984601974487
+  },
+  {
+    "frame": 62,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.4441545903682709,
+    "blue_anchor_cosine": 0.24956122040748596
+  },
+  {
+    "frame": 63,
+    "target_detection_index": 0,
+    "positive_anchor_cosine": 0.5195939540863037,
+    "blue_anchor_cosine": 0.2757667005062103
+  },
+  {
+    "frame": 64,
+    "target_detection_index": 0,
+    "positive_anchor_cosine": 0.5184919238090515,
+    "blue_anchor_cosine": 0.27302175760269165
+  },
+  {
+    "frame": 65,
+    "target_detection_index": 3,
+    "positive_anchor_cosine": 0.4951731562614441,
+    "blue_anchor_cosine": 0.32498398423194885
+  },
+  {
+    "frame": 66,
+    "target_detection_index": 0,
+    "positive_anchor_cosine": 0.5039702653884888,
+    "blue_anchor_cosine": 0.23961465060710907
+  },
+  {
+    "frame": 67,
+    "target_detection_index": 0,
+    "positive_anchor_cosine": 0.5221686363220215,
+    "blue_anchor_cosine": 0.2289571911096573
+  },
+  {
+    "frame": 68,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.5604197978973389,
+    "blue_anchor_cosine": 0.22334091365337372
+  },
+  {
+    "frame": 69,
+    "target_detection_index": 0,
+    "positive_anchor_cosine": 0.5790442824363708,
+    "blue_anchor_cosine": 0.23033878207206726
+  },
+  {
+    "frame": 70,
+    "target_detection_index": 0,
+    "positive_anchor_cosine": 0.5720066428184509,
+    "blue_anchor_cosine": 0.2303270399570465
+  },
+  {
+    "frame": 71,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.572502613067627,
+    "blue_anchor_cosine": 0.2309606969356537
+  },
+  {
+    "frame": 72,
+    "target_detection_index": 3,
+    "positive_anchor_cosine": 0.4945541024208069,
+    "blue_anchor_cosine": null
+  },
+  {
+    "frame": 73,
+    "target_detection_index": 3,
+    "positive_anchor_cosine": 0.5061326622962952,
+    "blue_anchor_cosine": null
+  },
+  {
+    "frame": 74,
+    "target_detection_index": 3,
+    "positive_anchor_cosine": 0.5664771795272827,
+    "blue_anchor_cosine": 0.26074299216270447
+  },
+  {
+    "frame": 75,
+    "target_detection_index": 3,
+    "positive_anchor_cosine": 0.5098287463188171,
+    "blue_anchor_cosine": 0.21749183535575867
+  },
+  {
+    "frame": 76,
+    "target_detection_index": 3,
+    "positive_anchor_cosine": 0.517876148223877,
+    "blue_anchor_cosine": 0.21934348344802856
+  },
+  {
+    "frame": 109,
+    "target_detection_index": 3,
+    "positive_anchor_cosine": 0.4675825238227844,
+    "blue_anchor_cosine": null
+  },
+  {
+    "frame": 113,
+    "target_detection_index": 3,
+    "positive_anchor_cosine": 0.6278862357139587,
+    "blue_anchor_cosine": null
+  },
+  {
+    "frame": 114,
+    "target_detection_index": 3,
+    "positive_anchor_cosine": 0.5633133053779602,
+    "blue_anchor_cosine": null
+  },
+  {
+    "frame": 115,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.5985814332962036,
+    "blue_anchor_cosine": 0.2630932331085205
+  },
+  {
+    "frame": 116,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.5043386220932007,
+    "blue_anchor_cosine": 0.2513769268989563
+  },
+  {
+    "frame": 117,
+    "target_detection_index": 3,
+    "positive_anchor_cosine": 0.6139816641807556,
+    "blue_anchor_cosine": 0.28316015005111694
+  },
+  {
+    "frame": 118,
+    "target_detection_index": 3,
+    "positive_anchor_cosine": 0.6000840663909912,
+    "blue_anchor_cosine": 0.2839233875274658
+  },
+  {
+    "frame": 119,
+    "target_detection_index": 3,
+    "positive_anchor_cosine": 0.6728583574295044,
+    "blue_anchor_cosine": 0.298124760389328
+  },
+  {
+    "frame": 120,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.6203792095184326,
+    "blue_anchor_cosine": 0.30383598804473877
+  },
+  {
+    "frame": 121,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.6453804969787598,
+    "blue_anchor_cosine": 0.3286169469356537
+  },
+  {
+    "frame": 122,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.6218715906143188,
+    "blue_anchor_cosine": 0.38714179396629333
+  },
+  {
+    "frame": 123,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.5193976163864136,
+    "blue_anchor_cosine": 0.3058394193649292
+  },
+  {
+    "frame": 124,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.539086639881134,
+    "blue_anchor_cosine": 0.3034239411354065
+  },
+  {
+    "frame": 125,
+    "target_detection_index": 3,
+    "positive_anchor_cosine": 0.5199978947639465,
+    "blue_anchor_cosine": 0.27966272830963135
+  },
+  {
+    "frame": 126,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.6524431705474854,
+    "blue_anchor_cosine": 0.2703194320201874
+  },
+  {
+    "frame": 127,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.6122498512268066,
+    "blue_anchor_cosine": 0.21413064002990723
+  },
+  {
+    "frame": 128,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.6474031209945679,
+    "blue_anchor_cosine": 0.2245224267244339
+  },
+  {
+    "frame": 129,
+    "target_detection_index": 0,
+    "positive_anchor_cosine": 0.5189437866210938,
+    "blue_anchor_cosine": 0.23592442274093628
+  },
+  {
+    "frame": 130,
+    "target_detection_index": 0,
+    "positive_anchor_cosine": 0.511724591255188,
+    "blue_anchor_cosine": 0.23461009562015533
+  },
+  {
+    "frame": 131,
+    "target_detection_index": 0,
+    "positive_anchor_cosine": 0.6532077789306641,
+    "blue_anchor_cosine": 0.2143194079399109
+  },
+  {
+    "frame": 132,
+    "target_detection_index": 0,
+    "positive_anchor_cosine": 0.5872058868408203,
+    "blue_anchor_cosine": 0.20961111783981323
+  },
+  {
+    "frame": 133,
+    "target_detection_index": 0,
+    "positive_anchor_cosine": 0.6463985443115234,
+    "blue_anchor_cosine": 0.20100921392440796
+  },
+  {
+    "frame": 134,
+    "target_detection_index": 0,
+    "positive_anchor_cosine": 0.6374844908714294,
+    "blue_anchor_cosine": 0.25334763526916504
+  },
+  {
+    "frame": 135,
+    "target_detection_index": 0,
+    "positive_anchor_cosine": 0.7042649984359741,
+    "blue_anchor_cosine": 0.15914027392864227
+  },
+  {
+    "frame": 136,
+    "target_detection_index": 0,
+    "positive_anchor_cosine": 0.702866792678833,
+    "blue_anchor_cosine": 0.157913476228714
+  },
+  {
+    "frame": 137,
+    "target_detection_index": 0,
+    "positive_anchor_cosine": 0.6772712469100952,
+    "blue_anchor_cosine": 0.16040536761283875
+  },
+  {
+    "frame": 138,
+    "target_detection_index": 5,
+    "positive_anchor_cosine": 0.7014317512512207,
+    "blue_anchor_cosine": 0.17694951593875885
+  },
+  {
+    "frame": 139,
+    "target_detection_index": 5,
+    "positive_anchor_cosine": 0.6886041164398193,
+    "blue_anchor_cosine": 0.25051313638687134
+  },
+  {
+    "frame": 140,
+    "target_detection_index": 3,
+    "positive_anchor_cosine": 0.7307924032211304,
+    "blue_anchor_cosine": 0.27758949995040894
+  },
+  {
+    "frame": 141,
+    "target_detection_index": 3,
+    "positive_anchor_cosine": 0.6917839050292969,
+    "blue_anchor_cosine": 0.27769947052001953
+  },
+  {
+    "frame": 142,
+    "target_detection_index": 3,
+    "positive_anchor_cosine": 0.6928268074989319,
+    "blue_anchor_cosine": 0.2671498656272888
+  },
+  {
+    "frame": 143,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.5861867666244507,
+    "blue_anchor_cosine": 0.255171537399292
+  },
+  {
+    "frame": 144,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.5391443371772766,
+    "blue_anchor_cosine": 0.25032058358192444
+  },
+  {
+    "frame": 151,
+    "target_detection_index": 3,
+    "positive_anchor_cosine": 0.5924686193466187,
+    "blue_anchor_cosine": 0.20909549295902252
+  },
+  {
+    "frame": 152,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.5766046047210693,
+    "blue_anchor_cosine": 0.21204911172389984
+  },
+  {
+    "frame": 153,
+    "target_detection_index": 0,
+    "positive_anchor_cosine": 0.5402078628540039,
+    "blue_anchor_cosine": 0.1768714040517807
+  },
+  {
+    "frame": 154,
+    "target_detection_index": 0,
+    "positive_anchor_cosine": 0.530266284942627,
+    "blue_anchor_cosine": 0.17575357854366302
+  },
+  {
+    "frame": 155,
+    "target_detection_index": 0,
+    "positive_anchor_cosine": 0.5443536043167114,
+    "blue_anchor_cosine": 0.2613980770111084
+  },
+  {
+    "frame": 189,
+    "target_detection_index": 4,
+    "positive_anchor_cosine": 0.6557475328445435,
+    "blue_anchor_cosine": 0.14905886352062225
+  },
+  {
+    "frame": 190,
+    "target_detection_index": 3,
+    "positive_anchor_cosine": 0.5647990703582764,
+    "blue_anchor_cosine": 0.14944395422935486
+  },
+  {
+    "frame": 191,
+    "target_detection_index": 3,
+    "positive_anchor_cosine": 0.5650434494018555,
+    "blue_anchor_cosine": 0.14944395422935486
+  },
+  {
+    "frame": 192,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.6050114631652832,
+    "blue_anchor_cosine": 0.11048950254917145
+  },
+  {
+    "frame": 193,
+    "target_detection_index": 1,
+    "positive_anchor_cosine": 0.4875076711177826,
+    "blue_anchor_cosine": 0.0957309752702713
+  },
+  {
+    "frame": 194,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.6080781817436218,
+    "blue_anchor_cosine": 0.12138280272483826
+  },
+  {
+    "frame": 195,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.600899338722229,
+    "blue_anchor_cosine": 0.09798564016819
+  },
+  {
+    "frame": 196,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.5738515853881836,
+    "blue_anchor_cosine": 0.09704498201608658
+  },
+  {
+    "frame": 197,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.57475346326828,
+    "blue_anchor_cosine": 0.08640226721763611
+  },
+  {
+    "frame": 198,
+    "target_detection_index": 0,
+    "positive_anchor_cosine": 0.585936427116394,
+    "blue_anchor_cosine": 0.10442463308572769
+  },
+  {
+    "frame": 199,
+    "target_detection_index": 3,
+    "positive_anchor_cosine": 0.6121957302093506,
+    "blue_anchor_cosine": 0.1464824080467224
+  },
+  {
+    "frame": 202,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.5814579725265503,
+    "blue_anchor_cosine": 0.19470921158790588
+  },
+  {
+    "frame": 203,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.579812228679657,
+    "blue_anchor_cosine": 0.19361814856529236
+  },
+  {
+    "frame": 204,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.527243435382843,
+    "blue_anchor_cosine": 0.20374560356140137
+  },
+  {
+    "frame": 205,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.3957386612892151,
+    "blue_anchor_cosine": 0.24588371813297272
+  },
+  {
+    "frame": 206,
+    "target_detection_index": 2,
+    "positive_anchor_cosine": 0.5047731399536133,
+    "blue_anchor_cosine": 0.2762124538421631
+  }
+]

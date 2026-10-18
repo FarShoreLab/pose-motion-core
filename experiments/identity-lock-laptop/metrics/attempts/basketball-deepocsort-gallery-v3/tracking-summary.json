@@ -1,0 +1,26 @@
+{
+  "frames": 207,
+  "observed_valid_frames": 83,
+  "states": {
+    "ambiguous": 18,
+    "initialized": 1,
+    "lost": 93,
+    "occluded": 13,
+    "reacquired": 5,
+    "tracked": 77
+  },
+  "reacquisitions": 5,
+  "template_updates": 48,
+  "bot_replay_mismatched_frames": [],
+  "bot_replay_atol": 0.0001,
+  "bot_association_seconds": 0.9483715002425015,
+  "deep_association_seconds": 0.9868338997475803,
+  "identity_guard_seconds": 0.12907290097791702,
+  "deep_real_appearance_cost_calls": 314,
+  "deep_real_appearance_cost_pairs": 7381,
+  "inference_executed": false,
+  "additional_keyframe_hints": 0,
+  "cache_hashes_unchanged": true,
+  "identity_accuracy": "PENDING visual review",
+  "real_time_claim": false
+}

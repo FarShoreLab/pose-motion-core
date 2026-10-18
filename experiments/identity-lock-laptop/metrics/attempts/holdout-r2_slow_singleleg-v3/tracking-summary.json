@@ -1,0 +1,32 @@
+{
+  "frames": 210,
+  "observed_valid_frames": 210,
+  "states": {
+    "initialized": 1,
+    "tracked": 209
+  },
+  "identity_accuracy": "PENDING per-frame visual review; validity is not correctness",
+  "initial_visual_seed_count": 1,
+  "additional_keyframe_hints": 0,
+  "manual_tracking_corrections": 0,
+  "template_updates": 204,
+  "reacquisitions": 0,
+  "model_load_seconds": 0.2682642999570817,
+  "loop_seconds": 45.350619700038806,
+  "detector_seconds": 13.99038749979809,
+  "reid_seconds": 28.75885230093263,
+  "association_gmc_seconds": 1.8773725007195026,
+  "identity_guard_seconds": 0.04097039962653071,
+  "decode_conversion_seconds": 0.13284119975287467,
+  "whole_run_seconds": 45.61892519996036,
+  "reid_model_forward_calls": 210,
+  "official_tracker_encoder_calls": 210,
+  "reid_embedding_vectors": 210,
+  "official_appearance_cost_calls": 209,
+  "official_appearance_cost_pairs": 209,
+  "peak_rss_sampled_bytes": 1524396032,
+  "cuda_peak_allocated_bytes": 499749376,
+  "inference_device": "YOLO CUDA; official ReID ONNX CPU",
+  "input_sha256_after": "3abeb178319012934e4a73c2984198175e456b682df7719cb1cb7ddd8a317d88",
+  "real_time_claim": false
+}

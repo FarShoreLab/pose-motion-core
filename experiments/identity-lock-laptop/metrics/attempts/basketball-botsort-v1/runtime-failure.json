@@ -1,0 +1,1 @@
+{"status":"failed_before_first_identity_decision","error":"Audited embedding cache used floating-point tuple keys; float32 and float64 round-trip keys differed","repair":"Use integer millipixel cache keys; identity policy and all thresholds unchanged","complete_frames_written":0,"first_frame_detection_and_ReID_executed":true,"preserved":true}

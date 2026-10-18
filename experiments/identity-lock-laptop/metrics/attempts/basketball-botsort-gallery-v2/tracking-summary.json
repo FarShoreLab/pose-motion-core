@@ -1,0 +1,19 @@
+{
+  "frames": 207,
+  "observed_valid_frames": 17,
+  "states": {
+    "ambiguous": 4,
+    "initialized": 1,
+    "lost": 181,
+    "occluded": 5,
+    "tracked": 16
+  },
+  "reacquisitions": 0,
+  "template_updates": 3,
+  "identity_guard_seconds": 2.7031600999180228,
+  "inference_executed": false,
+  "additional_keyframe_hints": 0,
+  "identity_accuracy": "PENDING visual review; validity is not correctness",
+  "cache_before_after_sha256_equal": true,
+  "real_time_claim": false
+}

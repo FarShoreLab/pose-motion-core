@@ -1,0 +1,271 @@
+{
+  "review_protocol": "Assistant inspected all 207 full frames, all 207 top-three candidate strips, and all candidates in 15 difficult frames; not independent human GT.",
+  "development_set": true,
+  "initial_assistant_visual_seed": 1,
+  "human_box_clicks": 0,
+  "additional_keyframe_hints": 0,
+  "target_detection_availability": {
+    "clear": 124,
+    "overlap": 75,
+    "no_isolated_target_detection": 1,
+    "truncated": 7
+  },
+  "clear_target_opportunity_frames": 121,
+  "metrics": {
+    "basketball-botsort-v1-run2": {
+      "identity_counts": {
+        "red_target": 5,
+        "missing": 202
+      },
+      "correct_target_coverage": 0.024154589371980676,
+      "wrong_accepts": 0,
+      "unreviewed_accepts": 0,
+      "wrong_rejections_when_clear_target_detection_exists": 116,
+      "accepted_truncated_target_boxes": 0,
+      "missing_intervals_inclusive": [
+        [
+          5,
+          206
+        ]
+      ],
+      "longest_missing_frames": 202,
+      "recovery_frames": [],
+      "additional_keyframe_hints": 0
+    },
+    "basketball-botsort-v1-model448": {
+      "identity_counts": {
+        "red_target": 5,
+        "missing": 202
+      },
+      "correct_target_coverage": 0.024154589371980676,
+      "wrong_accepts": 0,
+      "unreviewed_accepts": 0,
+      "wrong_rejections_when_clear_target_detection_exists": 116,
+      "accepted_truncated_target_boxes": 0,
+      "missing_intervals_inclusive": [
+        [
+          5,
+          206
+        ]
+      ],
+      "longest_missing_frames": 202,
+      "recovery_frames": [],
+      "additional_keyframe_hints": 0
+    },
+    "basketball-botsort-gallery-v2": {
+      "identity_counts": {
+        "red_target": 17,
+        "missing": 190
+      },
+      "correct_target_coverage": 0.0821256038647343,
+      "wrong_accepts": 0,
+      "unreviewed_accepts": 0,
+      "wrong_rejections_when_clear_target_detection_exists": 104,
+      "accepted_truncated_target_boxes": 0,
+      "missing_intervals_inclusive": [
+        [
+          17,
+          206
+        ]
+      ],
+      "longest_missing_frames": 190,
+      "recovery_frames": [],
+      "additional_keyframe_hints": 0
+    },
+    "basketball-botsort-gallery-v3": {
+      "identity_counts": {
+        "red_target": 83,
+        "missing": 124
+      },
+      "correct_target_coverage": 0.40096618357487923,
+      "wrong_accepts": 0,
+      "unreviewed_accepts": 0,
+      "wrong_rejections_when_clear_target_detection_exists": 65,
+      "accepted_truncated_target_boxes": 1,
+      "missing_intervals_inclusive": [
+        [
+          23,
+          111
+        ],
+        [
+          113,
+          115
+        ],
+        [
+          117,
+          119
+        ],
+        [
+          150,
+          151
+        ],
+        [
+          175,
+          194
+        ],
+        [
+          200,
+          206
+        ]
+      ],
+      "longest_missing_frames": 89,
+      "recovery_frames": [
+        112,
+        116,
+        120,
+        152,
+        195
+      ],
+      "additional_keyframe_hints": 0
+    },
+    "basketball-deepocsort-gallery-v3": {
+      "identity_counts": {
+        "red_target": 83,
+        "missing": 124
+      },
+      "correct_target_coverage": 0.40096618357487923,
+      "wrong_accepts": 0,
+      "unreviewed_accepts": 0,
+      "wrong_rejections_when_clear_target_detection_exists": 65,
+      "accepted_truncated_target_boxes": 1,
+      "missing_intervals_inclusive": [
+        [
+          23,
+          111
+        ],
+        [
+          113,
+          115
+        ],
+        [
+          117,
+          119
+        ],
+        [
+          150,
+          151
+        ],
+        [
+          175,
+          194
+        ],
+        [
+          200,
+          206
+        ]
+      ],
+      "longest_missing_frames": 89,
+      "recovery_frames": [
+        112,
+        116,
+        120,
+        152,
+        195
+      ],
+      "additional_keyframe_hints": 0
+    },
+    "basketball-botsort-v1-model448-raw-seed-id2": {
+      "identity_counts": {
+        "red_target": 101,
+        "missing": 102,
+        "ambiguous_people_overlap": 4
+      },
+      "correct_target_coverage": 0.48792270531400966,
+      "wrong_accepts": 0,
+      "missing_intervals_inclusive": [
+        [
+          26,
+          29
+        ],
+        [
+          109,
+          206
+        ]
+      ],
+      "wrong_person_frames": [],
+      "ambiguous_frames": [
+        105,
+        106,
+        107,
+        108
+      ]
+    },
+    "basketball-deepocsort-gallery-v3-raw-seed-id2": {
+      "identity_counts": {
+        "red_target": 81,
+        "missing": 122,
+        "ambiguous_people_overlap": 2,
+        "wrong_blue_person": 2
+      },
+      "correct_target_coverage": 0.391304347826087,
+      "wrong_accepts": 2,
+      "missing_intervals_inclusive": [
+        [
+          25,
+          28
+        ],
+        [
+          84,
+          84
+        ],
+        [
+          89,
+          89
+        ],
+        [
+          91,
+          206
+        ]
+      ],
+      "wrong_person_frames": [
+        88,
+        90
+      ],
+      "ambiguous_frames": [
+        86,
+        87
+      ]
+    },
+    "original_gvhmr_id2": {
+      "identity_counts": {
+        "red_target": 75,
+        "ambiguous_people_overlap": 26,
+        "wrong_blue_person": 106
+      },
+      "first_definite_wrong_person_frame": 101,
+      "transition_uncertainty_frames": [
+        80,
+        100
+      ],
+      "caution": "Visual identity labels; no claim that ID switch happened exactly at frame 101."
+    }
+  },
+  "anchor_feature_diagnostic": {
+    "clean_positive_count": 120,
+    "clean_negative_count": 115,
+    "positive_quantiles": {
+      "0": 0.28778785467147827,
+      "0.05": 0.36653798073530197,
+      "0.25": 0.4980815723538399,
+      "0.5": 0.5640561878681183,
+      "0.75": 0.6233752518892288,
+      "0.95": 0.7060130178928375,
+      "1": 0.875794529914856
+    },
+    "negative_quantiles": {
+      "0": 0.08640226721763611,
+      "0.05": 0.11811481267213822,
+      "0.25": 0.20742835849523544,
+      "0.5": 0.23592442274093628,
+      "0.75": 0.2591342628002167,
+      "0.95": 0.2997145146131515,
+      "1": 0.38714179396629333
+    },
+    "range_overlap": true,
+    "positive_below_v1_070": 107,
+    "positive_below_v1_recovery_078": 118,
+    "scope": "Only clean target crops and visually verified bright-blue distractor crops; descriptive development-set diagnostic, not a calibrated ReID ROC."
+  },
+  "unreviewed_selected_detections": [],
+  "result": "FAILED: prolonged false rejections; do not integrate into shared pose inference."
+}

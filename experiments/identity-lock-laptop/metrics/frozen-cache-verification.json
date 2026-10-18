@@ -1,0 +1,56 @@
+[
+  {
+    "attempt": "basketball-botsort-v1-run2",
+    "frames": 207,
+    "features_shape": [
+      1241,
+      512
+    ],
+    "raw_feature_norm_min": 0.9999994039535522,
+    "raw_feature_norm_max": 1.0000005960464478,
+    "integer_key_collisions": 0,
+    "float32_float64_key_equivalence": true,
+    "complete_detection_embedding_alignment": true,
+    "files": {
+      "frame-decisions.jsonl": {
+        "bytes": 983645,
+        "sha256": "2446c781abb5de6ae1d2dd4c12a6f18ce04145b227d3a16c5cdee1c17185c306"
+      },
+      "detection-embeddings.npz": {
+        "bytes": 2319765,
+        "sha256": "c717859a5ec505cb9868146499be1561bf2090594949d8ec5fd74b79162dfeaf"
+      },
+      "policy-frozen.json": {
+        "bytes": 1531,
+        "sha256": "b03e2d04b3c4ea164fd8f77a490b08320bd59765839ffbb26834809b2d769bf9"
+      }
+    }
+  },
+  {
+    "attempt": "basketball-botsort-v1-model448",
+    "frames": 207,
+    "features_shape": [
+      1241,
+      512
+    ],
+    "raw_feature_norm_min": 0.999999463558197,
+    "raw_feature_norm_max": 1.0000008344650269,
+    "integer_key_collisions": 0,
+    "float32_float64_key_equivalence": true,
+    "complete_detection_embedding_alignment": true,
+    "files": {
+      "frame-decisions.jsonl": {
+        "bytes": 984531,
+        "sha256": "6d3295de987833eb97189101d9d51ba082e8d3c8e1d0f6bcedab6b55fd0a6e38"
+      },
+      "detection-embeddings.npz": {
+        "bytes": 2319652,
+        "sha256": "1109ddc5c00715f857ebee9c3cb566704d22bb92ebf2df96fbe5e4007fb4cf6c"
+      },
+      "policy-frozen.json": {
+        "bytes": 1531,
+        "sha256": "b03e2d04b3c4ea164fd8f77a490b08320bd59765839ffbb26834809b2d769bf9"
+      }
+    }
+  }
+]

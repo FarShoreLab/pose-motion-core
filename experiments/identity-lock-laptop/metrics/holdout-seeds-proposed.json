@@ -1,0 +1,68 @@
+[
+  {
+    "clip": "r2_slow_overhead",
+    "input_frame": 0,
+    "seed_bbox_xyxy": [
+      522.455322265625,
+      44.00581359863281,
+      709.224609375,
+      653.0171508789062
+    ],
+    "target_description": "front-facing overhead kettlebell squat"
+  },
+  {
+    "clip": "r2_slow_singleleg",
+    "input_frame": 0,
+    "seed_bbox_xyxy": [
+      156.5771484375,
+      285.45379638671875,
+      305.8062744140625,
+      403.1160888671875
+    ],
+    "target_description": "side-facing single-leg squat; small subject in portrait frame"
+  },
+  {
+    "clip": "r2_fast_burpees",
+    "input_frame": 0,
+    "seed_bbox_xyxy": [
+      263.2609558105469,
+      134.11398315429688,
+      348.8494567871094,
+      361.40936279296875
+    ],
+    "target_description": "jumping jacks and burpees; rapid pose changes"
+  },
+  {
+    "clip": "r2_fast_basketball",
+    "input_frame": 0,
+    "seed_bbox_xyxy": [
+      338.3089904785156,
+      111.58856201171875,
+      380.5365905761719,
+      218.58612060546875
+    ],
+    "target_description": "basketball shots; multiple players; pink-shirt foreground shooter"
+  },
+  {
+    "clip": "r2_turn_ballet_a",
+    "input_frame": 0,
+    "seed_bbox_xyxy": [
+      267.7372131347656,
+      289.7950439453125,
+      480.0872497558594,
+      587.1846313476562
+    ],
+    "target_description": "ballet leg lifts, side/back turns, skirt/self occlusion"
+  },
+  {
+    "clip": "r2_turn_ballet_b",
+    "input_frame": 0,
+    "seed_bbox_xyxy": [
+      446.2978820800781,
+      268.974853515625,
+      598.421875,
+      585.7423095703125
+    ],
+    "target_description": "ballet side/back rotation and leg extension, skirt/self occlusion"
+  }
+]

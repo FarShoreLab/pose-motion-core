@@ -1,0 +1,426 @@
+{
+  "outcome": "FAILED",
+  "no_pose_inference": true,
+  "single_reid_encoder": "yolo26n-reid.onnx",
+  "second_encoder_tested": false,
+  "independent_human_ground_truth": false,
+  "attempts": [
+    {
+      "attempt": "basketball-botsort-gallery-v2",
+      "decision_frames": 207,
+      "contract_verified": true,
+      "files": {
+        "frame-decisions.jsonl": {
+          "bytes": 968869,
+          "sha256": "76ab6175f6a36acabcfc03bee6a900781c4275457eff4dbea86ac61a8371c64f"
+        },
+        "policy-frozen.json": {
+          "bytes": 1998,
+          "sha256": "1a45344e88e2fa9015351081ab1d7c44a831c8ee5db3f60b83a86a450d84e200"
+        },
+        "run-manifest.json": {
+          "bytes": 27676,
+          "sha256": "4d0c2ac779d018aaf484d83f0d6f3eba9a632c949f6addec1704407a08f9f396"
+        },
+        "tracking-summary.json": {
+          "bytes": 492,
+          "sha256": "9f4b14b1ec1374ab95ed047d75e47043a199c0443d1a916e89fe6fa44641bc00"
+        }
+      }
+    },
+    {
+      "attempt": "basketball-botsort-gallery-v3",
+      "decision_frames": 207,
+      "contract_verified": true,
+      "files": {
+        "frame-decisions.jsonl": {
+          "bytes": 986193,
+          "sha256": "e7be9fa31d70574c833c9cfc8eda9108ea1c22a1b2c352ea34acd1f5973cfbb3"
+        },
+        "policy-frozen.json": {
+          "bytes": 2375,
+          "sha256": "a35fe951e8c0cd891ce0bcfa0cc175826b6651bbb832e3926f8967ff78ac1950"
+        },
+        "render-verification.json": {
+          "bytes": 485,
+          "sha256": "5473bbbd5b84faac48b740ea820da7054750b49588b7b4daa77f0cc659779e4e"
+        },
+        "run-manifest.json": {
+          "bytes": 28057,
+          "sha256": "7aceb5f4d6831bda0f20c01129a24dc10c2d35d7e27de45c5069099231bf2cd1"
+        },
+        "tracking-summary.json": {
+          "bytes": 515,
+          "sha256": "d84938e264a34ecdd8c128ff459c7c14c5ba2149aeda19d951d5e216ac8cfcc6"
+        }
+      }
+    },
+    {
+      "attempt": "basketball-botsort-v1",
+      "incomplete_runtime_failure": true,
+      "decision_frames": 0
+    },
+    {
+      "attempt": "basketball-botsort-v1-model448",
+      "decision_frames": 207,
+      "contract_verified": true,
+      "files": {
+        "detection-embeddings.npz": {
+          "bytes": 2319652,
+          "sha256": "1109ddc5c00715f857ebee9c3cb566704d22bb92ebf2df96fbe5e4007fb4cf6c"
+        },
+        "frame-decisions.jsonl": {
+          "bytes": 984531,
+          "sha256": "6d3295de987833eb97189101d9d51ba082e8d3c8e1d0f6bcedab6b55fd0a6e38"
+        },
+        "policy-frozen.json": {
+          "bytes": 1531,
+          "sha256": "b03e2d04b3c4ea164fd8f77a490b08320bd59765839ffbb26834809b2d769bf9"
+        },
+        "render-verification.json": {
+          "bytes": 486,
+          "sha256": "bedecf12a4bfee1e2586b9dc0fa89eb19f6eb3f2cc761fa521f889f887d6d317"
+        },
+        "resources.json": {
+          "bytes": 22485,
+          "sha256": "a36255ecb16eb8bd6b047c1adb4d66e8280bd48a07d6e59d2f3f81c99444cb8c"
+        },
+        "run-manifest.json": {
+          "bytes": 25939,
+          "sha256": "f2d2b14c5efe1d254c97b7e3163a05a4ca7821ff8fa70fa4f142ad198b92f30c"
+        },
+        "tracking-summary.json": {
+          "bytes": 1222,
+          "sha256": "b140980c6668586219f815f90397db61e4267a7d67f15385aceb06f4dfb00b78"
+        }
+      }
+    },
+    {
+      "attempt": "basketball-botsort-v1-run2",
+      "decision_frames": 207,
+      "contract_verified": true,
+      "files": {
+        "detection-embeddings.npz": {
+          "bytes": 2319765,
+          "sha256": "c717859a5ec505cb9868146499be1561bf2090594949d8ec5fd74b79162dfeaf"
+        },
+        "frame-decisions.jsonl": {
+          "bytes": 983645,
+          "sha256": "2446c781abb5de6ae1d2dd4c12a6f18ce04145b227d3a16c5cdee1c17185c306"
+        },
+        "policy-frozen.json": {
+          "bytes": 1531,
+          "sha256": "b03e2d04b3c4ea164fd8f77a490b08320bd59765839ffbb26834809b2d769bf9"
+        },
+        "render-verification.json": {
+          "bytes": 482,
+          "sha256": "8d7776cdd7062fef7558c0d39bc4a8ecb348147a76cbedea40dad80bee5fad78"
+        },
+        "resources.json": {
+          "bytes": 22547,
+          "sha256": "839147508f412853a33fa3765d1f5ad690af0c3236084df791b742c50de248f4"
+        },
+        "run-manifest.json": {
+          "bytes": 25714,
+          "sha256": "de9fea478b38d50fdfb2647dd1cbb7c0ea9b84f908d367644076f0ca39ab841a"
+        },
+        "tracking-summary.json": {
+          "bytes": 1223,
+          "sha256": "7dc910c2d5f249bee00dea706a8f9ee25bf0c395f149bc84866d8ee3f8f5ee6b"
+        }
+      }
+    },
+    {
+      "attempt": "basketball-deepocsort-gallery-v3",
+      "decision_frames": 207,
+      "contract_verified": true,
+      "files": {
+        "frame-decisions.jsonl": {
+          "bytes": 993250,
+          "sha256": "c152b72a85610e40b932425fb2ef870cd69fd21e88bbbdd4041ddf8a277e0d6e"
+        },
+        "policy-frozen.json": {
+          "bytes": 2375,
+          "sha256": "a35fe951e8c0cd891ce0bcfa0cc175826b6651bbb832e3926f8967ff78ac1950"
+        },
+        "run-manifest.json": {
+          "bytes": 27362,
+          "sha256": "8da987efb3a964a42573e3723b4c26ee8021fdc2122dee3bce344bfe5194e8bf"
+        },
+        "tracking-summary.json": {
+          "bytes": 736,
+          "sha256": "138168b153fedcea8bd2a169c16774e422af58b1e2464ffe691d087e3bfad5ee"
+        }
+      }
+    },
+    {
+      "attempt": "holdout-r2_fast_basketball-v3",
+      "decision_frames": 204,
+      "contract_verified": true,
+      "files": {
+        "detection-embeddings.npz": {
+          "bytes": 2322376,
+          "sha256": "02da02d43734f151fb1729b5cd8c68804a04e57f3492e66bc7abad0adb9a6556"
+        },
+        "frame-decisions.jsonl": {
+          "bytes": 953352,
+          "sha256": "42efe861c13b24fb24ff76bf34ba1666cc8b7ffda0712c8de4c475bc6529b352"
+        },
+        "policy-frozen.json": {
+          "bytes": 2468,
+          "sha256": "50625fa2ea1d7be1d25022ef3301088135c47f656abfd9f7d0b2981851db4573"
+        },
+        "resources.json": {
+          "bytes": 22172,
+          "sha256": "3764b9b75e4ac07d2ccf9168c9ad385ea46f09a33e8c414ecc6a6cf73ca7d8b8"
+        },
+        "run-manifest.json": {
+          "bytes": 27996,
+          "sha256": "416f9677c5cb642dbde95c78ab0aa920b2173ac6a2e835aee1b828439aeffa8a"
+        },
+        "tracking-summary.json": {
+          "bytes": 1239,
+          "sha256": "a053fedffaf33921677c6ba4355debeaeb707e6449890a8b464112b5a004cc7a"
+        }
+      }
+    },
+    {
+      "attempt": "holdout-r2_fast_burpees-v3",
+      "decision_frames": 300,
+      "contract_verified": true,
+      "files": {
+        "detection-embeddings.npz": {
+          "bytes": 513129,
+          "sha256": "a027e0f35c666692748390043168d28d9f4cd545c6282c27002b52b04a29d5cd"
+        },
+        "frame-decisions.jsonl": {
+          "bytes": 391530,
+          "sha256": "8ea8eca170f5ea1c16379e612fc6140022c4b6395779c6466fde0d29279ad717"
+        },
+        "policy-frozen.json": {
+          "bytes": 2445,
+          "sha256": "1ba3e6b216494a9163ed52ea2522fab7b664380fd6ce5a5c3fb2c9f53aaaf4df"
+        },
+        "resources.json": {
+          "bytes": 32707,
+          "sha256": "da03040ad96949d124f6198e5593f711754f72903e5395af43a30749b2840535"
+        },
+        "run-manifest.json": {
+          "bytes": 27997,
+          "sha256": "b4f03d3af4bd0c3dc191595e515329a00184a73a6958d0744d2567f536bcf847"
+        },
+        "tracking-summary.json": {
+          "bytes": 1272,
+          "sha256": "9537304d528a6bd2b48a2cd3586214ca1ef4f2223ac05b32be721c7371b927c4"
+        }
+      }
+    },
+    {
+      "attempt": "holdout-r2_slow_overhead-v3",
+      "decision_frames": 240,
+      "contract_verified": true,
+      "files": {
+        "detection-embeddings.npz": {
+          "bytes": 458140,
+          "sha256": "c7f7f1f9a252b55a5fcb2de2a1a68d6730ff7baf77b47043caafade4966e6619"
+        },
+        "frame-decisions.jsonl": {
+          "bytes": 334070,
+          "sha256": "224199980e456f67faba0856b346cb56667c3d8052b7a92f940bd967974508b1"
+        },
+        "policy-frozen.json": {
+          "bytes": 2432,
+          "sha256": "667d7b2519ef41305e1558c0e25e41a07b7a651faef380c31e831167bda05ddd"
+        },
+        "resources.json": {
+          "bytes": 26146,
+          "sha256": "7456616b73d07942e8d5b7281aaad295220dcd9f196b45fe3f3383adf8f47197"
+        },
+        "run-manifest.json": {
+          "bytes": 27984,
+          "sha256": "87fb004837e243ca3f8562856370cf3d9780fa549e18b91f27d29ae4dba3ed30"
+        },
+        "tracking-summary.json": {
+          "bytes": 1186,
+          "sha256": "2a8aed382100fc75e25f2cfe4ed8f8c12e107cf21851e38f98669f0e13f9a8fc"
+        }
+      }
+    },
+    {
+      "attempt": "holdout-r2_slow_singleleg-v3",
+      "decision_frames": 210,
+      "contract_verified": true,
+      "files": {
+        "detection-embeddings.npz": {
+          "bytes": 400609,
+          "sha256": "da346ba0609590a742a3ceb869bfae5d9e35a77a5e20b9479409e004aa8ce240"
+        },
+        "frame-decisions.jsonl": {
+          "bytes": 294272,
+          "sha256": "3ae8b8c09caa99916f8a021a661471c867bdd0f8452937ca56a99a43f7ed77f4"
+        },
+        "policy-frozen.json": {
+          "bytes": 2459,
+          "sha256": "ee34da791910553f6221f4ef24eb4c3429eae084ae775d0c10bc9e550780f15e"
+        },
+        "resources.json": {
+          "bytes": 22869,
+          "sha256": "43fd12503c99d3aa6f5d463b3e8f5e9f1f56e7d91dafbfdf7561b0c1216e5f68"
+        },
+        "run-manifest.json": {
+          "bytes": 27969,
+          "sha256": "2655617067d9a3c973c6db129684474ead3758494e06a88f2d231e947cb75b44"
+        },
+        "tracking-summary.json": {
+          "bytes": 1187,
+          "sha256": "8a2c5c0767181e93888071d4cae7c96077577175ec20f3cfa3ef0f899c836c55"
+        }
+      }
+    },
+    {
+      "attempt": "holdout-r2_turn_ballet_a-v3",
+      "decision_frames": 240,
+      "contract_verified": true,
+      "files": {
+        "detection-embeddings.npz": {
+          "bytes": 476603,
+          "sha256": "a72daface09ba02530896e741567a132bab68cd7ab4ca8d7d59eef3122952e58"
+        },
+        "frame-decisions.jsonl": {
+          "bytes": 340037,
+          "sha256": "fa9946802151c703ae354cd3ef24f395ff58e88b8267e398b9837bde9f78abb7"
+        },
+        "policy-frozen.json": {
+          "bytes": 2454,
+          "sha256": "7f9a4082c03951fed27e3e4e9a255304b8eb1d8130226347097754e2332a0917"
+        },
+        "resources.json": {
+          "bytes": 26140,
+          "sha256": "02c147a6e0f19f98292fa5cfdd7a2fd10adda1cbd53c347e4db47a34e26fc188"
+        },
+        "run-manifest.json": {
+          "bytes": 28253,
+          "sha256": "7cad3019cf8d550b785d984b29c3905ae5127d4eb2c2d776f12325d43b585fba"
+        },
+        "tracking-summary.json": {
+          "bytes": 1230,
+          "sha256": "f09a758b74263f1dae8351b9a50be4b073bf00fb1b092cd39686f0182c7ed251"
+        }
+      }
+    },
+    {
+      "attempt": "holdout-r2_turn_ballet_b-v3",
+      "decision_frames": 240,
+      "contract_verified": true,
+      "files": {
+        "detection-embeddings.npz": {
+          "bytes": 465105,
+          "sha256": "7a44f9642d7c0d6843184d57f640a8b06e2bb6c689bea564ed1cb66752202934"
+        },
+        "frame-decisions.jsonl": {
+          "bytes": 335132,
+          "sha256": "1ce3e9ca05a1ea155fd5905e2092bdb2fc6676cfc959088c963249aa6d59ef92"
+        },
+        "policy-frozen.json": {
+          "bytes": 2456,
+          "sha256": "6476f4e54fb600513cdffc46c2de670fac44eadef03730a5de02642d3280ba32"
+        },
+        "resources.json": {
+          "bytes": 26140,
+          "sha256": "fd000a7ec012eaf9cc2553a785bc030c66ba0ffedc1ea0973130d7be9f9fb153"
+        },
+        "run-manifest.json": {
+          "bytes": 28163,
+          "sha256": "5c08d12d13f84d6c54ea01d3c5d808bb2f82c250ab58fb743864a3a7c57d0a31"
+        },
+        "tracking-summary.json": {
+          "bytes": 1252,
+          "sha256": "70af9e2af4d90bc77bad802cf05b9b454a99a8dcde5569b0d7058a4030c1aa9a"
+        }
+      }
+    }
+  ],
+  "inputs": [
+    {
+      "clip": "r2_fast_basketball",
+      "input_frames": 204,
+      "sha256": "feb8b545050481f76ee18fac3329b4c4f0fb5c4911d249eacc958b52c8da222b",
+      "unchanged": true
+    },
+    {
+      "clip": "r2_fast_burpees",
+      "input_frames": 300,
+      "sha256": "77c6a3304d2f0038c768acdf3ec862785215d088721800048c116a6798eb2a68",
+      "unchanged": true
+    },
+    {
+      "clip": "r2_occlusion_basketball",
+      "input_frames": 207,
+      "sha256": "80416d57dca13e9a3dadbba3e4f12e7f944ef80ca77cc463e44c8dc3a6b1c32d",
+      "unchanged": true
+    },
+    {
+      "clip": "r2_slow_overhead",
+      "input_frames": 240,
+      "sha256": "a6ff91b0fbb9f6b506a508c3e18162201b5232ae5032201f4ac899336ca3ba6a",
+      "unchanged": true
+    },
+    {
+      "clip": "r2_slow_singleleg",
+      "input_frames": 210,
+      "sha256": "3abeb178319012934e4a73c2984198175e456b682df7719cb1cb7ddd8a317d88",
+      "unchanged": true
+    },
+    {
+      "clip": "r2_turn_ballet_a",
+      "input_frames": 240,
+      "sha256": "c2576d8c4607edeeb5b3d6eb0a05ced3b11cb20c617510f16bab9da5f9f93489",
+      "unchanged": true
+    },
+    {
+      "clip": "r2_turn_ballet_b",
+      "input_frames": 240,
+      "sha256": "4785255c6a54d6f2b599f4dbdbf3d1df3741c03bb004fec37c94ebfe38bda519",
+      "unchanged": true
+    }
+  ],
+  "videos": [
+    {
+      "filename": "basketball-final-annotated-comparison.mp4",
+      "bytes": 4101778,
+      "sha256": "9092619b729e0c24cf086c3bcc2d73cd45ac77a02fa0f121605886781f75ec73",
+      "decoded_frames": 207,
+      "width": 1280,
+      "height": 912,
+      "fps": "30"
+    },
+    {
+      "filename": "basketball-same-input-six-methods.mp4",
+      "bytes": 5267162,
+      "sha256": "1759d3b148f80b34bc140aac0b72af0680b9f4715bb2dcbaaf42ad8d2898a0fa",
+      "decoded_frames": 207,
+      "width": 1920,
+      "height": 920,
+      "fps": "30"
+    },
+    {
+      "filename": "six-holdout-tracking-replays.mp4",
+      "bytes": 5747246,
+      "sha256": "7709b6bfb6aae2741db35b815f22ecf88eda8c851699c3c2383d933843498ef1",
+      "decoded_frames": 1434,
+      "width": 1280,
+      "height": 544,
+      "fps": "30"
+    }
+  ],
+  "unit_tests": {
+    "exit_code": 0,
+    "count": 13,
+    "log": "unit-tests.txt"
+  },
+  "holdout_qa": {
+    "sampled_frames": 95,
+    "full_frame_identity_labels": false,
+    "no_policy_tuning_after_holdouts": true
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "crop_review": [
+    {
+      "frame": 0,
+      "detection_bbox": [
+        214.720947265625,
+        158.16806030273438,
+        260.4376525878906,
+        294.5309753417969
+      ],
+      "official_expanded_crop_shape": [
+        149,
+        56,
+        3
+      ],
+      "rgb_float_input_range": [
+        0.0,
+        1.0
+      ],
+      "preprocessing": "official save_one_box gain=1.02 pad=10; BGR->RGB; /255; bilinear resize to declared 448x448; float32",
+      "normalization": "raw encoder vector retained; target guard computes L2-normalized cosine; original anchor is immutable"
+    },
+    {
+      "frame": 3,
+      "detection_bbox": [
+        214.0323486328125,
+        158.09210205078125,
+        274.97265625,
+        293.2677307128906
+      ],
+      "official_expanded_crop_shape": [
+        148,
+        72,
+        3
+      ],
+      "rgb_float_input_range": [
+        0.0,
+        1.0
+      ],
+      "preprocessing": "official save_one_box gain=1.02 pad=10; BGR->RGB; /255; bilinear resize to declared 448x448; float32",
+      "normalization": "raw encoder vector retained; target guard computes L2-normalized cosine; original anchor is immutable"
+    },
+    {
+      "frame": 4,
+      "detection_bbox": [
+        214.09286499023438,
+        158.08770751953125,
+        275.0236511230469,
+        293.1529541015625
+      ],
+      "official_expanded_crop_shape": [
+        148,
+        72,
+        3
+      ],
+      "rgb_float_input_range": [
+        0.0,
+        1.0
+      ],
+      "preprocessing": "official save_one_box gain=1.02 pad=10; BGR->RGB; /255; bilinear resize to declared 448x448; float32",
+      "normalization": "raw encoder vector retained; target guard computes L2-normalized cosine; original anchor is immutable"
+    },
+    {
+      "frame": 5,
+      "detection_bbox": [
+        215.44107055664062,
+        158.67681884765625,
+        289.4493103027344,
+        295.52825927734375
+      ],
+      "official_expanded_crop_shape": [
+        149,
+        86,
+        3
+      ],
+      "rgb_float_input_range": [
+        0.0,
+        1.0
+      ],
+      "preprocessing": "official save_one_box gain=1.02 pad=10; BGR->RGB; /255; bilinear resize to declared 448x448; float32",
+      "normalization": "raw encoder vector retained; target guard computes L2-normalized cosine; original anchor is immutable"
+    },
+    {
+      "frame": 6,
+      "detection_bbox": [
+        217.98431396484375,
+        158.527099609375,
+        290.5200500488281,
+        293.02459716796875
+      ],
+      "official_expanded_crop_shape": [
+        147,
+        84,
+        3
+      ],
+      "rgb_float_input_range": [
+        0.0,
+        1.0
+      ],
+      "preprocessing": "official save_one_box gain=1.02 pad=10; BGR->RGB; /255; bilinear resize to declared 448x448; float32",
+      "normalization": "raw encoder vector retained; target guard computes L2-normalized cosine; original anchor is immutable"
+    },
+    {
+      "frame": 8,
+      "detection_bbox": [
+        233.198974609375,
+        160.60122680664062,
+        287.86627197265625,
+        290.54376220703125
+      ],
+      "official_expanded_crop_shape": [
+        142,
+        66,
+        3
+      ],
+      "rgb_float_input_range": [
+        0.0,
+        1.0
+      ],
+      "preprocessing": "official save_one_box gain=1.02 pad=10; BGR->RGB; /255; bilinear resize to declared 448x448; float32",
+      "normalization": "raw encoder vector retained; target guard computes L2-normalized cosine; original anchor is immutable"
+    },
+    {
+      "frame": 10,
+      "detection_bbox": [
+        243.95346069335938,
+        160.19741821289062,
+        292.3387756347656,
+        290.1717224121094
+      ],
+      "official_expanded_crop_shape": [
+        143,
+        59,
+        3
+      ],
+      "rgb_float_input_range": [
+        0.027450980392156862,
+        1.0
+      ],
+      "preprocessing": "official save_one_box gain=1.02 pad=10; BGR->RGB; /255; bilinear resize to declared 448x448; float32",
+      "normalization": "raw encoder vector retained; target guard computes L2-normalized cosine; original anchor is immutable"
+    }
+  ],
+  "official_ReID_source_sha256": "1f3c1180d616d3f35a469cb02a3421d7fd27f1be8ebbe6ddae047b7d1bc22038",
+  "inference_executed": false,
+  "policy_changed": false,
+  "first_refusal_224": "frame 5: raw ID2 remains tracked; motion and negative margin pass, anchor cosine 0.670<0.700 causes rejection; subsequent 0.780 reacquisition requirement blocks recovery",
+  "model_metadata_size_correction": "224 generic dynamic-size fallback -> declared 448; separate preserved full runs; same policy hash"
+}

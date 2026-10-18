@@ -1,0 +1,49 @@
+{
+  "name": "r2_fast_basketball",
+  "category": "fast",
+  "filename": "Basketball_1.ogv",
+  "start": 0,
+  "duration": 6.8,
+  "source_page": "https://commons.wikimedia.org/wiki/File:Basketball_(1).ogv",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Basketball_%281%29.ogv",
+  "author": "Azorbli",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "motion": "basketball shots; multiple players; pink-shirt foreground shooter",
+  "camera": "handheld camera; attempt official SimpleVO",
+  "estimate_camera": true,
+  "source_note": "Original source is only 6.865 seconds: use 6.8 seconds (approximately 7), no padding or slow motion. Multi-person stress case; automatic person selections may differ and must be audited, not assumed matched.",
+  "source": "Basketball_1.ogv",
+  "source_stream": {
+    "width": 640,
+    "height": 368,
+    "fps_rational": "30151/1000",
+    "fps": 30.151,
+    "fps_field": "base_rate",
+    "codec": "theora"
+  },
+  "source_frames": 207,
+  "source_video_duration_seconds": 6.865443932207887,
+  "source_first_pts_seconds": 0.0,
+  "original_first_pts_seconds": 0.0,
+  "source_start_normalized_seconds": 0,
+  "duration_seconds": 6.8,
+  "source_sha256": "ca6a6580616e2f0b3916c0ce6cd2a5a08807ee53708d8cd78af3eafe533a0ee9",
+  "source_fps": 30.151,
+  "input_fps": 30,
+  "input_frames": 204,
+  "unique_source_frames": 204,
+  "selected_source_frame_range_inclusive": [
+    0,
+    204
+  ],
+  "max_absolute_sampling_error_ms": 16.52681503101058,
+  "input_sha256": "feb8b545050481f76ee18fac3329b4c4f0fb5c4911d249eacc958b52c8da222b",
+  "changes": [
+    "audio removed",
+    "nearest source PTS sampled to 30 fps; ties choose earlier",
+    "H264 CRF18; original dimensions retained; no interpolation"
+  ],
+  "preparation_seconds": 1.3101575000910088,
+  "evaluation_mode": "offline file processing; not a realtime or 3D-accuracy measurement"
+}

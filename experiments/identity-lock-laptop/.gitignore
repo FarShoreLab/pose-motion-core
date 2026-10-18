@@ -1,0 +1,14 @@
+.venv/
+cache/
+outputs/
+deliverables/
+__pycache__/
+*.onnx
+*.pt
+*.pth
+*.safetensors
+*.npz
+*.npy
+*.mp4
+*.zip
+*.jsonl

@@ -1,0 +1,1865 @@
+[
+  {
+    "frame": 0,
+    "proposal_order": [
+      1,
+      0,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 1,
+    "proposal_order": [
+      2,
+      0,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 2,
+    "proposal_order": [
+      3,
+      0,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 3,
+    "proposal_order": [
+      3,
+      0,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 4,
+    "proposal_order": [
+      3,
+      0,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 5,
+    "proposal_order": [
+      1,
+      0,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 6,
+    "proposal_order": [
+      2,
+      0,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 7,
+    "proposal_order": [
+      2,
+      0,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 8,
+    "proposal_order": [
+      1,
+      0,
+      2
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 9,
+    "proposal_order": [
+      1,
+      0,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 10,
+    "proposal_order": [
+      1,
+      0,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 11,
+    "proposal_order": [
+      2,
+      0,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 12,
+    "proposal_order": [
+      0,
+      4,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 13,
+    "proposal_order": [
+      3,
+      0,
+      2
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 14,
+    "proposal_order": [
+      1,
+      0,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 15,
+    "proposal_order": [
+      2,
+      0,
+      6
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 16,
+    "proposal_order": [
+      2,
+      0,
+      6
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 17,
+    "proposal_order": [
+      1,
+      0,
+      7
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 18,
+    "proposal_order": [
+      1,
+      2,
+      0
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 19,
+    "proposal_order": [
+      2,
+      1,
+      0
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 20,
+    "proposal_order": [
+      2,
+      0,
+      1
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 21,
+    "proposal_order": [
+      2,
+      1,
+      0
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 22,
+    "proposal_order": [
+      2,
+      1,
+      0
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 23,
+    "proposal_order": [
+      2,
+      1,
+      6
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 24,
+    "proposal_order": [
+      5,
+      3,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 25,
+    "proposal_order": [
+      3,
+      1,
+      2
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 26,
+    "proposal_order": [
+      4,
+      1,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 27,
+    "proposal_order": [
+      3,
+      4,
+      1
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 28,
+    "proposal_order": [
+      3,
+      4,
+      1
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 29,
+    "proposal_order": [
+      5,
+      3,
+      1
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 30,
+    "proposal_order": [
+      6,
+      3,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 31,
+    "proposal_order": [
+      2,
+      1,
+      6
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 32,
+    "proposal_order": [
+      1,
+      2,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 33,
+    "proposal_order": [
+      2,
+      1,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 34,
+    "proposal_order": [
+      2,
+      1,
+      6
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 35,
+    "proposal_order": [
+      1,
+      0,
+      6
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 36,
+    "proposal_order": [
+      0,
+      2,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 37,
+    "proposal_order": [
+      1,
+      0,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 38,
+    "proposal_order": [
+      3,
+      0,
+      7
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 39,
+    "proposal_order": [
+      1,
+      0,
+      8
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 40,
+    "proposal_order": [
+      1,
+      0,
+      8
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 41,
+    "proposal_order": [
+      1,
+      2,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 42,
+    "proposal_order": [
+      2,
+      1,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 43,
+    "proposal_order": [
+      2,
+      1,
+      7
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 44,
+    "proposal_order": [
+      2,
+      1,
+      6
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 45,
+    "proposal_order": [
+      2,
+      1,
+      6
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 46,
+    "proposal_order": [
+      2,
+      1,
+      6
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 47,
+    "proposal_order": [
+      2,
+      0,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 48,
+    "proposal_order": [
+      2,
+      0,
+      6
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 49,
+    "proposal_order": [
+      1,
+      0,
+      7
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 50,
+    "proposal_order": [
+      2,
+      6,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 51,
+    "proposal_order": [
+      2,
+      5,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 52,
+    "proposal_order": [
+      2,
+      5,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 53,
+    "proposal_order": [
+      2,
+      5,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 54,
+    "proposal_order": [
+      2,
+      5,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 55,
+    "proposal_order": [
+      2,
+      4,
+      0
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 56,
+    "proposal_order": [
+      0,
+      1,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 57,
+    "proposal_order": [
+      1,
+      6,
+      2
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 58,
+    "proposal_order": [
+      1,
+      6,
+      2
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 59,
+    "proposal_order": [
+      1,
+      2,
+      6
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 60,
+    "proposal_order": [
+      1,
+      5,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 61,
+    "proposal_order": [
+      1,
+      3,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 62,
+    "proposal_order": [
+      1,
+      2,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 63,
+    "proposal_order": [
+      0,
+      2,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 64,
+    "proposal_order": [
+      0,
+      2,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 65,
+    "proposal_order": [
+      3,
+      2,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 66,
+    "proposal_order": [
+      0,
+      4,
+      6
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 67,
+    "proposal_order": [
+      0,
+      7,
+      6
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 68,
+    "proposal_order": [
+      2,
+      4,
+      6
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 69,
+    "proposal_order": [
+      0,
+      4,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 70,
+    "proposal_order": [
+      0,
+      4,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 71,
+    "proposal_order": [
+      1,
+      6,
+      7
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 72,
+    "proposal_order": [
+      3,
+      0,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 73,
+    "proposal_order": [
+      3,
+      2,
+      7
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 74,
+    "proposal_order": [
+      3,
+      2,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 75,
+    "proposal_order": [
+      3,
+      6,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 76,
+    "proposal_order": [
+      3,
+      6,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 77,
+    "proposal_order": [
+      4,
+      6,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 78,
+    "proposal_order": [
+      4,
+      3,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 79,
+    "proposal_order": [
+      3,
+      5,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 80,
+    "proposal_order": [
+      3,
+      4,
+      2
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 81,
+    "proposal_order": [
+      2,
+      3,
+      1
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 82,
+    "proposal_order": [
+      2,
+      3,
+      1
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 83,
+    "proposal_order": [
+      3,
+      4,
+      0
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 84,
+    "proposal_order": [
+      3,
+      1,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 85,
+    "proposal_order": [
+      4,
+      1,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 86,
+    "proposal_order": [
+      4,
+      7,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 87,
+    "proposal_order": [
+      8,
+      6,
+      2
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 88,
+    "proposal_order": [
+      8,
+      9,
+      6
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 89,
+    "proposal_order": [
+      4,
+      3,
+      6
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 90,
+    "proposal_order": [
+      6,
+      5,
+      2
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 91,
+    "proposal_order": [
+      2,
+      4,
+      1
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 92,
+    "proposal_order": [
+      2,
+      4,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 93,
+    "proposal_order": [
+      4,
+      2,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 94,
+    "proposal_order": [
+      4,
+      2,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 95,
+    "proposal_order": [
+      4,
+      2,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 96,
+    "proposal_order": [
+      2,
+      4,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 97,
+    "proposal_order": [
+      2,
+      5,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 98,
+    "proposal_order": [
+      3,
+      2,
+      1
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 99,
+    "proposal_order": [
+      3,
+      2,
+      1
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 100,
+    "proposal_order": [
+      3,
+      2,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 101,
+    "proposal_order": [
+      3,
+      4,
+      2
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 102,
+    "proposal_order": [
+      4,
+      3,
+      2
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 103,
+    "proposal_order": [
+      3,
+      4,
+      2
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 104,
+    "proposal_order": [
+      2,
+      4,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 105,
+    "proposal_order": [
+      5,
+      3,
+      2
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 106,
+    "proposal_order": [
+      5,
+      3,
+      2
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 107,
+    "proposal_order": [
+      3,
+      2,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 108,
+    "proposal_order": [
+      3,
+      6,
+      1
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 109,
+    "proposal_order": [
+      4,
+      5,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 110,
+    "proposal_order": [
+      3,
+      2,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 111,
+    "proposal_order": [
+      3,
+      0,
+      2
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 112,
+    "proposal_order": [
+      3,
+      0,
+      2
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 113,
+    "proposal_order": [
+      4,
+      3,
+      0
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 114,
+    "proposal_order": [
+      3,
+      0,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 115,
+    "proposal_order": [
+      1,
+      5,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 116,
+    "proposal_order": [
+      2,
+      5,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 117,
+    "proposal_order": [
+      4,
+      3,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 118,
+    "proposal_order": [
+      4,
+      3,
+      2
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 119,
+    "proposal_order": [
+      6,
+      3,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 120,
+    "proposal_order": [
+      2,
+      6,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 121,
+    "proposal_order": [
+      1,
+      4,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 122,
+    "proposal_order": [
+      1,
+      5,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 123,
+    "proposal_order": [
+      1,
+      6,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 124,
+    "proposal_order": [
+      1,
+      6,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 125,
+    "proposal_order": [
+      3,
+      4,
+      2
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 126,
+    "proposal_order": [
+      1,
+      6,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 127,
+    "proposal_order": [
+      2,
+      7,
+      6
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 128,
+    "proposal_order": [
+      1,
+      5,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 129,
+    "proposal_order": [
+      0,
+      7,
+      6
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 130,
+    "proposal_order": [
+      0,
+      7,
+      6
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 131,
+    "proposal_order": [
+      0,
+      6,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 132,
+    "proposal_order": [
+      0,
+      7,
+      6
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 133,
+    "proposal_order": [
+      0,
+      5,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 134,
+    "proposal_order": [
+      0,
+      5,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 135,
+    "proposal_order": [
+      0,
+      5,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 136,
+    "proposal_order": [
+      0,
+      5,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 137,
+    "proposal_order": [
+      0,
+      6,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 138,
+    "proposal_order": [
+      6,
+      5,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 139,
+    "proposal_order": [
+      5,
+      4,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 140,
+    "proposal_order": [
+      3,
+      5,
+      1
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 141,
+    "proposal_order": [
+      3,
+      6,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 142,
+    "proposal_order": [
+      3,
+      6,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 143,
+    "proposal_order": [
+      2,
+      7,
+      6
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 144,
+    "proposal_order": [
+      1,
+      5,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 145,
+    "proposal_order": [
+      0,
+      3,
+      6
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 146,
+    "proposal_order": [
+      1,
+      3,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 147,
+    "proposal_order": [
+      2,
+      3,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 148,
+    "proposal_order": [
+      2,
+      3,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 149,
+    "proposal_order": [
+      1,
+      4,
+      0
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 150,
+    "proposal_order": [
+      3,
+      5,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 151,
+    "proposal_order": [
+      3,
+      4,
+      2
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 152,
+    "proposal_order": [
+      1,
+      4,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 153,
+    "proposal_order": [
+      0,
+      4,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 154,
+    "proposal_order": [
+      0,
+      4,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 155,
+    "proposal_order": [
+      0,
+      4,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 156,
+    "proposal_order": [
+      1,
+      4,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 157,
+    "proposal_order": [
+      2,
+      4,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 158,
+    "proposal_order": [
+      2,
+      4,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 159,
+    "proposal_order": [
+      2,
+      4,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 160,
+    "proposal_order": [
+      2,
+      4,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 161,
+    "proposal_order": [
+      0,
+      5,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 162,
+    "proposal_order": [
+      1,
+      4,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 163,
+    "proposal_order": [
+      1,
+      4,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 164,
+    "proposal_order": [
+      2,
+      4,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 165,
+    "proposal_order": [
+      3,
+      2,
+      1
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 166,
+    "proposal_order": [
+      3,
+      2,
+      1
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 167,
+    "proposal_order": [
+      1,
+      4,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 168,
+    "proposal_order": [
+      0,
+      4,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 169,
+    "proposal_order": [
+      1,
+      4,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 170,
+    "proposal_order": [
+      2,
+      5,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 171,
+    "proposal_order": [
+      2,
+      3,
+      1
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 172,
+    "proposal_order": [
+      2,
+      3,
+      1
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 173,
+    "proposal_order": [
+      2,
+      1,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 174,
+    "proposal_order": [
+      1,
+      2,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 175,
+    "proposal_order": [
+      1,
+      3,
+      2
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 176,
+    "proposal_order": [
+      2,
+      3,
+      1
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 177,
+    "proposal_order": [
+      3,
+      2,
+      1
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 178,
+    "proposal_order": [
+      3,
+      2,
+      1
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 179,
+    "proposal_order": [
+      7,
+      6,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 180,
+    "proposal_order": [
+      4,
+      3,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 181,
+    "proposal_order": [
+      4,
+      2,
+      6
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 182,
+    "proposal_order": [
+      7,
+      5,
+      6
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 183,
+    "proposal_order": [
+      3,
+      4,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 184,
+    "proposal_order": [
+      3,
+      4,
+      2
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 185,
+    "proposal_order": [
+      3,
+      4,
+      2
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 186,
+    "proposal_order": [
+      5,
+      4,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 187,
+    "proposal_order": [
+      4,
+      1,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 188,
+    "proposal_order": [
+      5,
+      3,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 189,
+    "proposal_order": [
+      4,
+      2,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 190,
+    "proposal_order": [
+      3,
+      4,
+      2
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 191,
+    "proposal_order": [
+      3,
+      4,
+      2
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 192,
+    "proposal_order": [
+      2,
+      3,
+      1
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 193,
+    "proposal_order": [
+      1,
+      3,
+      2
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 194,
+    "proposal_order": [
+      2,
+      3,
+      1
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 195,
+    "proposal_order": [
+      2,
+      3,
+      1
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 196,
+    "proposal_order": [
+      2,
+      4,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 197,
+    "proposal_order": [
+      2,
+      4,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 198,
+    "proposal_order": [
+      4,
+      0,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 199,
+    "proposal_order": [
+      4,
+      2,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 200,
+    "proposal_order": [
+      3,
+      2,
+      5
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 201,
+    "proposal_order": [
+      3,
+      2,
+      6
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 202,
+    "proposal_order": [
+      2,
+      4,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 203,
+    "proposal_order": [
+      2,
+      4,
+      3
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 204,
+    "proposal_order": [
+      2,
+      3,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 205,
+    "proposal_order": [
+      2,
+      6,
+      4
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  },
+  {
+    "frame": 206,
+    "proposal_order": [
+      2,
+      3,
+      1
+    ],
+    "ranker": "red-pixel ordering for visual review only, NOT GT or tracking input"
+  }
+]

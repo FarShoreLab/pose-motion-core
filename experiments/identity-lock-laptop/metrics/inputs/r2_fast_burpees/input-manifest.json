@@ -1,0 +1,49 @@
+{
+  "name": "r2_fast_burpees",
+  "category": "fast",
+  "filename": "Jumping_jacks_and_burpees.webm",
+  "start": 8,
+  "duration": 10,
+  "source_page": "https://commons.wikimedia.org/wiki/File:Jumping_jacks_and_burpees.webm",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Jumping_jacks_and_burpees.webm",
+  "author": "Taco fleur (Cavemantraining)",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "motion": "jumping jacks and burpees; rapid pose changes",
+  "camera": "visually fixed camera; explicit static assumption, no calibration",
+  "estimate_camera": false,
+  "source_note": "Original 640x480 retained; 29.97 fps metadata, actual millisecond PTS audited.",
+  "source": "Jumping_jacks_and_burpees.webm",
+  "source_stream": {
+    "width": 640,
+    "height": 480,
+    "fps_rational": "2997/100",
+    "fps": 29.97,
+    "fps_field": "average_rate",
+    "codec": "vp8"
+  },
+  "source_frames": 1356,
+  "source_video_duration_seconds": 45.24536670003337,
+  "source_first_pts_seconds": 0.003,
+  "original_first_pts_seconds": 0.003,
+  "source_start_normalized_seconds": 8,
+  "duration_seconds": 10,
+  "source_sha256": "1c8370a29c52b5b1538f03f8c63be6cdc9333dea3cbd77cc8f2af0dbe496d5b4",
+  "source_fps": 29.97,
+  "input_fps": 30,
+  "input_frames": 300,
+  "unique_source_frames": 296,
+  "selected_source_frame_range_inclusive": [
+    240,
+    538
+  ],
+  "max_absolute_sampling_error_ms": 17.0,
+  "input_sha256": "77c6a3304d2f0038c768acdf3ec862785215d088721800048c116a6798eb2a68",
+  "changes": [
+    "audio removed",
+    "nearest source PTS sampled to 30 fps; ties choose earlier",
+    "H264 CRF18; original dimensions retained; no interpolation"
+  ],
+  "preparation_seconds": 2.5417286000447348,
+  "evaluation_mode": "offline file processing; not a realtime or 3D-accuracy measurement"
+}
