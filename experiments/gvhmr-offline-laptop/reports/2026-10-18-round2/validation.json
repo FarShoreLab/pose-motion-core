@@ -1,0 +1,15 @@
+{
+  "clips": 7,
+  "total_input_frames": 1641,
+  "source_files": 6,
+  "paired_input_hashes_verified": true,
+  "timestamps_and_lengths_verified": true,
+  "gvhmr_all_arrays_finite": true,
+  "ground_truth_available": false,
+  "thresholds": {
+    "joint_jump_review_m_per_30fps_frame": 0.2,
+    "hip_axis_review_deg_per_frame": 45,
+    "major_joint_min_visibility_presence": 0.5
+  },
+  "interpretation": "Flags identify review locations, not accuracy errors. Faster or smoother outputs are not proof of better 3D reconstruction. Different-person cases invalidate pointwise cross-method interpretation."
+}

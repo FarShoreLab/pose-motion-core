@@ -1,0 +1,72 @@
+[
+  {
+    "file": "hmr4d/__init__.py",
+    "before_sha256": "e8d5a02665929d49155d00e4eac5719e4d23d2446d89aae5fef2431962f260f4",
+    "after_sha256": "46f6bb075129b9ece548d2cb3c0d88e43d79a094c3d58dda79afd676ad6da162"
+  },
+  {
+    "file": "hmr4d/model/gvhmr/gvhmr_pl_demo.py",
+    "before_sha256": "0e866c8f486b46ab7fe3a67bd956e6a84a1212f17d3773f0de163dbfd384f250",
+    "after_sha256": "27050fcc51a3d94f5bb6a69570ae52d7fc666688042cf50ee587f6eb41533c97"
+  },
+  {
+    "file": "hmr4d/network/hmr2/__init__.py",
+    "before_sha256": "4cd96c68e3ccbb0ef56a5d2dac9213c0f3eba8aa8ff21a7013f7e657550bdfb0",
+    "after_sha256": "ad351cea078d46a8aea05f8fce1bce2aa8cef871a38a9780f5daefdde8a65f55"
+  },
+  {
+    "file": "hmr4d/network/hmr2/smpl_head.py",
+    "before_sha256": "72008bf76b23793ba501cae30df95adc1b36142759fab8a0dc3b89bf148b8de5",
+    "after_sha256": "2550cd08d840d21336a3df81cab8c9f8f9d624668dee0652a2c4b9ad7b4a1b9d"
+  },
+  {
+    "file": "hmr4d/utils/body_model/smplx_lite.py",
+    "before_sha256": "f64ce5c324ab406b90de98ad89bb616194412daa9dc0100e5a7c860947fb92d1",
+    "after_sha256": "3b9e2a839d53de77b08a3b8b4bd5d91b04ea24e59ce88962dfa9a103b7115c5e"
+  },
+  {
+    "file": "hmr4d/utils/geo_transform.py",
+    "before_sha256": "36bd9bfb09c324ce67356ebf3b41440646580b0be4ef19555ff8065f37f92afa",
+    "after_sha256": "0ea80e2ef9ff4a4da07e46b7d6d18b1dc36e155a923784271d114cbbbcf1567b"
+  },
+  {
+    "file": "hmr4d/utils/preproc/__init__.py",
+    "before_sha256": "1ecb4e4dfe59b5326e67ea35e96cbc9e6ce6272dabb545c8778326a4e4315f15",
+    "after_sha256": "09aecba9ff3ef9c888fc6ed27eec7607edea2857521ce64af4b2eb1492dd2fe9"
+  },
+  {
+    "file": "hmr4d/utils/preproc/tracker.py",
+    "before_sha256": "0b32eeaddbdd7425a262266761968c50d8ebe7da4d1b5019a8a84c34f773e6f8",
+    "after_sha256": "6436af090e322056409cfba636c5dd4f84af768f95d432c415934cd568c3d902"
+  },
+  {
+    "file": "hmr4d/utils/preproc/vitfeat_extractor.py",
+    "before_sha256": "c6cb61ba4b577cadebaf2ba7e35d0456a568edd65a726524ee5b7a5e952fe9de",
+    "after_sha256": "e31a75da4c5eef94338b8727d075a7bf1c50f26132257d46c01b57de71d88d55"
+  },
+  {
+    "file": "hmr4d/utils/preproc/vitpose.py",
+    "before_sha256": "0cf3561d064b3f6467d035f872df37a6628325c28ca2285d1683de3e660bd185",
+    "after_sha256": "03f0ae1a9ad8fa1a4c135b4e71eb9e00952b2d099cdaf96469469651626122f3"
+  },
+  {
+    "file": "hmr4d/utils/preproc/vitpose_pytorch/src/vitpose_infer/model_builder.py",
+    "before_sha256": "97cb0e67a9f7344d523ebb75e411a4ddef21d72c42676bfccbf2b77323a37f8f",
+    "after_sha256": "4122a32a94fc33eb41f37aaf974c89da397bd06edc53562da1e1abeae73fb2ff"
+  },
+  {
+    "file": "hmr4d/utils/preproc/vitpose_pytorch/src/vitpose_infer/pose_utils/pose_viz.py",
+    "before_sha256": "781529fb620ad55659d96e014952eab360941fc8b9a0ae1345b8637af18c39d8",
+    "after_sha256": "663eeadc4f0b3c98e1d87334ce79a04a82b17772bfc8d209dfd7ecaf108cb7fa"
+  },
+  {
+    "file": "hmr4d/utils/smplx_utils.py",
+    "before_sha256": "e4f9a663a0680d05101bfd47e049e22553f020190df65d203007f0c4ce4f6d78",
+    "after_sha256": "e361dd2e04eef08f57495dca5dd270652458ad2714289ed5eec3dc5b5880ec09"
+  },
+  {
+    "file": "hmr4d/utils/wis3d_utils.py",
+    "before_sha256": "388be6be8f7a028bd639a4fcf152f8a11274c838950dc9bf67b6f17968b3ef19",
+    "after_sha256": "d320eefa3891480ee2f1ecd673fe76c2605245b2ea09a075f02bc9c79fbfd8d8"
+  }
+]

@@ -1,0 +1,183 @@
+{
+  "allowlisted_files": 34,
+  "total_bytes": 1398852,
+  "pretrained_weights_body_models_media_private_configs_excluded": true,
+  "known_credential_pattern_and_personal_path_scan_passed": true,
+  "new_python_syntax_passed": true,
+  "scope": "Explicit publication allowlist and known-pattern audit; not a proof of universal secret absence",
+  "files": [
+    {
+      "path": "experiments/gvhmr-offline-laptop/README-zh.md",
+      "bytes": 4640,
+      "sha256": "47ccb64fc683c8defbcadecde71261e64fa97bf4a41d15edf2fd2e8c97fa52fd"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/patches/GVHMR-LICENSE.txt",
+      "bytes": 768,
+      "sha256": "57c994b3417515f2fa311937da8ff270f00ab2ddac7d3ae52c8a72d6794f09cc"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/patches/laptop-adapter.patch",
+      "bytes": 24490,
+      "sha256": "25561b1a9471c96aba29f6b526032500efda248365603a1b4f4569350b909981"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/provenance/gvhmr-requirements-resolved.txt",
+      "bytes": 1792,
+      "sha256": "8ab3b1a9f917321f97cfaf3cfb17eae3a8b59b02b7aee6143a5619c8360aacd7"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/provenance/laptop-adapter-files.json",
+      "bytes": 3392,
+      "sha256": "d7d529f291fa5a2c36838638fe213e9969c0aeeb1fc2b789810424fa05b29059"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/provenance/mediapipe-requirements-resolved.txt",
+      "bytes": 607,
+      "sha256": "a02806098e788528f128f903585d6a15657c4478e88659745d4e7d6c2c024e46"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/provenance/model-assets.json",
+      "bytes": 2677,
+      "sha256": "95bd46679bf92b000976f3051f7966dbb1a4799ed1401ab2f96762293891ec8d"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/scripts_v2/analyze_round2.py",
+      "bytes": 11119,
+      "sha256": "1937780aebaf7346201c0a073108e277cb8cb89a8d668be34ba0efedd0356aac"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/scripts_v2/build_round2_report.py",
+      "bytes": 11821,
+      "sha256": "5a0e390699d30f8c72b6927fef222134ba33c6681a5a97c57ee7ce2511bafc2e"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/scripts_v2/clips.json",
+      "bytes": 5093,
+      "sha256": "46946a949ad38db26fa2672dab2aaf6454d9176ef7279bb49a8467fa139d69c1"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/scripts_v2/draw_architecture.py",
+      "bytes": 5760,
+      "sha256": "b323e08c571c9120a832f643aac40775801d623da9ed8d83002aa2eaf5b0df4e"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/scripts_v2/isolate_env.py",
+      "bytes": 1204,
+      "sha256": "4c00dee12bf0f0e0e9a6b0970c0d08a708ee82de17ca2cfb1f3127a899c93938"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/scripts_v2/prepare_clip.py",
+      "bytes": 4119,
+      "sha256": "ca69d81d3cc3535c8f52699a1be537cca964193de65b0db6212636de13d5d88f"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/scripts_v2/render_delivery.py",
+      "bytes": 6112,
+      "sha256": "8bd89af1b965940cf30eb2ec04079093c600295ac5789ae8e50f6e8cdcaceabe"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/scripts_v2/render_review.py",
+      "bytes": 11982,
+      "sha256": "59564a78ee42eb6dbab3bb8fe5f0dfac73f210cdd023e94a82aace1ac5cdb024"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/scripts_v2/run_mediapipe.py",
+      "bytes": 3643,
+      "sha256": "ef1dc135646dbb8e6f858a2da55ccd9b7d256b17124f6f0cf9afb44d5fdbc5e4"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/scripts_v2/run_suite.py",
+      "bytes": 6621,
+      "sha256": "3934796d0c2734dba64693703fc4e035ac665371c83d653bb043959774baee93"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/scripts_v2/stage_gvhmr.py",
+      "bytes": 14241,
+      "sha256": "5212485a8bf00e6748b4b243e241f5a80b4c35400120602922c82c64755f0ab9"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/reports/2026-10-18-round2/architecture-code-evidence.json",
+      "bytes": 2934,
+      "sha256": "d4caeff10efac015c572c014e7cb2ce4becde9060fffdb50343f6be8ae7bff7d"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/reports/2026-10-18-round2/architecture.png",
+      "bytes": 461100,
+      "sha256": "50ff7f7894ecb94e4af3506a398f3da82e50b95419424b2e433ef9d9eca19016"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/reports/2026-10-18-round2/architecture.svg",
+      "bytes": 330108,
+      "sha256": "c03f389a85347640c33877af4cd8ebac0c4508e248b98f48ae850e82f9e37b54"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/reports/2026-10-18-round2/delivery-videos.json",
+      "bytes": 3710,
+      "sha256": "cc170a4e2c98cc035a9199ac83091795b0cb1bc7f44ef519fe67cacafa473f4b"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/reports/2026-10-18-round2/environment-isolation-verification.json",
+      "bytes": 399,
+      "sha256": "0efd348e27f3499b7f1fa647ce71eb77d1d88d5ad5f1abe67b6afa2687216613"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/reports/2026-10-18-round2/metrics-full.json",
+      "bytes": 171326,
+      "sha256": "f9855b5e9af76f0424fb125a3559f3224276a8d63f5944d63a65de7617881a56"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/reports/2026-10-18-round2/metrics-summary.csv",
+      "bytes": 1216,
+      "sha256": "9e8c43a3512e5bf218207b1be700aca4f02eeb0e787a8b33cd602f27e153a6bb"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/reports/2026-10-18-round2/patch-validation.json",
+      "bytes": 3044,
+      "sha256": "bcaec7f99d0b16ef061f7d0523f54feb8427eab1d785434e69fa224e21f7c12f"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/reports/2026-10-18-round2/README-zh.md",
+      "bytes": 9416,
+      "sha256": "6301ad1b34def04732f1f9bd068178d475066e3d5bf7e6a135f3ec331b17874c"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/reports/2026-10-18-round2/review-events.csv",
+      "bytes": 265521,
+      "sha256": "566d3a2617fa8e74f811f92fe4b4c15855f81447e845f1e456a386ed8b36f24f"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/reports/2026-10-18-round2/sources-and-sampling.json",
+      "bytes": 14515,
+      "sha256": "2ea62673be2c64bd964e39a5c5a63dad2339790441bec527291b32ac4ca6e508"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/reports/2026-10-18-round2/stage-timings.csv",
+      "bytes": 3186,
+      "sha256": "5307cbecc53a54870c822f3a9170a710c591f3ec4305d22e3edf006f7c834d8d"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/reports/2026-10-18-round2/validation.json",
+      "bytes": 613,
+      "sha256": "a64cc53dad027eb9565111b48f5e70cf4ed01d4a6156248009f539f582c481df"
+    },
+    {
+      "path": "docs/ARCHITECTURE-2026-10-18-zh.md",
+      "bytes": 8414,
+      "sha256": "7b884778f1f3c76892b1a097cc905241fd6b4e80f1aebedccbe8e5b1d511d2c3"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3117,
+      "sha256": "c30542be9f4fd1e8b98b35bd5e728d891eabfe1ce663b1763433aa3009ec7b03"
+    },
+    {
+      "path": "experiments/gvhmr-offline-laptop/reports/2026-10-18-round2/baseline-verification.json",
+      "bytes": 152,
+      "sha256": "877f3fd644ef40524d08341effd9cb35c9c9e43718d628b2dad5e951407d1902"
+    }
+  ],
+  "baseline_archival_files_unchanged": 170,
+  "json_parse_passed": true,
+  "audit_excludes_own_bytes": true
+}

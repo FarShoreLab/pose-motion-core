@@ -1,0 +1,79 @@
+[
+  {
+    "clip": "r2_slow_overhead",
+    "filename": "r2_slow_overhead-raw-and-post.mp4",
+    "frames": 240,
+    "duration_seconds": 8.0,
+    "render_and_decode_validation_seconds": 4.233861000044271,
+    "source": "https://commons.wikimedia.org/wiki/File:Overhead_Kettlebell_Squat.webm",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "trimmed, nearest-PTS30fps sampling, re-encoded, pose overlays and separate3D views; aspect ratio preserved"
+  },
+  {
+    "clip": "r2_slow_singleleg",
+    "filename": "r2_slow_singleleg-raw-and-post.mp4",
+    "frames": 210,
+    "duration_seconds": 7.0,
+    "render_and_decode_validation_seconds": 3.3114268999779597,
+    "source": "https://commons.wikimedia.org/wiki/File:Basic_single_leg_squat.webm",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "trimmed, nearest-PTS30fps sampling, re-encoded, pose overlays and separate3D views; aspect ratio preserved"
+  },
+  {
+    "clip": "r2_fast_burpees",
+    "filename": "r2_fast_burpees-raw-and-post.mp4",
+    "frames": 300,
+    "duration_seconds": 10.0,
+    "render_and_decode_validation_seconds": 5.257734299986623,
+    "source": "https://commons.wikimedia.org/wiki/File:Jumping_jacks_and_burpees.webm",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "trimmed, nearest-PTS30fps sampling, re-encoded, pose overlays and separate3D views; aspect ratio preserved"
+  },
+  {
+    "clip": "r2_fast_basketball",
+    "filename": "r2_fast_basketball-raw-and-post.mp4",
+    "frames": 204,
+    "duration_seconds": 6.8,
+    "render_and_decode_validation_seconds": 4.422902700025588,
+    "source": "https://commons.wikimedia.org/wiki/File:Basketball_(1).ogv",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "trimmed, nearest-PTS30fps sampling, re-encoded, pose overlays and separate3D views; aspect ratio preserved"
+  },
+  {
+    "clip": "r2_turn_ballet_a",
+    "filename": "r2_turn_ballet_a-raw-and-post.mp4",
+    "frames": 240,
+    "duration_seconds": 8.0,
+    "render_and_decode_validation_seconds": 4.581667100079358,
+    "source": "https://commons.wikimedia.org/wiki/File:Grands_battements_et_pirouettes.ogv",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "trimmed, nearest-PTS30fps sampling, re-encoded, pose overlays and separate3D views; aspect ratio preserved"
+  },
+  {
+    "clip": "r2_turn_ballet_b",
+    "filename": "r2_turn_ballet_b-raw-and-post.mp4",
+    "frames": 240,
+    "duration_seconds": 8.0,
+    "render_and_decode_validation_seconds": 4.606008099974133,
+    "source": "https://commons.wikimedia.org/wiki/File:Grands_battements_et_pirouettes.ogv",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "trimmed, nearest-PTS30fps sampling, re-encoded, pose overlays and separate3D views; aspect ratio preserved"
+  },
+  {
+    "clip": "r2_occlusion_basketball",
+    "filename": "r2_occlusion_basketball-raw-and-post.mp4",
+    "frames": 207,
+    "duration_seconds": 6.9,
+    "render_and_decode_validation_seconds": 4.1100072000408545,
+    "source": "https://commons.wikimedia.org/wiki/File:Basketball_(4).ogv",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "trimmed, nearest-PTS30fps sampling, re-encoded, pose overlays and separate3D views; aspect ratio preserved"
+  }
+]

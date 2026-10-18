@@ -1,0 +1,56 @@
+{
+  "baseline_commit": "e9d7eb38f24f901d7935fde0e3da4907b9a562a9",
+  "new_branch": "research/gvhmr-expanded-2026-10-18",
+  "initial_local_and_remote_branches": [
+    "main",
+    "origin/main"
+  ],
+  "historical_directories_are_not_git_branches": true,
+  "module_copy_comparisons": [
+    {
+      "baseline_path": "baselines/v5.2/pose-v52/public/joint-policy.js",
+      "v6_path": "experiments/pose-ik-v6/live-app/pose-v52/public/joint-policy.js",
+      "baseline_sha256": "dccd9be314ee1f23ee2b93855df9b6c8054fa791c115b17e67edafdda8175a73",
+      "v6_sha256": "dccd9be314ee1f23ee2b93855df9b6c8054fa791c115b17e67edafdda8175a73",
+      "identical_bytes": true,
+      "relationship": "independent copied files; not shared cross-directory imports"
+    },
+    {
+      "baseline_path": "baselines/v5.2/pose-v52/public/joint-policy-v4.js",
+      "v6_path": "experiments/pose-ik-v6/live-app/pose-v52/public/joint-policy-v4.js",
+      "baseline_sha256": "0385f6c8758f323f45a02a8185ee46d4e41618186a4ca24e0fc7e7a5227d78ed",
+      "v6_sha256": "0385f6c8758f323f45a02a8185ee46d4e41618186a4ca24e0fc7e7a5227d78ed",
+      "identical_bytes": true,
+      "relationship": "independent copied files; not shared cross-directory imports"
+    },
+    {
+      "baseline_path": "baselines/v5.2/pose-v52/public/frame-queue.js",
+      "v6_path": "experiments/pose-ik-v6/live-app/pose-v52/public/frame-queue.js",
+      "baseline_sha256": "cefb640a0adc95c362038b3864fd9256ef4ab5e36e1c6a63f34069bbc4f733e3",
+      "v6_sha256": "cefb640a0adc95c362038b3864fd9256ef4ab5e36e1c6a63f34069bbc4f733e3",
+      "identical_bytes": true,
+      "relationship": "independent copied files; not shared cross-directory imports"
+    },
+    {
+      "baseline_path": "baselines/v5.2/pose-v52/public/seamless-source.js",
+      "v6_path": "experiments/pose-ik-v6/live-app/pose-v52/public/seamless-source.js",
+      "baseline_sha256": "61de94f6a41a89e666580ff38696989eed2f3eaf26af446158fe50d869a1a042",
+      "v6_sha256": "61de94f6a41a89e666580ff38696989eed2f3eaf26af446158fe50d869a1a042",
+      "identical_bytes": true,
+      "relationship": "independent copied files; not shared cross-directory imports"
+    },
+    {
+      "baseline_path": "baselines/v5.2/pose-v52/public/pose-worker.js",
+      "v6_path": "experiments/pose-ik-v6/live-app/pose-v52/public/pose-worker.js",
+      "baseline_sha256": "e7a2cd8cf823f5ed348e387c58a36fcef537f3e5c18f8bbbdfba109d84b94da2",
+      "v6_sha256": "87280a46dd5e166853202fc890d77dc62ca1bdaa2610c9ca78fcc9f8337d0048",
+      "identical_bytes": false,
+      "relationship": "independent copied files; not shared cross-directory imports"
+    },
+    {
+      "v4_policy_to_v52_copy_identical": true
+    }
+  ],
+  "upstream_gvhmr_commit": "ee960bb6e2ea2d381aa97f08e9b71ef320b624b1",
+  "diagram_generated_from": "draw_architecture.py; manually traced actual entry points; not inferred from version labels"
+}

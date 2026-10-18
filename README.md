@@ -37,3 +37,7 @@ python3 scripts/run_checks.py
 4. Git 快照只记录这次真实备份；没有原 Git 历史。若附带 bundle，可用 `git clone pose-motion-core.bundle restored-pose-motion-core` 恢复。ZIP 的源码目录不含 `.git`，bundle 另保留该次提交。
 
 算法边界见 `docs/ALGORITHM.md`，依赖与权利边界见 `docs/THIRD_PARTY.md`。本次未选择或授予新的开源许可证。
+
+## 2026-10-18：离线评测与架构梳理
+
+新增 [七段 MediaPipe/GVHMR 实测](experiments/gvhmr-offline-laptop/reports/2026-10-18-round2/README-zh.md)、[复现说明](experiments/gvhmr-offline-laptop/README-zh.md) 和 [实际代码架构](docs/ARCHITECTURE-2026-10-18-zh.md)。本轮共 1,641 帧，保留原始/官方后处理、完整墙钟计时与失败时间点；没有 3D 真值，不声明精度提升。v4/v5.2/v6 归档源码未改，完整视频和原始数据通过独立证据包交付。

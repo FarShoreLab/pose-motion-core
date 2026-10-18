@@ -1,0 +1,76 @@
+{
+  "git_apply_check_passed": true,
+  "applied_to_pristine_pinned_files": true,
+  "checks": [
+    {
+      "file": "hmr4d/__init__.py",
+      "normalized_utf8_sha256": "46f6bb075129b9ece548d2cb3c0d88e43d79a094c3d58dda79afd676ad6da162",
+      "matches_executed_source": true
+    },
+    {
+      "file": "hmr4d/model/gvhmr/gvhmr_pl_demo.py",
+      "normalized_utf8_sha256": "27050fcc51a3d94f5bb6a69570ae52d7fc666688042cf50ee587f6eb41533c97",
+      "matches_executed_source": true
+    },
+    {
+      "file": "hmr4d/network/hmr2/__init__.py",
+      "normalized_utf8_sha256": "ad351cea078d46a8aea05f8fce1bce2aa8cef871a38a9780f5daefdde8a65f55",
+      "matches_executed_source": true
+    },
+    {
+      "file": "hmr4d/network/hmr2/smpl_head.py",
+      "normalized_utf8_sha256": "2550cd08d840d21336a3df81cab8c9f8f9d624668dee0652a2c4b9ad7b4a1b9d",
+      "matches_executed_source": true
+    },
+    {
+      "file": "hmr4d/utils/body_model/smplx_lite.py",
+      "normalized_utf8_sha256": "3b9e2a839d53de77b08a3b8b4bd5d91b04ea24e59ce88962dfa9a103b7115c5e",
+      "matches_executed_source": true
+    },
+    {
+      "file": "hmr4d/utils/geo_transform.py",
+      "normalized_utf8_sha256": "0ea80e2ef9ff4a4da07e46b7d6d18b1dc36e155a923784271d114cbbbcf1567b",
+      "matches_executed_source": true
+    },
+    {
+      "file": "hmr4d/utils/preproc/__init__.py",
+      "normalized_utf8_sha256": "09aecba9ff3ef9c888fc6ed27eec7607edea2857521ce64af4b2eb1492dd2fe9",
+      "matches_executed_source": true
+    },
+    {
+      "file": "hmr4d/utils/preproc/tracker.py",
+      "normalized_utf8_sha256": "6436af090e322056409cfba636c5dd4f84af768f95d432c415934cd568c3d902",
+      "matches_executed_source": true
+    },
+    {
+      "file": "hmr4d/utils/preproc/vitfeat_extractor.py",
+      "normalized_utf8_sha256": "e31a75da4c5eef94338b8727d075a7bf1c50f26132257d46c01b57de71d88d55",
+      "matches_executed_source": true
+    },
+    {
+      "file": "hmr4d/utils/preproc/vitpose.py",
+      "normalized_utf8_sha256": "03f0ae1a9ad8fa1a4c135b4e71eb9e00952b2d099cdaf96469469651626122f3",
+      "matches_executed_source": true
+    },
+    {
+      "file": "hmr4d/utils/preproc/vitpose_pytorch/src/vitpose_infer/model_builder.py",
+      "normalized_utf8_sha256": "4122a32a94fc33eb41f37aaf974c89da397bd06edc53562da1e1abeae73fb2ff",
+      "matches_executed_source": true
+    },
+    {
+      "file": "hmr4d/utils/preproc/vitpose_pytorch/src/vitpose_infer/pose_utils/pose_viz.py",
+      "normalized_utf8_sha256": "663eeadc4f0b3c98e1d87334ce79a04a82b17772bfc8d209dfd7ecaf108cb7fa",
+      "matches_executed_source": true
+    },
+    {
+      "file": "hmr4d/utils/smplx_utils.py",
+      "normalized_utf8_sha256": "e361dd2e04eef08f57495dca5dd270652458ad2714289ed5eec3dc5b5880ec09",
+      "matches_executed_source": true
+    },
+    {
+      "file": "hmr4d/utils/wis3d_utils.py",
+      "normalized_utf8_sha256": "d320eefa3891480ee2f1ecd673fe76c2605245b2ea09a075f02bc9c79fbfd8d8",
+      "matches_executed_source": true
+    }
+  ]
+}
