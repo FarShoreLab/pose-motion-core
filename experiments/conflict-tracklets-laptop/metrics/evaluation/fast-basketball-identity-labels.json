@@ -1,0 +1,4898 @@
+[
+  {
+    "method": "no_conflict_protection",
+    "frame": 0,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 1,
+    "detection_index": 3,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 2,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 3,
+    "detection_index": 3,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 4,
+    "detection_index": 3,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 5,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 6,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 7,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 8,
+    "detection_index": 3,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 9,
+    "detection_index": 3,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 10,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 11,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 12,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 13,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 14,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 15,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 16,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 17,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 18,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 19,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 20,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 21,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 22,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 23,
+    "detection_index": 3,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 24,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 25,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 26,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 27,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 28,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 29,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 30,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 31,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 32,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 33,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 34,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 35,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 36,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 37,
+    "detection_index": 3,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 38,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 39,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 40,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 41,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 42,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 43,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 44,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 45,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 46,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 47,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 48,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 49,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 50,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 51,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 52,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 53,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 54,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 55,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 56,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 57,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 58,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 59,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 60,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 61,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 62,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 63,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 64,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 65,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 66,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 67,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 68,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 69,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 70,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 71,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 72,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 73,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 74,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 75,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 76,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 77,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 78,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 79,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 80,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 81,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 82,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 83,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 84,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 85,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 86,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 87,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 88,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 89,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 90,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 91,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 92,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 93,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 94,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 95,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 96,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 97,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 98,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 99,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 100,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 101,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 102,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 103,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 104,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 105,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 106,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 107,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 108,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 109,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 110,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 111,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 112,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 113,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 114,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 115,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 116,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 117,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 118,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 119,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 120,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 121,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 122,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 123,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 124,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 125,
+    "detection_index": 3,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 126,
+    "detection_index": 3,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 127,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 128,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 129,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 130,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 131,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 132,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 133,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 134,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 135,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 136,
+    "detection_index": 3,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 137,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 138,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 139,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 140,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 141,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 142,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 143,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 144,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 145,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 146,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 147,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 148,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 149,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 150,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 151,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 152,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 153,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 154,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 155,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 156,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 157,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 158,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 159,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 160,
+    "detection_index": 4,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 161,
+    "detection_index": 4,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 162,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 163,
+    "detection_index": 4,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 164,
+    "detection_index": 3,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 165,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 166,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 167,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 168,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 169,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 170,
+    "detection_index": 3,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 171,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 172,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 173,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 174,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 175,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 176,
+    "detection_index": 5,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 177,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 178,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 179,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 180,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 181,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 182,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 183,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 184,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 185,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 186,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 187,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 188,
+    "detection_index": 3,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 189,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 190,
+    "detection_index": 3,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 191,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 192,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 193,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 194,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 195,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 196,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 197,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 198,
+    "detection_index": 3,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 199,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 200,
+    "detection_index": 4,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 201,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 202,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "no_conflict_protection",
+    "frame": 203,
+    "detection_index": 3,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 0,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 1,
+    "detection_index": 3,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 2,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 3,
+    "detection_index": 3,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 4,
+    "detection_index": 3,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 5,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 6,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 7,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 8,
+    "detection_index": 3,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 9,
+    "detection_index": 3,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 10,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 11,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 12,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 13,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 14,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 15,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 16,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 17,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 18,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 19,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 20,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 21,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 22,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 23,
+    "detection_index": 3,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 24,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 25,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 26,
+    "detection_index": 2,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 27,
+    "detection_index": 1,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 28,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 29,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 30,
+    "detection_index": 0,
+    "identity": "pink_target",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 31,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 32,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 33,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 34,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 35,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 36,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 37,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 38,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 39,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 40,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 41,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 42,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 43,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 44,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 45,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 46,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 47,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 48,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 49,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 50,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 51,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 52,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 53,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 54,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 55,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 56,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 57,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 58,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 59,
+    "detection_index": 2,
+    "identity": "wrong_black_person",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 60,
+    "detection_index": 3,
+    "identity": "wrong_black_person",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 61,
+    "detection_index": 2,
+    "identity": "wrong_black_person",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 62,
+    "detection_index": 3,
+    "identity": "wrong_black_person",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 63,
+    "detection_index": 3,
+    "identity": "wrong_black_person",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 64,
+    "detection_index": 2,
+    "identity": "wrong_black_person",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 65,
+    "detection_index": 2,
+    "identity": "wrong_black_person",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 66,
+    "detection_index": 2,
+    "identity": "wrong_black_person",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 67,
+    "detection_index": 2,
+    "identity": "wrong_black_person",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 68,
+    "detection_index": 2,
+    "identity": "wrong_black_person",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 69,
+    "detection_index": 3,
+    "identity": "wrong_black_person",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 70,
+    "detection_index": 2,
+    "identity": "wrong_black_person",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 71,
+    "detection_index": 4,
+    "identity": "wrong_black_person",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 72,
+    "detection_index": 4,
+    "identity": "wrong_black_person",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 73,
+    "detection_index": 4,
+    "identity": "wrong_black_person",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 74,
+    "detection_index": 4,
+    "identity": "wrong_black_person",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 75,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 76,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 77,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 78,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 79,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 80,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 81,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 82,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 83,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 84,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 85,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 86,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 87,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 88,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 89,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 90,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 91,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 92,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 93,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 94,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 95,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 96,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 97,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 98,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 99,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 100,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 101,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 102,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 103,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 104,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 105,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 106,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 107,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 108,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 109,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 110,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 111,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 112,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 113,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 114,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 115,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 116,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 117,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 118,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 119,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 120,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 121,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 122,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 123,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 124,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 125,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 126,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 127,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 128,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 129,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 130,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 131,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 132,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 133,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 134,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 135,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 136,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 137,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 138,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 139,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 140,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 141,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 142,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 143,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 144,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 145,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 146,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 147,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 148,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 149,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 150,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 151,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 152,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 153,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 154,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 155,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 156,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 157,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 158,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 159,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 160,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 161,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 162,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 163,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 164,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 165,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 166,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 167,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 168,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 169,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 170,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 171,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 172,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 173,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 174,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 175,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 176,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 177,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 178,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 179,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 180,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 181,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 182,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 183,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 184,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 185,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 186,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 187,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 188,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 189,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 190,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 191,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 192,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 193,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 194,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 195,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 196,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 197,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 198,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 199,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 200,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 201,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 202,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "causal_conflict_freeze",
+    "frame": 203,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 0,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 1,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 2,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 3,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 4,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 5,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 6,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 7,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 8,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 9,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 10,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 11,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 12,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 13,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 14,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 15,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 16,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 17,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 18,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 19,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 20,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 21,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 22,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 23,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 24,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 25,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 26,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 27,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 28,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 29,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 30,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 31,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 32,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 33,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 34,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 35,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 36,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 37,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 38,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 39,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 40,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 41,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 42,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 43,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 44,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 45,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 46,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 47,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 48,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 49,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 50,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 51,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 52,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 53,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 54,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 55,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 56,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 57,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 58,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 59,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 60,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 61,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 62,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 63,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 64,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 65,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 66,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 67,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 68,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 69,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 70,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 71,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 72,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 73,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 74,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 75,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 76,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 77,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 78,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 79,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 80,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 81,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 82,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 83,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 84,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 85,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 86,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 87,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 88,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 89,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 90,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 91,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 92,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 93,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 94,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 95,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 96,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 97,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 98,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 99,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 100,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 101,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 102,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 103,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 104,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 105,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 106,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 107,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 108,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 109,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 110,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 111,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 112,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 113,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 114,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 115,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 116,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 117,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 118,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 119,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 120,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 121,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 122,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 123,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 124,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 125,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 126,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 127,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 128,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 129,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 130,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 131,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 132,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 133,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 134,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 135,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 136,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 137,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 138,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 139,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 140,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 141,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 142,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 143,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 144,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 145,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 146,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 147,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 148,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 149,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 150,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 151,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 152,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 153,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 154,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 155,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 156,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 157,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 158,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 159,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 160,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 161,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 162,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 163,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 164,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 165,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 166,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 167,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 168,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 169,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 170,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 171,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 172,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 173,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 174,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 175,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 176,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 177,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 178,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 179,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 180,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 181,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 182,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 183,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 184,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 185,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 186,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 187,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 188,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 189,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 190,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 191,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 192,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 193,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 194,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 195,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 196,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 197,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 198,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 199,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 200,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 201,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 202,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  },
+  {
+    "method": "offline_tracklet_reconnect",
+    "frame": 203,
+    "detection_index": null,
+    "identity": "missing",
+    "visual_reviewer": "assistant",
+    "independent_human_ground_truth": false
+  }
+]

@@ -1,0 +1,300 @@
+{
+  "archived_commit": "c76521b983a05d86b684b45d57771c347b5524f0",
+  "old_branch": "research/identity-lock-2026-10-18",
+  "old_outputs_overwritten": false,
+  "library_files": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/basketball-final-annotated-comparison.mp4",
+      "file_id": "file_000000005148820c8706d113bed69a7a",
+      "library_file_id": "libfile_e154366af11081919868f9ed94753748",
+      "file_name": "basketball-final-annotated-comparison.mp4",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0",
+          "result": "set and read back on original uploaded file"
+        }
+      ],
+      "directory_id": "libdir_e2d2d76beda48191a7d0d35c8e697b8c",
+      "mime_type": "video/mp4",
+      "library_artifact_type": "other",
+      "file_size_bytes": 4101778,
+      "local_path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\deliverables\\basketball-final-annotated-comparison.mp4",
+      "sha256": "9092619b729e0c24cf086c3bcc2d73cd45ac77a02fa0f121605886781f75ec73",
+      "download_url": "https://chatgpt.com/api/library/files/libfile_e154366af11081919868f9ed94753748/download",
+      "local_sha256_rechecked": true,
+      "library_identity_and_size_unchanged": true
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/basketball-same-input-six-methods.mp4",
+      "file_id": "file_00000000d7f881fd84024b4bd7e125b0",
+      "library_file_id": "libfile_7a6cbfb2d9d08191be37f6dbe804310c",
+      "file_name": "basketball-same-input-six-methods.mp4",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0",
+          "result": "set and read back on original uploaded file"
+        }
+      ],
+      "directory_id": "libdir_e2d2d76beda48191a7d0d35c8e697b8c",
+      "mime_type": "video/mp4",
+      "library_artifact_type": "other",
+      "file_size_bytes": 5267162,
+      "local_path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\deliverables\\basketball-same-input-six-methods.mp4",
+      "sha256": "1759d3b148f80b34bc140aac0b72af0680b9f4715bb2dcbaaf42ad8d2898a0fa",
+      "download_url": "https://chatgpt.com/api/library/files/libfile_7a6cbfb2d9d08191be37f6dbe804310c/download",
+      "local_sha256_rechecked": true,
+      "library_identity_and_size_unchanged": true
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/six-holdout-tracking-replays.mp4",
+      "file_id": "file_00000000428c8230b7d3d2e51a3ddb18",
+      "library_file_id": "libfile_e659991223b0819189a627a144bf463c",
+      "file_name": "six-holdout-tracking-replays.mp4",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0",
+          "result": "set and read back on original uploaded file"
+        }
+      ],
+      "directory_id": "libdir_e2d2d76beda48191a7d0d35c8e697b8c",
+      "mime_type": "video/mp4",
+      "library_artifact_type": "other",
+      "file_size_bytes": 5747246,
+      "local_path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\deliverables\\six-holdout-tracking-replays.mp4",
+      "sha256": "7709b6bfb6aae2741db35b815f22ecf88eda8c851699c3c2383d933843498ef1",
+      "download_url": "https://chatgpt.com/api/library/files/libfile_e659991223b0819189a627a144bf463c/download",
+      "local_sha256_rechecked": true,
+      "library_identity_and_size_unchanged": true
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/identity-lock-failure-diagnostics-2026-10-18.zip",
+      "file_id": "file_00000000550881fd8d4d1f6341d8e7a4",
+      "library_file_id": "libfile_fdf98ca16aec8191b3054369c7137ef5",
+      "file_name": "identity-lock-failure-diagnostics-2026-10-18.zip",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0",
+          "result": "set and read back on original uploaded file"
+        }
+      ],
+      "directory_id": "libdir_e2d2d76beda48191a7d0d35c8e697b8c",
+      "mime_type": "application/zip",
+      "library_artifact_type": "other",
+      "file_size_bytes": 12004555,
+      "local_path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\deliverables\\identity-lock-failure-diagnostics-2026-10-18.zip",
+      "sha256": "18cfb23663df0807e283b7bb86583e939ef36b513bc23057f452128875bd5d6a",
+      "download_url": "https://chatgpt.com/api/library/files/libfile_fdf98ca16aec8191b3054369c7137ef5/download",
+      "local_sha256_rechecked": true,
+      "library_identity_and_size_unchanged": true
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/identity-lock-visual-review-2026-10-18.zip",
+      "file_id": "file_000000009ba481f8aabc9e18508e9cd2",
+      "library_file_id": "libfile_4b5efb60e7248191931847c238bae357",
+      "file_name": "identity-lock-visual-review-2026-10-18.zip",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0",
+          "result": "set and read back on original uploaded file"
+        }
+      ],
+      "directory_id": "libdir_e2d2d76beda48191a7d0d35c8e697b8c",
+      "mime_type": "application/zip",
+      "library_artifact_type": "other",
+      "file_size_bytes": 13978083,
+      "local_path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\deliverables\\identity-lock-visual-review-2026-10-18.zip",
+      "sha256": "27f7f5449bfb6516adefc692ef7b288ba0190bc96322b5d8b51aa9dbbc7e269d",
+      "download_url": "https://chatgpt.com/api/library/files/libfile_4b5efb60e7248191931847c238bae357/download",
+      "local_sha256_rechecked": true,
+      "library_identity_and_size_unchanged": true
+    }
+  ],
+  "frozen_prior_inputs": [
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\basketball-botsort-gallery-v2\\frame-decisions.jsonl",
+      "bytes": 968869,
+      "sha256": "76ab6175f6a36acabcfc03bee6a900781c4275457eff4dbea86ac61a8371c64f"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\basketball-botsort-gallery-v2\\policy-frozen.json",
+      "bytes": 1998,
+      "sha256": "1a45344e88e2fa9015351081ab1d7c44a831c8ee5db3f60b83a86a450d84e200"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\basketball-botsort-gallery-v3\\frame-decisions.jsonl",
+      "bytes": 986193,
+      "sha256": "e7be9fa31d70574c833c9cfc8eda9108ea1c22a1b2c352ea34acd1f5973cfbb3"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\basketball-botsort-gallery-v3\\policy-frozen.json",
+      "bytes": 2375,
+      "sha256": "a35fe951e8c0cd891ce0bcfa0cc175826b6651bbb832e3926f8967ff78ac1950"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\basketball-botsort-v1\\frame-decisions.jsonl",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\basketball-botsort-v1\\policy-frozen.json",
+      "bytes": 1531,
+      "sha256": "b03e2d04b3c4ea164fd8f77a490b08320bd59765839ffbb26834809b2d769bf9"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\basketball-botsort-v1-model448\\frame-decisions.jsonl",
+      "bytes": 984531,
+      "sha256": "6d3295de987833eb97189101d9d51ba082e8d3c8e1d0f6bcedab6b55fd0a6e38"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\basketball-botsort-v1-model448\\detection-embeddings.npz",
+      "bytes": 2319652,
+      "sha256": "1109ddc5c00715f857ebee9c3cb566704d22bb92ebf2df96fbe5e4007fb4cf6c"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\basketball-botsort-v1-model448\\policy-frozen.json",
+      "bytes": 1531,
+      "sha256": "b03e2d04b3c4ea164fd8f77a490b08320bd59765839ffbb26834809b2d769bf9"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\basketball-botsort-v1-run2\\frame-decisions.jsonl",
+      "bytes": 983645,
+      "sha256": "2446c781abb5de6ae1d2dd4c12a6f18ce04145b227d3a16c5cdee1c17185c306"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\basketball-botsort-v1-run2\\detection-embeddings.npz",
+      "bytes": 2319765,
+      "sha256": "c717859a5ec505cb9868146499be1561bf2090594949d8ec5fd74b79162dfeaf"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\basketball-botsort-v1-run2\\policy-frozen.json",
+      "bytes": 1531,
+      "sha256": "b03e2d04b3c4ea164fd8f77a490b08320bd59765839ffbb26834809b2d769bf9"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\basketball-deepocsort-gallery-v3\\frame-decisions.jsonl",
+      "bytes": 993250,
+      "sha256": "c152b72a85610e40b932425fb2ef870cd69fd21e88bbbdd4041ddf8a277e0d6e"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\basketball-deepocsort-gallery-v3\\policy-frozen.json",
+      "bytes": 2375,
+      "sha256": "a35fe951e8c0cd891ce0bcfa0cc175826b6651bbb832e3926f8967ff78ac1950"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\holdout-r2_fast_basketball-v3\\frame-decisions.jsonl",
+      "bytes": 953352,
+      "sha256": "42efe861c13b24fb24ff76bf34ba1666cc8b7ffda0712c8de4c475bc6529b352"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\holdout-r2_fast_basketball-v3\\detection-embeddings.npz",
+      "bytes": 2322376,
+      "sha256": "02da02d43734f151fb1729b5cd8c68804a04e57f3492e66bc7abad0adb9a6556"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\holdout-r2_fast_basketball-v3\\policy-frozen.json",
+      "bytes": 2468,
+      "sha256": "50625fa2ea1d7be1d25022ef3301088135c47f656abfd9f7d0b2981851db4573"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\holdout-r2_fast_burpees-v3\\frame-decisions.jsonl",
+      "bytes": 391530,
+      "sha256": "8ea8eca170f5ea1c16379e612fc6140022c4b6395779c6466fde0d29279ad717"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\holdout-r2_fast_burpees-v3\\detection-embeddings.npz",
+      "bytes": 513129,
+      "sha256": "a027e0f35c666692748390043168d28d9f4cd545c6282c27002b52b04a29d5cd"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\holdout-r2_fast_burpees-v3\\policy-frozen.json",
+      "bytes": 2445,
+      "sha256": "1ba3e6b216494a9163ed52ea2522fab7b664380fd6ce5a5c3fb2c9f53aaaf4df"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\holdout-r2_slow_overhead-v3\\frame-decisions.jsonl",
+      "bytes": 334070,
+      "sha256": "224199980e456f67faba0856b346cb56667c3d8052b7a92f940bd967974508b1"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\holdout-r2_slow_overhead-v3\\detection-embeddings.npz",
+      "bytes": 458140,
+      "sha256": "c7f7f1f9a252b55a5fcb2de2a1a68d6730ff7baf77b47043caafade4966e6619"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\holdout-r2_slow_overhead-v3\\policy-frozen.json",
+      "bytes": 2432,
+      "sha256": "667d7b2519ef41305e1558c0e25e41a07b7a651faef380c31e831167bda05ddd"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\holdout-r2_slow_singleleg-v3\\frame-decisions.jsonl",
+      "bytes": 294272,
+      "sha256": "3ae8b8c09caa99916f8a021a661471c867bdd0f8452937ca56a99a43f7ed77f4"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\holdout-r2_slow_singleleg-v3\\detection-embeddings.npz",
+      "bytes": 400609,
+      "sha256": "da346ba0609590a742a3ceb869bfae5d9e35a77a5e20b9479409e004aa8ce240"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\holdout-r2_slow_singleleg-v3\\policy-frozen.json",
+      "bytes": 2459,
+      "sha256": "ee34da791910553f6221f4ef24eb4c3429eae084ae775d0c10bc9e550780f15e"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\holdout-r2_turn_ballet_a-v3\\frame-decisions.jsonl",
+      "bytes": 340037,
+      "sha256": "fa9946802151c703ae354cd3ef24f395ff58e88b8267e398b9837bde9f78abb7"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\holdout-r2_turn_ballet_a-v3\\detection-embeddings.npz",
+      "bytes": 476603,
+      "sha256": "a72daface09ba02530896e741567a132bab68cd7ab4ca8d7d59eef3122952e58"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\holdout-r2_turn_ballet_a-v3\\policy-frozen.json",
+      "bytes": 2454,
+      "sha256": "7f9a4082c03951fed27e3e4e9a255304b8eb1d8130226347097754e2332a0917"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\holdout-r2_turn_ballet_b-v3\\frame-decisions.jsonl",
+      "bytes": 335132,
+      "sha256": "1ce3e9ca05a1ea155fd5905e2092bdb2fc6676cfc959088c963249aa6d59ef92"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\holdout-r2_turn_ballet_b-v3\\detection-embeddings.npz",
+      "bytes": 465105,
+      "sha256": "7a44f9642d7c0d6843184d57f640a8b06e2bb6c689bea564ed1cb66752202934"
+    },
+    {
+      "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\holdout-r2_turn_ballet_b-v3\\policy-frozen.json",
+      "bytes": 2456,
+      "sha256": "6476f4e54fb600513cdffc46c2de670fac44eadef03730a5de02642d3280ba32"
+    }
+  ],
+  "verification_scope": "local bytes SHA256 and ZIP CRC freshly verified; Library current immutable file IDs and sizes match delivery receipt; no redownload"
+}

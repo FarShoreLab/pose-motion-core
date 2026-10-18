@@ -1,0 +1,23 @@
+{
+  "annotation_kind": "assistant visual endpoint and conflict-boundary supervision; NOT independent human ground truth",
+  "automatically_detected": false,
+  "purpose": "conditional mechanism feasibility with reliable endpoints, not an automatic tracking score or mathematical upper bound",
+  "frames_reviewed": [10,11,12,18,19,20,31,32,33,40,41,42,60,61,62,73,74,75,114,115,116,120,121,122,139,140,141,142,143,189,190,191,194,195,196,197,198,204,205,206],
+  "events": [
+    {"name":"A_red_lightblue_crossing","conflict_frames_inclusive":[21,30],
+     "before":[{"identity":"red_target","samples":[[10,1],[11,2],[12,0]]},{"identity":"lightblue","samples":[[10,3],[11,3],[12,1]]}],
+     "after":[{"identity":"lightblue","samples":[[40,2],[41,0],[42,0]]},{"identity":"red_target","samples":[[40,1],[41,1],[42,2]]}],
+     "caveat":"Selected separated endpoint boxes; other players remain outside this pair event. Post window intentionally ordered differently from pre window."},
+    {"name":"B_red_brightblue_long_occlusion","conflict_frames_inclusive":[77,119],
+     "before":[{"identity":"red_target","samples":[[60,1],[61,1],[62,1]]},{"identity":"brightblue","samples":[[60,3],[61,3],[62,2]]}],
+     "after":[{"identity":"brightblue","samples":[[120,0],[121,0],[122,0]]},{"identity":"red_target","samples":[[120,2],[121,1],[122,1]]}],
+     "caveat":"Bright-blue crops include nearby other people at their edges; they are visible person endpoints, not perfect foreground segmentation."},
+    {"name":"C_group_crossing_with_newly_visible_person","conflict_frames_inclusive":[145,193],
+     "before":[{"identity":"red_target","samples":[[139,5],[140,3],[141,3]]},{"identity":"lightblue","samples":[[139,1],[140,0],[141,2]]},{"identity":"beige","samples":[[139,2],[140,2],[141,1]]},{"identity":"brightblue","samples":[[139,0],[140,1],[141,0]]}],
+     "after":[{"identity":"brightblue","samples":[[194,0],[195,0],[196,0]]},{"identity":"beige","samples":[[194,3],[195,3],[196,3]]},{"identity":"lightblue","samples":[[194,1],[195,1],[196,1]]},{"identity":"red_target","samples":[[194,2],[195,2],[196,2]]}],
+     "caveat":"Four endpoint people jointly assigned. Additional background identities have no reliable annotated endpoints and remain outside this conditional test."},
+    {"name":"D_clip_end_without_separated_future_anchor","conflict_frames_inclusive":[200,206],
+     "before":[{"identity":"red_target","samples":[[196,2],[197,2],[198,0]]},{"identity":"brightblue","samples":[[196,0],[197,0],[198,1]]}],
+     "after":[],"right_censored":true,"caveat":"No trustworthy separated post-conflict endpoint inside available video; no fabricated future or interpolation."}
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "clip": "r2_turn_ballet_a",
+  "input_frames": 240,
+  "cached_source": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\identity-lock-2026-10-18\\outputs\\holdout-r2_turn_ballet_a-v3",
+  "cache_sha256": {
+    "frame-decisions.jsonl": "fa9946802151c703ae354cd3ef24f395ff58e88b8267e398b9837bde9f78abb7",
+    "detection-embeddings.npz": "a72daface09ba02530896e741567a132bab68cd7ab4ca8d7d59eef3122952e58"
+  },
+  "config_sha256": "0f62ab34c2c1a96f83f2d64403ba128ed3d3686cc7b2896ebb1501045a1b7b1b",
+  "seed": {
+    "clip": "r2_turn_ballet_a",
+    "input_frame": 0,
+    "source": "assistant visually confirmed first-frame seed in holdout-initial-seeds.jpg before running; no later hints",
+    "target_description": "ballet leg lifts, side/back turns, skirt/self occlusion",
+    "seed_bbox_xyxy": [
+      267.7372131347656,
+      289.7950439453125,
+      480.0872497558594,
+      587.1846313476562
+    ],
+    "seed_bbox_iou_min": 0.5,
+    "initial_visual_seed_count": 1,
+    "later_keyframe_hints": 0,
+    "not_independent_human_ground_truth": true
+  },
+  "oracle_anchors_used": false,
+  "new_model_inference": false,
+  "code_sha256": {
+    "archive_prior.py": "686251b16bef08e69feb8d7a395feb6e984eb8c28bc96bfe5b250cbb7da925d7",
+    "association.py": "393e032a2c8b4d11ca7efc707f3f7304a027e50c579462089ce0717de7c282b2",
+    "conflict_tracker.py": "2dbc886dd26d359aeb1674917a2b0bd17012af37ad2d7bcf691c82f273980982",
+    "isolation.py": "a4277567e22bf6086b6cd9c1cfd71aa3de2b9efbf2baa0e946b03b184b0cc632",
+    "preview_oracle_endpoints.py": "498aa6e72710fad2948ce43d70150dd23be5b75e68d716d51e683044c59f3db8",
+    "review_selected_crops.py": "06bc54da58ff877b475d22933d5a13e4b92f922ca03780d8bfe832d055851569",
+    "run_experiments.py": "6c16913d98865633433d2ff713e8954dbba9a060b2da7ac03741b470681e718d",
+    "run_oracle.py": "e14ee6d70e5425a087dc0aa2bc572b99b856ba4c31adc76ed3f74dee66cc2c7e",
+    "score_and_preview.py": "f8191f98b5fa24c09f460476b02b6a80eacad448679b8cc88dfdc2cb2faa713a",
+    "test_association.py": "9c526290fbcca399f40a0f7b89b72528b02f31a57f04d05cabd2acc7ece5f716"
+  },
+  "input_sha256": "c2576d8c4607edeeb5b3d6eb0a05ced3b11cb20c617510f16bab9da5f9f93489"
+}

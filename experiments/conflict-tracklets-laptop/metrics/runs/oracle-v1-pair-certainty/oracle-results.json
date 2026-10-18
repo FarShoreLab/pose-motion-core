@@ -1,0 +1,2164 @@
+{
+  "config_sha256": "0f62ab34c2c1a96f83f2d64403ba128ed3d3686cc7b2896ebb1501045a1b7b1b",
+  "cache_hashes": {
+    "frame-decisions.jsonl": "6d3295de987833eb97189101d9d51ba082e8d3c8e1d0f6bcedab6b55fd0a6e38",
+    "detection-embeddings.npz": "1109ddc5c00715f857ebee9c3cb566704d22bb92ebf2df96fbe5e4007fb4cf6c"
+  },
+  "cache_unchanged": true,
+  "events": [
+    {
+      "event": {
+        "name": "A_red_lightblue_crossing",
+        "conflict_frames_inclusive": [
+          21,
+          30
+        ],
+        "before": [
+          {
+            "identity": "red_target",
+            "samples": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                0
+              ]
+            ]
+          },
+          {
+            "identity": "lightblue",
+            "samples": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                1
+              ]
+            ]
+          }
+        ],
+        "after": [
+          {
+            "identity": "lightblue",
+            "samples": [
+              [
+                40,
+                2
+              ],
+              [
+                41,
+                0
+              ],
+              [
+                42,
+                0
+              ]
+            ]
+          },
+          {
+            "identity": "red_target",
+            "samples": [
+              [
+                40,
+                1
+              ],
+              [
+                41,
+                1
+              ],
+              [
+                42,
+                2
+              ]
+            ]
+          }
+        ],
+        "caveat": "Selected separated endpoint boxes; other players remain outside this pair event. Post window intentionally ordered differently from pre window."
+      },
+      "pair_evidence": [
+        [
+          {
+            "cost": 0.5754617753265363,
+            "appearance_similarity": 0.30579464615915636,
+            "motion_cost": 0.26427623715893644,
+            "scale_cost": 0.21373891204496304,
+            "direction_cost": 0.9999831338740871,
+            "gap_frames": 28,
+            "velocity_before": [
+              6.204803466796875,
+              -0.13263702392578125
+            ],
+            "velocity_after": [
+              -3.5229339599609375,
+              0.1042633056640625
+            ]
+          },
+          {
+            "cost": 0.39699255045090065,
+            "appearance_similarity": 0.48344469250531535,
+            "motion_cost": 0.16239957522484555,
+            "scale_cost": 0.28305038571152324,
+            "direction_cost": 0.00893293926468347,
+            "gap_frames": 28,
+            "velocity_before": [
+              6.204803466796875,
+              -0.13263702392578125
+            ],
+            "velocity_after": [
+              0.221649169921875,
+              -0.04740142822265625
+            ]
+          }
+        ],
+        [
+          {
+            "cost": 0.37160047056625467,
+            "appearance_similarity": 0.6015056405439754,
+            "motion_cost": 0.18712058302523868,
+            "scale_cost": 0.26211990598788093,
+            "direction_cost": 0.9788605943200571,
+            "gap_frames": 28,
+            "velocity_before": [
+              3.16583251953125,
+              -1.0540771484375
+            ],
+            "velocity_after": [
+              -3.5229339599609375,
+              0.1042633056640625
+            ]
+          },
+          {
+            "cost": 0.5084001745536854,
+            "appearance_similarity": 0.2967103110148426,
+            "motion_cost": 0.08982822472053341,
+            "scale_cost": 0.33143137965444125,
+            "direction_cost": 0.0030618760756440655,
+            "gap_frames": 28,
+            "velocity_before": [
+              3.16583251953125,
+              -1.0540771484375
+            ],
+            "velocity_after": [
+              0.221649169921875,
+              -0.04740142822265625
+            ]
+          }
+        ]
+      ],
+      "cost_matrix": [
+        [
+          0.5754617753265363,
+          0.39699255045090065
+        ],
+        [
+          0.37160047056625467,
+          0.5084001745536854
+        ]
+      ],
+      "best": {
+        "cost": 0.7685930210171553,
+        "pairs": [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            0
+          ]
+        ],
+        "unmatched_before": [],
+        "unmatched_after": []
+      },
+      "second_best": {
+        "cost": 1.0716004705662545,
+        "pairs": [
+          [
+            1,
+            0
+          ]
+        ],
+        "unmatched_before": [
+          0
+        ],
+        "unmatched_after": [
+          1
+        ]
+      },
+      "global_gap": 0.3030074495490992,
+      "identity_status": "confirmed",
+      "pair_certainty": [
+        {
+          "pair": [
+            0,
+            1
+          ],
+          "global_exclusion_gap": 0.3030074495490992,
+          "confirmed": true
+        },
+        {
+          "pair": [
+            1,
+            0
+          ],
+          "global_exclusion_gap": 0.31526892886306646,
+          "confirmed": true
+        }
+      ],
+      "complete_permutations": [
+        {
+          "cost": 0.7685930210171553,
+          "pairs": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 1.0838619498802218,
+          "pairs": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              1
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        }
+      ],
+      "assignment_hypothesis_count": 7,
+      "candidate_matchings": [
+        {
+          "cost": 0.7685930210171553,
+          "pairs": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 1.0716004705662545,
+          "pairs": [
+            [
+              1,
+              0
+            ]
+          ],
+          "unmatched_before": [
+            0
+          ],
+          "unmatched_after": [
+            1
+          ]
+        },
+        {
+          "cost": 1.0838619498802218,
+          "pairs": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              1
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 1.0969925504509006,
+          "pairs": [
+            [
+              0,
+              1
+            ]
+          ],
+          "unmatched_before": [
+            1
+          ],
+          "unmatched_after": [
+            0
+          ]
+        },
+        {
+          "cost": 1.2084001745536854,
+          "pairs": [
+            [
+              1,
+              1
+            ]
+          ],
+          "unmatched_before": [
+            0
+          ],
+          "unmatched_after": [
+            0
+          ]
+        },
+        {
+          "cost": 1.2754617753265363,
+          "pairs": [
+            [
+              0,
+              0
+            ]
+          ],
+          "unmatched_before": [
+            1
+          ],
+          "unmatched_after": [
+            1
+          ]
+        },
+        {
+          "cost": 1.4,
+          "pairs": [],
+          "unmatched_before": [
+            0,
+            1
+          ],
+          "unmatched_after": [
+            0,
+            1
+          ]
+        }
+      ],
+      "expected_pairs_for_evaluation_only": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "best_wrong_pairs": [],
+      "correctly_matched_endpoints": 2,
+      "future_evidence_last_frame": 42,
+      "future_evidence_last_seconds": 1.4,
+      "frames_after_conflict_end_until_anchor_available": 12,
+      "association_seconds": 0.0008825999684631824,
+      "oracle_assisted": true,
+      "independent_human_ground_truth": false
+    },
+    {
+      "event": {
+        "name": "B_red_brightblue_long_occlusion",
+        "conflict_frames_inclusive": [
+          77,
+          119
+        ],
+        "before": [
+          {
+            "identity": "red_target",
+            "samples": [
+              [
+                60,
+                1
+              ],
+              [
+                61,
+                1
+              ],
+              [
+                62,
+                1
+              ]
+            ]
+          },
+          {
+            "identity": "brightblue",
+            "samples": [
+              [
+                60,
+                3
+              ],
+              [
+                61,
+                3
+              ],
+              [
+                62,
+                2
+              ]
+            ]
+          }
+        ],
+        "after": [
+          {
+            "identity": "brightblue",
+            "samples": [
+              [
+                120,
+                0
+              ],
+              [
+                121,
+                0
+              ],
+              [
+                122,
+                0
+              ]
+            ]
+          },
+          {
+            "identity": "red_target",
+            "samples": [
+              [
+                120,
+                2
+              ],
+              [
+                121,
+                1
+              ],
+              [
+                122,
+                1
+              ]
+            ]
+          }
+        ],
+        "caveat": "Bright-blue crops include nearby other people at their edges; they are visible person endpoints, not perfect foreground segmentation."
+      },
+      "pair_evidence": [
+        [
+          {
+            "cost": 0.44119057394408817,
+            "appearance_similarity": 0.4343000943238403,
+            "motion_cost": 0.09239406741454056,
+            "scale_cost": 0.2581957455012035,
+            "direction_cost": 0.5837449444311169,
+            "gap_frames": 58,
+            "velocity_before": [
+              0.9664764404296875,
+              1.1179351806640625
+            ],
+            "velocity_after": [
+              1.64715576171875,
+              -1.997161865234375
+            ]
+          },
+          {
+            "cost": 0.42921294461153625,
+            "appearance_similarity": 0.5053881120213914,
+            "motion_cost": 0.16022087543616642,
+            "scale_cost": 0.3636617581089848,
+            "direction_cost": 0.786097330546178,
+            "gap_frames": 58,
+            "velocity_before": [
+              0.9664764404296875,
+              1.1179351806640625
+            ],
+            "velocity_after": [
+              -4.253631591796875,
+              0.44261932373046875
+            ]
+          }
+        ],
+        [
+          {
+            "cost": 0.31636735296609886,
+            "appearance_similarity": 0.6096940302156512,
+            "motion_cost": 0.1540966764726751,
+            "scale_cost": 0.2462520682365825,
+            "direction_cost": 0.14447860976157728,
+            "gap_frames": 58,
+            "velocity_before": [
+              2.3177490234375,
+              -0.23566436767578125
+            ],
+            "velocity_after": [
+              1.64715576171875,
+              -1.997161865234375
+            ]
+          },
+          {
+            "cost": 0.5735471203061422,
+            "appearance_similarity": 0.2916360543348488,
+            "motion_cost": 0.18925449873969583,
+            "scale_cost": 0.2525972512918287,
+            "direction_cost": 0.9999986149334373,
+            "gap_frames": 58,
+            "velocity_before": [
+              2.3177490234375,
+              -0.23566436767578125
+            ],
+            "velocity_after": [
+              -4.253631591796875,
+              0.44261932373046875
+            ]
+          }
+        ]
+      ],
+      "cost_matrix": [
+        [
+          0.44119057394408817,
+          0.42921294461153625
+        ],
+        [
+          0.31636735296609886,
+          0.5735471203061422
+        ]
+      ],
+      "best": {
+        "cost": 0.7455802975776351,
+        "pairs": [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            0
+          ]
+        ],
+        "unmatched_before": [],
+        "unmatched_after": []
+      },
+      "second_best": {
+        "cost": 1.0147376942502304,
+        "pairs": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "unmatched_before": [],
+        "unmatched_after": []
+      },
+      "global_gap": 0.2691573966725953,
+      "identity_status": "confirmed",
+      "pair_certainty": [
+        {
+          "pair": [
+            0,
+            1
+          ],
+          "global_exclusion_gap": 0.2691573966725953,
+          "confirmed": true
+        },
+        {
+          "pair": [
+            1,
+            0
+          ],
+          "global_exclusion_gap": 0.2691573966725953,
+          "confirmed": true
+        }
+      ],
+      "complete_permutations": [
+        {
+          "cost": 0.7455802975776351,
+          "pairs": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 1.0147376942502304,
+          "pairs": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              1
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        }
+      ],
+      "assignment_hypothesis_count": 7,
+      "candidate_matchings": [
+        {
+          "cost": 0.7455802975776351,
+          "pairs": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 1.0147376942502304,
+          "pairs": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              1
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 1.0163673529660988,
+          "pairs": [
+            [
+              1,
+              0
+            ]
+          ],
+          "unmatched_before": [
+            0
+          ],
+          "unmatched_after": [
+            1
+          ]
+        },
+        {
+          "cost": 1.1292129446115362,
+          "pairs": [
+            [
+              0,
+              1
+            ]
+          ],
+          "unmatched_before": [
+            1
+          ],
+          "unmatched_after": [
+            0
+          ]
+        },
+        {
+          "cost": 1.1411905739440882,
+          "pairs": [
+            [
+              0,
+              0
+            ]
+          ],
+          "unmatched_before": [
+            1
+          ],
+          "unmatched_after": [
+            1
+          ]
+        },
+        {
+          "cost": 1.2735471203061421,
+          "pairs": [
+            [
+              1,
+              1
+            ]
+          ],
+          "unmatched_before": [
+            0
+          ],
+          "unmatched_after": [
+            0
+          ]
+        },
+        {
+          "cost": 1.4,
+          "pairs": [],
+          "unmatched_before": [
+            0,
+            1
+          ],
+          "unmatched_after": [
+            0,
+            1
+          ]
+        }
+      ],
+      "expected_pairs_for_evaluation_only": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "best_wrong_pairs": [],
+      "correctly_matched_endpoints": 2,
+      "future_evidence_last_frame": 122,
+      "future_evidence_last_seconds": 4.066666666666666,
+      "frames_after_conflict_end_until_anchor_available": 3,
+      "association_seconds": 0.0005598999559879303,
+      "oracle_assisted": true,
+      "independent_human_ground_truth": false
+    },
+    {
+      "event": {
+        "name": "C_group_crossing_with_newly_visible_person",
+        "conflict_frames_inclusive": [
+          145,
+          193
+        ],
+        "before": [
+          {
+            "identity": "red_target",
+            "samples": [
+              [
+                139,
+                5
+              ],
+              [
+                140,
+                3
+              ],
+              [
+                141,
+                3
+              ]
+            ]
+          },
+          {
+            "identity": "lightblue",
+            "samples": [
+              [
+                139,
+                1
+              ],
+              [
+                140,
+                0
+              ],
+              [
+                141,
+                2
+              ]
+            ]
+          },
+          {
+            "identity": "beige",
+            "samples": [
+              [
+                139,
+                2
+              ],
+              [
+                140,
+                2
+              ],
+              [
+                141,
+                1
+              ]
+            ]
+          },
+          {
+            "identity": "brightblue",
+            "samples": [
+              [
+                139,
+                0
+              ],
+              [
+                140,
+                1
+              ],
+              [
+                141,
+                0
+              ]
+            ]
+          }
+        ],
+        "after": [
+          {
+            "identity": "brightblue",
+            "samples": [
+              [
+                194,
+                0
+              ],
+              [
+                195,
+                0
+              ],
+              [
+                196,
+                0
+              ]
+            ]
+          },
+          {
+            "identity": "beige",
+            "samples": [
+              [
+                194,
+                3
+              ],
+              [
+                195,
+                3
+              ],
+              [
+                196,
+                3
+              ]
+            ]
+          },
+          {
+            "identity": "lightblue",
+            "samples": [
+              [
+                194,
+                1
+              ],
+              [
+                195,
+                1
+              ],
+              [
+                196,
+                1
+              ]
+            ]
+          },
+          {
+            "identity": "red_target",
+            "samples": [
+              [
+                194,
+                2
+              ],
+              [
+                195,
+                2
+              ],
+              [
+                196,
+                2
+              ]
+            ]
+          }
+        ],
+        "caveat": "Four endpoint people jointly assigned. Additional background identities have no reliable annotated endpoints and remain outside this conditional test."
+      },
+      "pair_evidence": [
+        [
+          {
+            "cost": 0.6059154826833355,
+            "appearance_similarity": 0.19260254973319135,
+            "motion_cost": 0.35764538164738763,
+            "scale_cost": 0.0957695850868105,
+            "direction_cost": 2.210343502728751e-05,
+            "gap_frames": 53,
+            "velocity_before": [
+              -3.42266845703125,
+              -0.84393310546875
+            ],
+            "velocity_after": [
+              -1.066070556640625,
+              -0.27352142333984375
+            ]
+          },
+          {
+            "cost": 0.6641246950603696,
+            "appearance_similarity": 0.22297428305968278,
+            "motion_cost": 0.27067185286576645,
+            "scale_cost": 0.5546974907582314,
+            "direction_cost": 0.9890771880037392,
+            "gap_frames": 53,
+            "velocity_before": [
+              -3.42266845703125,
+              -0.84393310546875
+            ],
+            "velocity_after": [
+              2.062957763671875,
+              0.9994659423828125
+            ]
+          },
+          {
+            "cost": 0.5943859085303477,
+            "appearance_similarity": 0.22258459524475815,
+            "motion_cost": 0.1979177003749614,
+            "scale_cost": 0.47182697703418375,
+            "direction_cost": 0.04599315322059627,
+            "gap_frames": 53,
+            "velocity_before": [
+              -3.42266845703125,
+              -0.84393310546875
+            ],
+            "velocity_after": [
+              -0.5637588500976562,
+              -0.450347900390625
+            ]
+          },
+          {
+            "cost": 0.33958635357906647,
+            "appearance_similarity": 0.6708597248204915,
+            "motion_cost": 0.2600735822297347,
+            "scale_cost": 0.2480702876759019,
+            "direction_cost": 0.976468589976976,
+            "gap_frames": 53,
+            "velocity_before": [
+              -3.42266845703125,
+              -0.84393310546875
+            ],
+            "velocity_after": [
+              3.9972076416015625,
+              -0.26526641845703125
+            ]
+          }
+        ],
+        [
+          {
+            "cost": 0.5263017314735585,
+            "appearance_similarity": 0.4106052178255907,
+            "motion_cost": 0.22829678691878913,
+            "scale_cost": 0.49782505630633556,
+            "direction_cost": 0.95506520091602,
+            "gap_frames": 53,
+            "velocity_before": [
+              6.099206924438477,
+              -1.0849685668945312
+            ],
+            "velocity_after": [
+              -1.066070556640625,
+              -0.27352142333984375
+            ]
+          },
+          {
+            "cost": 0.49614000648166656,
+            "appearance_similarity": 0.39314440354370017,
+            "motion_cost": 0.20500733468787666,
+            "scale_cost": 0.559242260060311,
+            "direction_cost": 0.09516351682930507,
+            "gap_frames": 53,
+            "velocity_before": [
+              6.099206924438477,
+              -1.0849685668945312
+            ],
+            "velocity_after": [
+              2.062957763671875,
+              0.9994659423828125
+            ]
+          },
+          {
+            "cost": 0.5102382977962244,
+            "appearance_similarity": 0.44299043916789216,
+            "motion_cost": 0.2952334965929525,
+            "scale_cost": 0.4763717463362633,
+            "direction_cost": 0.8299641860627497,
+            "gap_frames": 53,
+            "velocity_before": [
+              6.099206924438477,
+              -1.0849685668945312
+            ],
+            "velocity_after": [
+              -0.5637588500976562,
+              -0.450347900390625
+            ]
+          },
+          {
+            "cost": 0.5693198355852325,
+            "appearance_similarity": 0.24738844080366773,
+            "motion_cost": 0.16783330689173612,
+            "scale_cost": 0.4640516754923304,
+            "direction_cost": 0.0030098636007245827,
+            "gap_frames": 53,
+            "velocity_before": [
+              6.099206924438477,
+              -1.0849685668945312
+            ],
+            "velocity_after": [
+              3.9972076416015625,
+              -0.26526641845703125
+            ]
+          }
+        ],
+        [
+          {
+            "cost": 0.6325525918507854,
+            "appearance_similarity": 0.17657271937045738,
+            "motion_cost": 0.2906280270547603,
+            "scale_cost": 0.3867895659439708,
+            "direction_cost": 0.01040594872466899,
+            "gap_frames": 53,
+            "velocity_before": [
+              -3.2915306091308594,
+              -1.61248779296875
+            ],
+            "velocity_after": [
+              -1.066070556640625,
+              -0.27352142333984375
+            ]
+          },
+          {
+            "cost": 0.5520706848464982,
+            "appearance_similarity": 0.4185549578531069,
+            "motion_cost": 0.20364653018186496,
+            "scale_cost": 0.834023401887876,
+            "direction_cost": 0.9999952245171432,
+            "gap_frames": 53,
+            "velocity_before": [
+              -3.2915306091308594,
+              -1.61248779296875
+            ],
+            "velocity_after": [
+              2.062957763671875,
+              0.9994659423828125
+            ]
+          },
+          {
+            "cost": 0.5212408918454222,
+            "appearance_similarity": 0.35147395599934617,
+            "motion_cost": 0.11994631623289952,
+            "scale_cost": 0.7511528881638284,
+            "direction_cost": 0.011888223640690199,
+            "gap_frames": 53,
+            "velocity_before": [
+              -3.2915306091308594,
+              -1.61248779296875
+            ],
+            "velocity_after": [
+              -0.5637588500976562,
+              -0.450347900390625
+            ]
+          },
+          {
+            "cost": 0.5786083434555389,
+            "appearance_similarity": 0.33738598701614597,
+            "motion_cost": 0.24248219585691239,
+            "scale_cost": 0.5273961988055464,
+            "direction_cost": 0.9334635192819318,
+            "gap_frames": 53,
+            "velocity_before": [
+              -3.2915306091308594,
+              -1.61248779296875
+            ],
+            "velocity_after": [
+              3.9972076416015625,
+              -0.26526641845703125
+            ]
+          }
+        ],
+        [
+          {
+            "cost": 0.39314132814017266,
+            "appearance_similarity": 0.5328190187865887,
+            "motion_cost": 0.062211547367944105,
+            "scale_cost": 0.2984842404073051,
+            "direction_cost": 0.943659136742719,
+            "gap_frames": 53,
+            "velocity_before": [
+              0.9954833984375,
+              0.8916854858398438
+            ],
+            "velocity_after": [
+              -1.066070556640625,
+              -0.27352142333984375
+            ]
+          },
+          {
+            "cost": 0.6456405330784458,
+            "appearance_similarity": 0.20035517775217762,
+            "motion_cost": 0.1737271737683134,
+            "scale_cost": 0.9015721273940309,
+            "direction_cost": 0.019375022485908944,
+            "gap_frames": 53,
+            "velocity_before": [
+              0.9954833984375,
+              0.8916854858398438
+            ],
+            "velocity_after": [
+              2.062957763671875,
+              0.9994659423828125
+            ]
+          },
+          {
+            "cost": 0.6210263923799322,
+            "appearance_similarity": 0.30439222000922084,
+            "motion_cost": 0.18525479678315923,
+            "scale_cost": 0.8187016136699834,
+            "direction_cost": 0.99920429324591,
+            "gap_frames": 53,
+            "velocity_before": [
+              0.9954833984375,
+              0.8916854858398438
+            ],
+            "velocity_after": [
+              -0.5637588500976562,
+              -0.450347900390625
+            ]
+          },
+          {
+            "cost": 0.6110240213240273,
+            "appearance_similarity": 0.23869889906597452,
+            "motion_cost": 0.2458012868550108,
+            "scale_cost": 0.5949449243117014,
+            "direction_cost": 0.1504711182947686,
+            "gap_frames": 53,
+            "velocity_before": [
+              0.9954833984375,
+              0.8916854858398438
+            ],
+            "velocity_after": [
+              3.9972076416015625,
+              -0.26526641845703125
+            ]
+          }
+        ]
+      ],
+      "cost_matrix": [
+        [
+          0.6059154826833355,
+          0.6641246950603696,
+          0.5943859085303477,
+          0.33958635357906647
+        ],
+        [
+          0.5263017314735585,
+          0.49614000648166656,
+          0.5102382977962244,
+          0.5693198355852325
+        ],
+        [
+          0.6325525918507854,
+          0.5520706848464982,
+          0.5212408918454222,
+          0.5786083434555389
+        ],
+        [
+          0.39314132814017266,
+          0.6456405330784458,
+          0.6210263923799322,
+          0.6110240213240273
+        ]
+      ],
+      "best": {
+        "cost": 1.7501085800463279,
+        "pairs": [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            0
+          ]
+        ],
+        "unmatched_before": [],
+        "unmatched_after": []
+      },
+      "second_best": {
+        "cost": 1.795036664361962,
+        "pairs": [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            0
+          ]
+        ],
+        "unmatched_before": [],
+        "unmatched_after": []
+      },
+      "global_gap": 0.04492808431563411,
+      "identity_status": "unresolved",
+      "pair_certainty": [
+        {
+          "pair": [
+            0,
+            3
+          ],
+          "global_exclusion_gap": 0.31216700656139773,
+          "confirmed": true
+        },
+        {
+          "pair": [
+            1,
+            1
+          ],
+          "global_exclusion_gap": 0.04492808431563411,
+          "confirmed": false
+        },
+        {
+          "pair": [
+            2,
+            2
+          ],
+          "global_exclusion_gap": 0.04492808431563411,
+          "confirmed": false
+        },
+        {
+          "pair": [
+            3,
+            0
+          ],
+          "global_exclusion_gap": 0.28266092993016523,
+          "confirmed": true
+        }
+      ],
+      "complete_permutations": [
+        {
+          "cost": 1.7501085800463279,
+          "pairs": [
+            [
+              0,
+              3
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              3,
+              0
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 1.795036664361962,
+          "pairs": [
+            [
+              0,
+              3
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              3,
+              0
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 2.032769509976493,
+          "pairs": [
+            [
+              0,
+              3
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              3,
+              1
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 2.0389851622790554,
+          "pairs": [
+            [
+              0,
+              3
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              3,
+              2
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 2.0622755866077256,
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              3,
+              0
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 2.0893053442914504,
+          "pairs": [
+            [
+              0,
+              3
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              2,
+              0
+            ],
+            [
+              3,
+              2
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 2.108917757102251,
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              3,
+              0
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 2.128017776304522,
+          "pairs": [
+            [
+              0,
+              3
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              2,
+              0
+            ],
+            [
+              3,
+              1
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 2.1461126644523056,
+          "pairs": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              3,
+              0
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 2.147826750631197,
+          "pairs": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              3,
+              0
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 2.234320402334452,
+          "pairs": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              3,
+              3
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 2.2792484866500855,
+          "pairs": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              3,
+              3
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 2.2837823461744318,
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              3,
+              3
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 2.301690225000473,
+          "pairs": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              3,
+              2
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 2.3226913397033777,
+          "pairs": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              3,
+              3
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 2.334102528186827,
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              2,
+              0
+            ],
+            [
+              3,
+              3
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 2.3404026570135446,
+          "pairs": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              3,
+              1
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 2.3421167431924363,
+          "pairs": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              3,
+              1
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 2.344936516537891,
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              3,
+              1
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 2.3483323954949986,
+          "pairs": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              3,
+              2
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 2.390061162369399,
+          "pairs": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              3,
+              2
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 2.417939606031407,
+          "pairs": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              2,
+              0
+            ],
+            [
+              3,
+              3
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 2.4418988690448113,
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              2,
+              0
+            ],
+            [
+              3,
+              1
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 2.4870235148763196,
+          "pairs": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              2,
+              0
+            ],
+            [
+              3,
+              2
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        }
+      ],
+      "assignment_hypothesis_count": 209,
+      "candidate_matchings": [
+        {
+          "cost": 1.7501085800463279,
+          "pairs": [
+            [
+              0,
+              3
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              3,
+              0
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 1.795036664361962,
+          "pairs": [
+            [
+              0,
+              3
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              3,
+              0
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 1.928867688200906,
+          "pairs": [
+            [
+              0,
+              3
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              3,
+              0
+            ]
+          ],
+          "unmatched_before": [
+            2
+          ],
+          "unmatched_after": [
+            2
+          ]
+        },
+        {
+          "cost": 1.942965979515464,
+          "pairs": [
+            [
+              0,
+              3
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              3,
+              0
+            ]
+          ],
+          "unmatched_before": [
+            2
+          ],
+          "unmatched_after": [
+            1
+          ]
+        },
+        {
+          "cost": 1.9539685735646617,
+          "pairs": [
+            [
+              0,
+              3
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              3,
+              0
+            ]
+          ],
+          "unmatched_before": [
+            1
+          ],
+          "unmatched_after": [
+            1
+          ]
+        },
+        {
+          "cost": 1.9847983665657374,
+          "pairs": [
+            [
+              0,
+              3
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              3,
+              0
+            ]
+          ],
+          "unmatched_before": [
+            1
+          ],
+          "unmatched_after": [
+            2
+          ]
+        },
+        {
+          "cost": 2.032769509976493,
+          "pairs": [
+            [
+              0,
+              3
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              3,
+              1
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        },
+        {
+          "cost": 2.0389851622790554,
+          "pairs": [
+            [
+              0,
+              3
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              3,
+              2
+            ]
+          ],
+          "unmatched_before": [],
+          "unmatched_after": []
+        }
+      ],
+      "expected_pairs_for_evaluation_only": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "best_wrong_pairs": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ]
+      ],
+      "correctly_matched_endpoints": 2,
+      "future_evidence_last_frame": 196,
+      "future_evidence_last_seconds": 6.533333333333333,
+      "frames_after_conflict_end_until_anchor_available": 3,
+      "association_seconds": 0.0027179999742656946,
+      "oracle_assisted": true,
+      "independent_human_ground_truth": false
+    },
+    {
+      "event": {
+        "name": "D_clip_end_without_separated_future_anchor",
+        "conflict_frames_inclusive": [
+          200,
+          206
+        ],
+        "before": [
+          {
+            "identity": "red_target",
+            "samples": [
+              [
+                196,
+                2
+              ],
+              [
+                197,
+                2
+              ],
+              [
+                198,
+                0
+              ]
+            ]
+          },
+          {
+            "identity": "brightblue",
+            "samples": [
+              [
+                196,
+                0
+              ],
+              [
+                197,
+                0
+              ],
+              [
+                198,
+                1
+              ]
+            ]
+          }
+        ],
+        "after": [],
+        "right_censored": true,
+        "caveat": "No trustworthy separated post-conflict endpoint inside available video; no fabricated future or interpolation."
+      },
+      "pair_evidence": [
+        [],
+        []
+      ],
+      "cost_matrix": [
+        [],
+        []
+      ],
+      "best": {
+        "cost": 0.7,
+        "pairs": [],
+        "unmatched_before": [
+          0,
+          1
+        ],
+        "unmatched_after": []
+      },
+      "second_best": null,
+      "global_gap": null,
+      "identity_status": "unresolved",
+      "pair_certainty": [],
+      "complete_permutations": [],
+      "assignment_hypothesis_count": 1,
+      "candidate_matchings": [
+        {
+          "cost": 0.7,
+          "pairs": [],
+          "unmatched_before": [
+            0,
+            1
+          ],
+          "unmatched_after": []
+        }
+      ],
+      "expected_pairs_for_evaluation_only": [],
+      "best_wrong_pairs": [],
+      "correctly_matched_endpoints": 0,
+      "future_evidence_last_frame": null,
+      "future_evidence_last_seconds": null,
+      "frames_after_conflict_end_until_anchor_available": null,
+      "association_seconds": 1.0699965059757233e-05,
+      "oracle_assisted": true,
+      "independent_human_ground_truth": false
+    }
+  ],
+  "new_model_inference": false,
+  "single_existing_reid_encoder": true,
+  "risk_coverage": [
+    {
+      "gap_threshold": 0.0,
+      "confirmed_events": 3,
+      "wrong_pairs_in_those_events": 2
+    },
+    {
+      "gap_threshold": 0.05,
+      "confirmed_events": 2,
+      "wrong_pairs_in_those_events": 0
+    },
+    {
+      "gap_threshold": 0.1,
+      "confirmed_events": 2,
+      "wrong_pairs_in_those_events": 0
+    },
+    {
+      "gap_threshold": 0.2,
+      "confirmed_events": 2,
+      "wrong_pairs_in_those_events": 0
+    },
+    {
+      "gap_threshold": 0.4,
+      "confirmed_events": 0,
+      "wrong_pairs_in_those_events": 0
+    }
+  ]
+}

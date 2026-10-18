@@ -1,0 +1,49 @@
+{
+  "name": "r2_slow_singleleg",
+  "category": "slow",
+  "filename": "Basic_single_leg_squat.webm",
+  "start": 0,
+  "duration": 7,
+  "source_page": "https://commons.wikimedia.org/wiki/File:Basic_single_leg_squat.webm",
+  "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Basic_single_leg_squat.webm",
+  "author": "RickyBennison",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "motion": "side-facing single-leg squat; small subject in portrait frame",
+  "camera": "visually fixed camera; explicit static assumption, no calibration",
+  "estimate_camera": false,
+  "source_note": "Original 480x640 retained; no upscaling.",
+  "source": "Basic_single_leg_squat.webm",
+  "source_stream": {
+    "width": 480,
+    "height": 640,
+    "fps_rational": "30",
+    "fps": 30.0,
+    "fps_field": "average_rate",
+    "codec": "vp9"
+  },
+  "source_frames": 235,
+  "source_video_duration_seconds": 7.833333333333333,
+  "source_first_pts_seconds": 0.007,
+  "original_first_pts_seconds": 0.007,
+  "source_start_normalized_seconds": 0,
+  "duration_seconds": 7,
+  "source_sha256": "ab4602823ad00de3409eb50d2c65c6b1ce5566c5dca6753555ff2b19107db88e",
+  "source_fps": 30.0,
+  "input_fps": 30,
+  "input_frames": 210,
+  "unique_source_frames": 210,
+  "selected_source_frame_range_inclusive": [
+    0,
+    209
+  ],
+  "max_absolute_sampling_error_ms": 0.3333333333333333,
+  "input_sha256": "3abeb178319012934e4a73c2984198175e456b682df7719cb1cb7ddd8a317d88",
+  "changes": [
+    "audio removed",
+    "nearest source PTS sampled to 30 fps; ties choose earlier",
+    "H264 CRF18; original dimensions retained; no interpolation"
+  ],
+  "preparation_seconds": 0.8227399999741465,
+  "evaluation_mode": "offline file processing; not a realtime or 3D-accuracy measurement"
+}

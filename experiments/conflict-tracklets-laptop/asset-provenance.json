@@ -1,0 +1,16 @@
+{
+  "filename": "yolo26n-reid.onnx",
+  "requested_url": "https://github.com/ultralytics/assets/releases/download/v8.4.0/yolo26n-reid.onnx",
+  "bytes": 9873245,
+  "sha256": "8529c383197ae4c468eda535d1b165f8b4162cf17bf5fbcff49c7cb6455bc0bb",
+  "source": "Official Ultralytics assets release v8.4.0, linked from official tracking documentation",
+  "license": "Ultralytics AGPL-3.0 model licensing; research experiment; no Enterprise entitlement claimed",
+  "license_url": "https://www.ultralytics.com/license",
+  "documentation_url": "https://docs.ultralytics.com/modes/track/",
+  "explicit_clickthrough_or_new_legal_acceptance": false,
+  "reused_detector": {
+    "path": "C:\\Users\\Construct\\Downloads\\pose-motion-core\\gvhmr-comparison-laptop\\assets\\checkpoints\\yolo\\yolov8x.pt",
+    "bytes": 136867539,
+    "sha256": "c4d5a3f000d771762f03fc8b57ebd0aae324aeaefdd6e68492a9c4470f2d1e8b"
+  }
+}

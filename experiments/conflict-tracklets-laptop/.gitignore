@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+cache/
+*.mp4
+*.npz
+*.zip

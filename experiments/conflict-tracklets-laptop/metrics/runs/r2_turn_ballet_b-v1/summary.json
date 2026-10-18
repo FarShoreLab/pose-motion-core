@@ -1,0 +1,32 @@
+{
+  "clip": "r2_turn_ballet_b",
+  "frames": 240,
+  "causal_prefix_invariance_checkpoints": [
+    30,
+    90,
+    150
+  ],
+  "cache_hashes_unchanged": true,
+  "seconds": {
+    "no_conflict_protection": 0.02468329994007945,
+    "causal_conflict_freeze": 0.02296490001026541,
+    "offline_link": 0.003922099946066737
+  },
+  "single_existing_reid_encoder": true,
+  "second_encoder_tested": false,
+  "new_pose_inference": false,
+  "confirmed_counts": {
+    "no_conflict_protection": 233,
+    "causal_conflict_freeze": 229,
+    "offline_tracklet_reconnect": 227
+  },
+  "identity_accuracy": "PENDING AI visual review; confirmed state is not correctness",
+  "causal_per_frame_seconds": {
+    "median": 8.169992361217737e-05,
+    "p95": 0.0001618699578102678,
+    "max": 0.0003334999782964587
+  },
+  "causal_observation_confirmation_delay_frames": 2,
+  "offline_global_future_evidence_frame": 239,
+  "offline_fragment_count": 5
+}

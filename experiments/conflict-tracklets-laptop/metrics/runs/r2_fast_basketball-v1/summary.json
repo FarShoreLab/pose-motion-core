@@ -1,0 +1,32 @@
+{
+  "clip": "r2_fast_basketball",
+  "frames": 204,
+  "causal_prefix_invariance_checkpoints": [
+    30,
+    90,
+    150
+  ],
+  "cache_hashes_unchanged": true,
+  "seconds": {
+    "no_conflict_protection": 0.265379499993287,
+    "causal_conflict_freeze": 0.27735639992170036,
+    "offline_link": 0.029503999976441264
+  },
+  "single_existing_reid_encoder": true,
+  "second_encoder_tested": false,
+  "new_pose_inference": false,
+  "confirmed_counts": {
+    "no_conflict_protection": 204,
+    "causal_conflict_freeze": 47,
+    "offline_tracklet_reconnect": 0
+  },
+  "identity_accuracy": "PENDING AI visual review; confirmed state is not correctness",
+  "causal_per_frame_seconds": {
+    "median": 0.001323550008237362,
+    "p95": 0.0021720650256611407,
+    "max": 0.0025728000327944756
+  },
+  "causal_observation_confirmation_delay_frames": 2,
+  "offline_global_future_evidence_frame": 203,
+  "offline_fragment_count": 19
+}

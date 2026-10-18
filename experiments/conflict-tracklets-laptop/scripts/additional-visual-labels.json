@@ -1,0 +1,19 @@
+{
+  "reviewer": "assistant",
+  "independent_human_ground_truth": false,
+  "protocol": "Inspect all 11 new selected detections with full-scene context and enlarged crops, alongside the prior primary target box. Reuse earlier AI labels only for exactly identical selected detection indices. No labels are used as automatic tracking inputs.",
+  "labels": [
+    {"frame":27,"detection":3,"identity":"red_target","geometry_quality":"truncated","reason":"Red target torso is visible behind the crossing player; narrow box ends above the legs."},
+    {"frame":28,"detection":3,"identity":"red_target","geometry_quality":"truncated","reason":"Same partial red target torso as the preceding repeated source frame."},
+    {"frame":86,"detection":6,"identity":"ambiguous_people_overlap","geometry_quality":"mixed_partial","reason":"Lower-body box contains blue shorts and overlapping legs with a red-shirt edge; cannot assign the mixed box confidently."},
+    {"frame":87,"detection":4,"identity":"ambiguous_people_overlap","geometry_quality":"mixed_partial","reason":"Narrow lower-body crop mixes the red target and blue opponent; no isolated head/torso identity."},
+    {"frame":88,"detection":5,"identity":"ambiguous_people_overlap","geometry_quality":"mixed_partial","reason":"Same mixed lower-body selection as the preceding frame; conservatively ambiguous."},
+    {"frame":104,"detection":3,"identity":"wrong_blue_person","geometry_quality":"overlap","reason":"Selected box follows blue opponent head, torso, shorts and right leg; red target is cut off at the left edge."},
+    {"frame":105,"detection":2,"identity":"wrong_blue_person","geometry_quality":"overlap","reason":"Blue opponent head, torso and legs dominate the selected box; separate low-confidence red target box is to its left."},
+    {"frame":106,"detection":2,"identity":"wrong_blue_person","geometry_quality":"overlap","reason":"Same blue opponent selection as F105; red target remains partly outside the box."},
+    {"frame":108,"detection":4,"identity":"wrong_blue_person","geometry_quality":"truncated","reason":"Small selected head/shoulder box belongs to the blue opponent; red target head and torso are left of it."},
+    {"frame":113,"detection":4,"identity":"red_target","geometry_quality":"clear","reason":"Alternate narrower box still encloses the red-shirt light-shorts target."},
+    {"frame":186,"detection":3,"identity":"red_target","geometry_quality":"truncated","reason":"Red target upper torso is identifiable; narrow box omits most of the lower body."}
+  ],
+  "limits": "Low-resolution source and occlusion limit certainty. These are development-set AI visual judgments, not human or benchmark identity ground truth. Correct identity does not certify a complete body crop or accurate joints."
+}

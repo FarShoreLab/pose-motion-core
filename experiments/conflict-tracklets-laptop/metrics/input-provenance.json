@@ -1,0 +1,107 @@
+[
+  {
+    "name": "r2_occlusion_basketball",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Basketball_(4).ogv",
+    "author": "Azorbli",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "input_sha256": "80416d57dca13e9a3dadbba3e4f12e7f944ef80ca77cc463e44c8dc3a6b1c32d",
+    "input_frames": 207,
+    "unique_source_frames": 173,
+    "changes": [
+      "audio removed",
+      "nearest source PTS sampled to 30 fps; ties choose earlier",
+      "H264 CRF18; original dimensions retained; no interpolation"
+    ]
+  },
+  {
+    "name": "r2_fast_basketball",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Basketball_(1).ogv",
+    "author": "Azorbli",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "input_sha256": "feb8b545050481f76ee18fac3329b4c4f0fb5c4911d249eacc958b52c8da222b",
+    "input_frames": 204,
+    "unique_source_frames": 204,
+    "changes": [
+      "audio removed",
+      "nearest source PTS sampled to 30 fps; ties choose earlier",
+      "H264 CRF18; original dimensions retained; no interpolation"
+    ]
+  },
+  {
+    "name": "r2_fast_burpees",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Jumping_jacks_and_burpees.webm",
+    "author": "Taco fleur (Cavemantraining)",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "input_sha256": "77c6a3304d2f0038c768acdf3ec862785215d088721800048c116a6798eb2a68",
+    "input_frames": 300,
+    "unique_source_frames": 296,
+    "changes": [
+      "audio removed",
+      "nearest source PTS sampled to 30 fps; ties choose earlier",
+      "H264 CRF18; original dimensions retained; no interpolation"
+    ]
+  },
+  {
+    "name": "r2_slow_overhead",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Overhead_Kettlebell_Squat.webm",
+    "author": "Cavemantraining (Taco Fleur)",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "input_sha256": "a6ff91b0fbb9f6b506a508c3e18162201b5232ae5032201f4ac899336ca3ba6a",
+    "input_frames": 240,
+    "unique_source_frames": 200,
+    "changes": [
+      "audio removed",
+      "nearest source PTS sampled to 30 fps; ties choose earlier",
+      "H264 CRF18; original dimensions retained; no interpolation"
+    ]
+  },
+  {
+    "name": "r2_slow_singleleg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Basic_single_leg_squat.webm",
+    "author": "RickyBennison",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "input_sha256": "3abeb178319012934e4a73c2984198175e456b682df7719cb1cb7ddd8a317d88",
+    "input_frames": 210,
+    "unique_source_frames": 210,
+    "changes": [
+      "audio removed",
+      "nearest source PTS sampled to 30 fps; ties choose earlier",
+      "H264 CRF18; original dimensions retained; no interpolation"
+    ]
+  },
+  {
+    "name": "r2_turn_ballet_a",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Grands_battements_et_pirouettes.ogv",
+    "author": "Fanny Schertzer",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "input_sha256": "c2576d8c4607edeeb5b3d6eb0a05ced3b11cb20c617510f16bab9da5f9f93489",
+    "input_frames": 240,
+    "unique_source_frames": 200,
+    "changes": [
+      "audio removed",
+      "nearest source PTS sampled to 30 fps; ties choose earlier",
+      "H264 CRF18; original dimensions retained; no interpolation"
+    ]
+  },
+  {
+    "name": "r2_turn_ballet_b",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Grands_battements_et_pirouettes.ogv",
+    "author": "Fanny Schertzer",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "input_sha256": "4785255c6a54d6f2b599f4dbdbf3d1df3741c03bb004fec37c94ebfe38bda519",
+    "input_frames": 240,
+    "unique_source_frames": 200,
+    "changes": [
+      "audio removed",
+      "nearest source PTS sampled to 30 fps; ties choose earlier",
+      "H264 CRF18; original dimensions retained; no interpolation"
+    ]
+  }
+]
