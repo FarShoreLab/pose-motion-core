@@ -1,0 +1,1950 @@
+{
+  "schema_version": 1,
+  "created_utc": "2026-10-18T06:23:12.181454+00:00",
+  "purpose": "Byte-preserving source backup prepared from three recovered archives; not a Git history reconstruction.",
+  "baseline": "v5.2",
+  "experimental_status": {
+    "v6": "Unsuccessful fixed-25-DOF OpenSim candidate; do not replace v5.2."
+  },
+  "missing_history": [
+    "Original first/final v3 source is absent from all three available archives.",
+    "v5 and v5.1 are partial historical references in v5.2, not complete standalone snapshots.",
+    "No original .git repository, commit history, branches, or tags were available."
+  ],
+  "archives": [
+    {
+      "filename": "pose-live-program-source.zip",
+      "sha256": "a54b398d157a52689f6c92a8a60930cb7da168e64267553ca96002c4affff678",
+      "bytes": 19068534,
+      "snapshot": "v4"
+    },
+    {
+      "filename": "pose-live-v5.2-source.zip",
+      "sha256": "79c89bbf50c79706a280d9ef2107e395dc52b63d77490e14a1dad9b86ff200b6",
+      "bytes": 17266497,
+      "snapshot": "v5.2"
+    },
+    {
+      "filename": "pose-v6-01-source-and-report.zip",
+      "sha256": "39df5650386b1dcbfd13cc3f11be7ac6395d12df71a535e1fda596dc216ece37",
+      "bytes": 17354527,
+      "snapshot": "v6-fixed-dof-unsuccessful"
+    }
+  ],
+  "files": [
+    {
+      "path": "baselines/pose-live-v4/public/app.js",
+      "archive": "pose-live-program-source.zip",
+      "archive_member": "pose-live-v4/public/app.js",
+      "bytes": 22872,
+      "sha256": "5f8eb5f94d8b8fe0722d4c0892813a3001be874738dad1509d3556a0d1f7ddde",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/pose-live-v4/public/joint-policy.js",
+      "archive": "pose-live-program-source.zip",
+      "archive_member": "pose-live-v4/public/joint-policy.js",
+      "bytes": 5836,
+      "sha256": "0385f6c8758f323f45a02a8185ee46d4e41618186a4ca24e0fc7e7a5227d78ed",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/pose-live-v4/public/pose-worker.js",
+      "archive": "pose-live-program-source.zip",
+      "archive_member": "pose-live-v4/public/pose-worker.js",
+      "bytes": 2027,
+      "sha256": "215c9a6317ddfdc0e581892f00b60aaccb3ca574639b1826ba3c22e75e67161e",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/pose-live-v4/public/index.html",
+      "archive": "pose-live-program-source.zip",
+      "archive_member": "pose-live-v4/public/index.html",
+      "bytes": 3596,
+      "sha256": "45ffb762751de48b2370fcbda02d4d55ebbc12df50a57e8443fb769da3748707",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/pose-live-v4/public/a.html",
+      "archive": "pose-live-program-source.zip",
+      "archive_member": "pose-live-v4/public/a.html",
+      "bytes": 3596,
+      "sha256": "45ffb762751de48b2370fcbda02d4d55ebbc12df50a57e8443fb769da3748707",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/pose-live-v4/public/r.html",
+      "archive": "pose-live-program-source.zip",
+      "archive_member": "pose-live-v4/public/r.html",
+      "bytes": 3596,
+      "sha256": "45ffb762751de48b2370fcbda02d4d55ebbc12df50a57e8443fb769da3748707",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/pose-live-v4/public/style.css",
+      "archive": "pose-live-program-source.zip",
+      "archive_member": "pose-live-v4/public/style.css",
+      "bytes": 3192,
+      "sha256": "03c3badeee3f9d8d163b53d290a7be39ee2c727ed9cf000d2f56fd74ea6cc88a",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/pose-live-v4/server.py",
+      "archive": "pose-live-program-source.zip",
+      "archive_member": "pose-live-v4/server.py",
+      "bytes": 2546,
+      "sha256": "26ed4b3ad5747c3cb89af66408408466e4ef9efff33b1020d56236955c71b682",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/pose-live-v4/package.json",
+      "archive": "pose-live-program-source.zip",
+      "archive_member": "pose-live-v4/package.json",
+      "bytes": 313,
+      "sha256": "29e1c36297bfb13b0b69ffee12d3b4fe6ff065ecb73b8bec59d97100c35789f7",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/pose-live-v4/package-lock.json",
+      "archive": "pose-live-program-source.zip",
+      "archive_member": "pose-live-v4/package-lock.json",
+      "bytes": 15256,
+      "sha256": "24889f017ec063f7133445caa065bf4cf0c1ae3c7a83c5590d02e31a1328ed36",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/pose-live-v4/test.mjs",
+      "archive": "pose-live-program-source.zip",
+      "archive_member": "pose-live-v4/test.mjs",
+      "bytes": 586,
+      "sha256": "9899605460cdbf9c43cc58078894205189032fd1a0c4ad4775baf003a846699c",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/pose-live-v4/start.sh",
+      "archive": "pose-live-program-source.zip",
+      "archive_member": "pose-live-v4/start.sh",
+      "bytes": 200,
+      "sha256": "574f9586ea49351e3459b8997127bbddd75f103003e7040e2f528aa55fe5db9f",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/pose-live-v4/README-zh.md",
+      "archive": "pose-live-program-source.zip",
+      "archive_member": "pose-live-v4/README-zh.md",
+      "bytes": 7983,
+      "sha256": "c5ed1b7cbbce7d917dbd7f507d46741d6aa6555611d2ebe1cc03e63a7d0a52e5",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/pose-live-v4/REPORT-zh.md",
+      "archive": "pose-live-program-source.zip",
+      "archive_member": "pose-live-v4/REPORT-zh.md",
+      "bytes": 2306,
+      "sha256": "5f303b6952a14f13c905fa814f9474fe4ebde50801b15123a735e25ddc798348",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/pose-live-v4/record.py",
+      "archive": "pose-live-program-source.zip",
+      "archive_member": "pose-live-v4/record.py",
+      "bytes": 765,
+      "sha256": "8fc68a38099785e73e824b335d9f33c9434dc858beba1d5921689b1d377a52d3",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/pose-live-v4/scripts/download_assets.py",
+      "archive": "pose-live-program-source.zip",
+      "archive_member": "pose-live-v4/scripts/download_assets.py",
+      "bytes": 1241,
+      "sha256": "04144a7876fa7dc3d8357d8a3ab479cd548a159b0d1efc9144b95fa8679fab54",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/pose-live-v4/scripts/test_range.py",
+      "archive": "pose-live-program-source.zip",
+      "archive_member": "pose-live-v4/scripts/test_range.py",
+      "bytes": 695,
+      "sha256": "0b8facb329ae9ad1937c3d9db16ee164043aecb014589a2f6d304635b0a93b6e",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/pose-live-v4/scripts/package_v4.py",
+      "archive": "pose-live-program-source.zip",
+      "archive_member": "pose-live-v4/scripts/package_v4.py",
+      "bytes": 2140,
+      "sha256": "1bb714d98274fe5d60f97edab348bdeb2f19141fb4031d9bdc584caa6f633dcd",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/pose-live-v4/assets/model-manifest.json",
+      "archive": "pose-live-program-source.zip",
+      "archive_member": "pose-live-v4/assets/model-manifest.json",
+      "bytes": 387,
+      "sha256": "b0ce1d0a3737c96a3a9783a00d74937799e1b7b30a4f62c79c9a934bc7ab2449",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/pose-live-v4/assets/videos/manifest.json",
+      "archive": "pose-live-program-source.zip",
+      "archive_member": "pose-live-v4/assets/videos/manifest.json",
+      "bytes": 9336,
+      "sha256": "40f2b22ad96959c805ee7da1f7edd4c110b0a4c85fe0c26c6ccee3df0aa51ef1",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/pose-live-v4/assets/videos/SOURCES.md",
+      "archive": "pose-live-program-source.zip",
+      "archive_member": "pose-live-v4/assets/videos/SOURCES.md",
+      "bytes": 5090,
+      "sha256": "18352ed76faa5063c74d6dc4e489215bcc6f2e84deb60ca09284e9bac6674ba9",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/pose-live-v4/audit_v4/test_audit_raw.py",
+      "archive": "pose-live-program-source.zip",
+      "archive_member": "pose-live-v4/audit_v4/test_audit_raw.py",
+      "bytes": 4804,
+      "sha256": "9d8d1cace1ed1a79b19d35f40a96d9907628e0b6314ab4e8993a281e7fe6da1f",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/pose-live-v4/audit_v4/audit_raw.py",
+      "archive": "pose-live-program-source.zip",
+      "archive_member": "pose-live-v4/audit_v4/audit_raw.py",
+      "bytes": 11650,
+      "sha256": "9309042edc26394f399166a548459fa88a375d1668156091063f4741919dc3b6",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/pose-live-v4/audit_v4/test_joint_policy_independent.mjs",
+      "archive": "pose-live-program-source.zip",
+      "archive_member": "pose-live-v4/audit_v4/test_joint_policy_independent.mjs",
+      "bytes": 5268,
+      "sha256": "7dcc8e54ebc8c50ba63779fa63db05a0023de639372952631b0e925255f98dce",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/pose-live-v4/audit_v4/final-verdict.md",
+      "archive": "pose-live-program-source.zip",
+      "archive_member": "pose-live-v4/audit_v4/final-verdict.md",
+      "bytes": 7461,
+      "sha256": "a9cdc4e6a81fcaaca659c20618e9e2fa437546892a2aa5f53ad7be81b7ac8a18",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/package.json",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/package.json",
+      "bytes": 314,
+      "sha256": "9cdcfdd19572714ddedee7f9ed3677f3113587ccab2fdc65be8a3d25b0895398",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/server.py",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/server.py",
+      "bytes": 2546,
+      "sha256": "26ed4b3ad5747c3cb89af66408408466e4ef9efff33b1020d56236955c71b682",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/README-zh.md",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/README-zh.md",
+      "bytes": 5456,
+      "sha256": "f62045721235a125730742b431881d98af592f22f29272ae356a8db9dab1ea39",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/v5-to-v5.1-inputs.diff",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/v5-to-v5.1-inputs.diff",
+      "bytes": 13462,
+      "sha256": "9e57eb76ef4f1318e4960000a59aa48ddd21f5b5b15771e3f234b2d00070ae6e",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/README-v51-historical.md",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/README-v51-historical.md",
+      "bytes": 9757,
+      "sha256": "ada94bc467bc09b51eb5b72940032ff2854910785f3c43bf15eb582cddce04cd",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/start.sh",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/start.sh",
+      "bytes": 178,
+      "sha256": "cb617184775a0cf6ad5c362f4c5b9c371c80873961985b75eff819e8588ec595",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/package-lock.json",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/package-lock.json",
+      "bytes": 15258,
+      "sha256": "6ea0d73c7b960f1b8199ee3c8fb75d5b857f5c81bde617b2de01f18d7e7fbca1",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/CHANGELOG-v5.1.md",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/CHANGELOG-v5.1.md",
+      "bytes": 1784,
+      "sha256": "4411ff09cc12beb43ca459486410c7fbef5f625dd0dafa8e580a1737ad267082",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/test.mjs",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/test.mjs",
+      "bytes": 721,
+      "sha256": "cefaa76d96307493ddf6a209bb95a7996b2b93e64e7db3c3f3764c73a7fc7f7c",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/scripts/build_seamless_assets.py",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/scripts/build_seamless_assets.py",
+      "bytes": 2145,
+      "sha256": "c9a705797523379f365513f11d186b491408ea904759addd98837ec4035eeb00",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/scripts/hash_source.py",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/scripts/hash_source.py",
+      "bytes": 879,
+      "sha256": "13cd54cd45e2d7f422e56718fad42758de62431431b32048654324ce2e52d1f3",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/scripts/export_recordings.py",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/scripts/export_recordings.py",
+      "bytes": 1482,
+      "sha256": "397fe903877ac51738e5b2e940f93d9738bb6a20ff83fea63f71df26f942f640",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/scripts/verify_transport.py",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/scripts/verify_transport.py",
+      "bytes": 870,
+      "sha256": "d13b50dc2c36f1e3909c7bb7a216c12ad191046c5f56f426a3d6960bdbd95b14",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/scripts/package_delivery.py",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/scripts/package_delivery.py",
+      "bytes": 8230,
+      "sha256": "f238dbc55f9cfc57dbe9330ea3e33c41f9cb2d142d6022939defe32e0571e842",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/scripts/package_v52.py",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/scripts/package_v52.py",
+      "bytes": 3869,
+      "sha256": "463d74bc202517f28b5ed0832bd23d34b17b89a43a3bcacf927aef3eca9fda4f",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/scripts/summarize_round.py",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/scripts/summarize_round.py",
+      "bytes": 5835,
+      "sha256": "2a5db4d8e2ab43c9b4d2d626826f07ec139b9db0b9e8e1f418950c4c4f5762e1",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/scripts/download_assets.py",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/scripts/download_assets.py",
+      "bytes": 1241,
+      "sha256": "04144a7876fa7dc3d8357d8a3ab479cd548a159b0d1efc9144b95fa8679fab54",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/scripts/test_range.py",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/scripts/test_range.py",
+      "bytes": 695,
+      "sha256": "0b8facb329ae9ad1937c3d9db16ee164043aecb014589a2f6d304635b0a93b6e",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/tests/policy.test.mjs",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/tests/policy.test.mjs",
+      "bytes": 3809,
+      "sha256": "bc2c81e1423bc366ffd7c26335a8bbd02321e5eb54058373e0449b6973c7e301",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/tests/worker.test.mjs",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/tests/worker.test.mjs",
+      "bytes": 1545,
+      "sha256": "44ad17cc2ca89c3f009c262c9d8b585c564d2118aaad039e339ed26d6eb52eaf",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/tests/seamless-source.test.mjs",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/tests/seamless-source.test.mjs",
+      "bytes": 2030,
+      "sha256": "23ef1b2e7e55608f3feaa4c6a880e23a25b25a52d88e9c028ce892dea660a02d",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/tests/python-worker.test.mjs",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/tests/python-worker.test.mjs",
+      "bytes": 2727,
+      "sha256": "1d8e0ee6047e4bae4cbd3ad960a07b8ae3d0c4f774f12a71e2d3938c5257ed53",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/tests/frame-queue.test.mjs",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/tests/frame-queue.test.mjs",
+      "bytes": 1640,
+      "sha256": "c88e686da3fce92e49cac62b0d902d065f82a90a045f4dc0085933034c363634",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/assets/model-manifest.json",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/assets/model-manifest.json",
+      "bytes": 387,
+      "sha256": "b0ce1d0a3737c96a3a9783a00d74937799e1b7b30a4f62c79c9a934bc7ab2449",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/public/source-manifest.json",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/public/source-manifest.json",
+      "bytes": 2127,
+      "sha256": "a3a757c242688d8dcd5126f368229d97590ee535ae75bbdff353bed3cbf920b6",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/public/pose-worker.js",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/public/pose-worker.js",
+      "bytes": 7515,
+      "sha256": "e7a2cd8cf823f5ed348e387c58a36fcef537f3e5c18f8bbbdfba109d84b94da2",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/public/transport-test.html",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/public/transport-test.html",
+      "bytes": 1444,
+      "sha256": "1cb5662a71c53ed9a4952369f00d4f375ae56485c1930bcf4c4ff1a1b665b557",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/public/frame-queue.js",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/public/frame-queue.js",
+      "bytes": 1921,
+      "sha256": "cefb640a0adc95c362038b3864fd9256ef4ab5e36e1c6a63f34069bbc4f733e3",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/public/app.js",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/public/app.js",
+      "bytes": 35223,
+      "sha256": "1815aa2b92ea4b6583058aee68accb52b2afe6af6df8c4c3411b21983c0b38f6",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/public/joint-policy-v4.js",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/public/joint-policy-v4.js",
+      "bytes": 5836,
+      "sha256": "0385f6c8758f323f45a02a8185ee46d4e41618186a4ca24e0fc7e7a5227d78ed",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/public/index.html",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/public/index.html",
+      "bytes": 3885,
+      "sha256": "11e52b6b06f90ff61de074a940a7dea0a6a1e85fd57dd6b1dcea77e0529af18b",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/public/style.css",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/public/style.css",
+      "bytes": 3732,
+      "sha256": "47b006be25bfc5b8151be2b0fe316495733eb1597c998208427776fa8e7e7231",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/public/app-v4-reference.js",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/public/app-v4-reference.js",
+      "bytes": 22872,
+      "sha256": "5f8eb5f94d8b8fe0722d4c0892813a3001be874738dad1509d3556a0d1f7ddde",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/public/seamless-source.js",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/public/seamless-source.js",
+      "bytes": 4185,
+      "sha256": "61de94f6a41a89e666580ff38696989eed2f3eaf26af446158fe50d869a1a042",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/public/joint-policy.js",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/public/joint-policy.js",
+      "bytes": 5199,
+      "sha256": "dccd9be314ee1f23ee2b93855df9b6c8054fa791c115b17e67edafdda8175a73",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/public/joint-policy-v51.js",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/public/joint-policy-v51.js",
+      "bytes": 5199,
+      "sha256": "dccd9be314ee1f23ee2b93855df9b6c8054fa791c115b17e67edafdda8175a73",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/assets/videos/manifest.json",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/assets/videos/manifest.json",
+      "bytes": 9336,
+      "sha256": "40f2b22ad96959c805ee7da1f7edd4c110b0a4c85fe0c26c6ccee3df0aa51ef1",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/assets/videos/ALTERNATIVE-SOURCES.md",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/assets/videos/ALTERNATIVE-SOURCES.md",
+      "bytes": 4231,
+      "sha256": "a900b799e8e021c2efbbb1c12f572c9649208d178b665ec8950017752e4612df",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/assets/videos/alternative-input-manifest.json",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/assets/videos/alternative-input-manifest.json",
+      "bytes": 4693,
+      "sha256": "002b4892f74696904d191e993f5da0dbfc91436154e410e63f65fa433b6ffb8a",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/assets/videos/active-candidates.json",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/assets/videos/active-candidates.json",
+      "bytes": 5315,
+      "sha256": "9f60e95a1254a48f4536b51310a349803ef614de0eb8d91fe8125ed03e9f00ce",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/assets/videos/intel-LICENSE",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/assets/videos/intel-LICENSE",
+      "bytes": 18652,
+      "sha256": "e7edaaaeb0cd6da6a3dd97c54f3e8443ef027be685253fab64bf6eed2419ee7e",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/assets/videos/active-inputs.json",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/assets/videos/active-inputs.json",
+      "bytes": 492,
+      "sha256": "48d6238acb0658f4cff0b6f6757049735a1e48828d1ad9477f795655129d82d7",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/assets/videos/COMMONS-SOURCES.md",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/assets/videos/COMMONS-SOURCES.md",
+      "bytes": 6365,
+      "sha256": "ff761a4bb1b5381fefb9de0c9189d4b270e880793206d41a60d8dc1c7444d5b8",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/assets/videos/SOURCES.md",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/assets/videos/SOURCES.md",
+      "bytes": 5090,
+      "sha256": "18352ed76faa5063c74d6dc4e489215bcc6f2e84deb60ca09284e9bac6674ba9",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/assets/videos/seamless/commons-pirouettes25.json",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/assets/videos/seamless/commons-pirouettes25.json",
+      "bytes": 6176,
+      "sha256": "a381dd5db075ed280942d8566793ceae5c864f8f0a9a7f99d7c288e983dcd322",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/assets/videos/seamless/commons-overhead25.json",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/assets/videos/seamless/commons-overhead25.json",
+      "bytes": 5489,
+      "sha256": "75cd6d6758990a592bc5298570687d3a65d769ea1433e49f5a1ef2848f008964",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52/assets/videos/seamless/commons-jumping2997.json",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52/assets/videos/seamless/commons-jumping2997.json",
+      "bytes": 8367,
+      "sha256": "8bff3c4a83fa7d77a97a52d7833dc76c111014d5f8083faba7ffc99fe871758f",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52-python/server_epoch_modes.py",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52-python/server_epoch_modes.py",
+      "bytes": 16315,
+      "sha256": "5024289a6bd4d6eaab6e3cbb4ab05ffbf426daa06834b8c0b507f940fe77187d",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52-python/epoch_clock.py",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52-python/epoch_clock.py",
+      "bytes": 2102,
+      "sha256": "abaef40872432d3973afd7a9ad80b9921190da6ce552a94f6def213fda2fded1",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52-python/start.sh",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52-python/start.sh",
+      "bytes": 334,
+      "sha256": "385a7962d28d3345b2fe8634945268ffa986062b5bcd3688dce6e3d42c865608",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52-python/start-epoch-modes.sh",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52-python/start-epoch-modes.sh",
+      "bytes": 314,
+      "sha256": "edbd8bca4aa53d2923f6441249b0113b7b2889987b22bb04213af5b7d29bbea7",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52-python/install-linux.sh",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52-python/install-linux.sh",
+      "bytes": 1086,
+      "sha256": "b1ba163b47bd6938887930fb4650d99fed50a91d7bc48811c06e71e2e909adc0",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52-python/fetch-debian-libgles.sh",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52-python/fetch-debian-libgles.sh",
+      "bytes": 847,
+      "sha256": "3aede1e0aa8ef6a044df4b1f1458ebbcf0c4cb9d555130be4de36f0bd6cf2485",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52-python/requirements-lock.txt",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52-python/requirements-lock.txt",
+      "bytes": 708,
+      "sha256": "0bdeac057424a9eb9c3f4e74d9eac07e1d808f77da10ef805b2e62e9a3b7de20",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52-python/requirements-observed.txt",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52-python/requirements-observed.txt",
+      "bytes": 547,
+      "sha256": "41610fc620cbbc135dec2fce2313ff6a1326d2bf7497edea3a2ef1641cd822a2",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52-python/verify_layout.py",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52-python/verify_layout.py",
+      "bytes": 1772,
+      "sha256": "70e639d75b9447d6cc2216566e4d3cf2742955f3ab82fd1725f2da066583eed3",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52-python/INSTALL.md",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52-python/INSTALL.md",
+      "bytes": 7996,
+      "sha256": "2d86e6080a1908ff6257b46101a4868c355b733e83ed924e59ad964d36b02df9",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52-python/EPOCH-MODES.md",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52-python/EPOCH-MODES.md",
+      "bytes": 4309,
+      "sha256": "6e9199a55d4dab19596b3ffa890afe899573903d573e7949fca31df6fb76ee66",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52-python/test_epoch_clock.py",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52-python/test_epoch_clock.py",
+      "bytes": 2286,
+      "sha256": "86bfc5e533e6f8c76e24af34ea890d807608eeae47587725c7ff5e0dc260c3e1",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52-python/test_epoch_backend.py",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52-python/test_epoch_backend.py",
+      "bytes": 3670,
+      "sha256": "88d2daf18bcd865f4501155e57dac1ccec13e71751304aa306e9cff187a614f3",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52-python/test_api.py",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52-python/test_api.py",
+      "bytes": 4569,
+      "sha256": "c3814b45c8e4f69ab331350b3b739ba39577c4d48df3694b8314afc98b7fd588",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "baselines/v5.2/pose-v52-python/collect_environment.py",
+      "archive": "pose-live-v5.2-source.zip",
+      "archive_member": "pose-v52-python/collect_environment.py",
+      "bytes": 777,
+      "sha256": "7d0eb8d30ef14a8f473d52d35348085cb2e337cbd0787faad164e10778a35596",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/src/opensim_ik.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/src/opensim_ik.py",
+      "bytes": 10051,
+      "sha256": "b050b1dbc8171b73203a40445eef3e0163036c25d7813b21c31724d2c794f185",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/src/summarize_live.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/src/summarize_live.py",
+      "bytes": 2524,
+      "sha256": "412b90f6ec97c2f4250903d7c63941f442f10f567373d5874c27089fcc40b003",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/src/package_results.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/src/package_results.py",
+      "bytes": 2335,
+      "sha256": "815b69105b2e4e2aff1f05a3ea893e6b7f9a25f9fe201f1881a612d57a6e8b3e",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/src/run_offline.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/src/run_offline.py",
+      "bytes": 5281,
+      "sha256": "8cf5f0ee5e2b29d3839258abef099daefae668d32c24722a3e8bf440640dd78a",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/src/simplified_human.osim",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/src/simplified_human.osim",
+      "bytes": 57054,
+      "sha256": "af87326e84fb39c38533300b183f90bf28d986320888550f5caf23260ba3c172",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/audit/audit_live.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/audit/audit_live.py",
+      "bytes": 9989,
+      "sha256": "8fd16ebd7858ef59b6716e28a5b61623ea5d2e736ed678655e346066e45dec62",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/audit/run_independent_audit.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/audit/run_independent_audit.py",
+      "bytes": 6044,
+      "sha256": "38f6fbf79ab495accc64908475af9bf7a8960ed0649e2508d97908f44679f4e5",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/audit/run_boundary_audit.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/audit/run_boundary_audit.py",
+      "bytes": 1450,
+      "sha256": "883a3859a50f0e47f315eab0b809dfd7dc634180081d25ed64becd0ec3fd7e64",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/audit/run_wrapper_audit.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/audit/run_wrapper_audit.py",
+      "bytes": 1756,
+      "sha256": "dc55beccbc334f2dc4caeedbfa633dd67d135da78eb82199e8d8a6298e308b64",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/audit/protocol.json",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/audit/protocol.json",
+      "bytes": 2411,
+      "sha256": "612a5b225dcf7929c1b434bc2a5bf9208ef25747f002b94071994324784670ee",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/audit/audit_real_outputs.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/audit/audit_real_outputs.py",
+      "bytes": 4298,
+      "sha256": "f9aea54e2142099a70e009121d2b9187c476cde86c1779e38cbae8bb38c7887b",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/audit/snapshot/opensim_ik.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/audit/snapshot/opensim_ik.py",
+      "bytes": 10051,
+      "sha256": "b050b1dbc8171b73203a40445eef3e0163036c25d7813b21c31724d2c794f185",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/README-live-comparison.md",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/README-live-comparison.md",
+      "bytes": 4183,
+      "sha256": "ffdd907d81d7cfed2fb1b0d4cdfdd1d40733f7e43297709d81efa00ada9c5913",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/start-live.sh",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/start-live.sh",
+      "bytes": 398,
+      "sha256": "b3b6a3e0f9c21a9cf0910bae6cbf0b17524762624d72c33b4da4591987e39849",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52-python/INSTALL.md",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52-python/INSTALL.md",
+      "bytes": 7996,
+      "sha256": "2d86e6080a1908ff6257b46101a4868c355b733e83ed924e59ad964d36b02df9",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52-python/live_ik.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52-python/live_ik.py",
+      "bytes": 5650,
+      "sha256": "a80ea6ff39e09a8e15320f988555a57772009108733ac697a30a27fda9b781c9",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52-python/install-linux.sh",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52-python/install-linux.sh",
+      "bytes": 1086,
+      "sha256": "b1ba163b47bd6938887930fb4650d99fed50a91d7bc48811c06e71e2e909adc0",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52-python/collect_environment.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52-python/collect_environment.py",
+      "bytes": 777,
+      "sha256": "7d0eb8d30ef14a8f473d52d35348085cb2e337cbd0787faad164e10778a35596",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52-python/test_epoch_clock.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52-python/test_epoch_clock.py",
+      "bytes": 2286,
+      "sha256": "86bfc5e533e6f8c76e24af34ea890d807608eeae47587725c7ff5e0dc260c3e1",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52-python/test_live_ik.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52-python/test_live_ik.py",
+      "bytes": 3365,
+      "sha256": "d7ed76cb5a3ea1c1e552abeb3269bd58ff06e33b8e8ea640502945cf5554dac0",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52-python/fetch-debian-libgles.sh",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52-python/fetch-debian-libgles.sh",
+      "bytes": 847,
+      "sha256": "3aede1e0aa8ef6a044df4b1f1458ebbcf0c4cb9d555130be4de36f0bd6cf2485",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52-python/requirements-lock.txt",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52-python/requirements-lock.txt",
+      "bytes": 708,
+      "sha256": "0bdeac057424a9eb9c3f4e74d9eac07e1d808f77da10ef805b2e62e9a3b7de20",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52-python/verify_layout.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52-python/verify_layout.py",
+      "bytes": 1772,
+      "sha256": "70e639d75b9447d6cc2216566e4d3cf2742955f3ab82fd1725f2da066583eed3",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52-python/EPOCH-MODES.md",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52-python/EPOCH-MODES.md",
+      "bytes": 4309,
+      "sha256": "6e9199a55d4dab19596b3ffa890afe899573903d573e7949fca31df6fb76ee66",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52-python/requirements-observed.txt",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52-python/requirements-observed.txt",
+      "bytes": 547,
+      "sha256": "41610fc620cbbc135dec2fce2313ff6a1326d2bf7497edea3a2ef1641cd822a2",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52-python/test_epoch_backend.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52-python/test_epoch_backend.py",
+      "bytes": 3671,
+      "sha256": "a34ea225bfda11a47d81f0a556175b4c038d27ece716594eaa2258ca9c3c042d",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52-python/start-epoch-modes.sh",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52-python/start-epoch-modes.sh",
+      "bytes": 314,
+      "sha256": "edbd8bca4aa53d2923f6441249b0113b7b2889987b22bb04213af5b7d29bbea7",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52-python/test_api.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52-python/test_api.py",
+      "bytes": 4569,
+      "sha256": "c3814b45c8e4f69ab331350b3b739ba39577c4d48df3694b8314afc98b7fd588",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52-python/epoch_clock.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52-python/epoch_clock.py",
+      "bytes": 2102,
+      "sha256": "abaef40872432d3973afd7a9ad80b9921190da6ce552a94f6def213fda2fded1",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52-python/server_epoch_modes.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52-python/server_epoch_modes.py",
+      "bytes": 17615,
+      "sha256": "de30990b5f108b842c15d3cb5ae708a249435b303341b8fdebbfd0bf8eb0d423",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52-python/start.sh",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52-python/start.sh",
+      "bytes": 334,
+      "sha256": "385a7962d28d3345b2fe8634945268ffa986062b5bcd3688dce6e3d42c865608",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/v5-to-v5.1-inputs.diff",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/v5-to-v5.1-inputs.diff",
+      "bytes": 13462,
+      "sha256": "9e57eb76ef4f1318e4960000a59aa48ddd21f5b5b15771e3f234b2d00070ae6e",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/package.json",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/package.json",
+      "bytes": 314,
+      "sha256": "9cdcfdd19572714ddedee7f9ed3677f3113587ccab2fdc65be8a3d25b0895398",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/server.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/server.py",
+      "bytes": 2546,
+      "sha256": "26ed4b3ad5747c3cb89af66408408466e4ef9efff33b1020d56236955c71b682",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/CHANGELOG-v5.1.md",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/CHANGELOG-v5.1.md",
+      "bytes": 1784,
+      "sha256": "4411ff09cc12beb43ca459486410c7fbef5f625dd0dafa8e580a1737ad267082",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/test.mjs",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/test.mjs",
+      "bytes": 721,
+      "sha256": "cefaa76d96307493ddf6a209bb95a7996b2b93e64e7db3c3f3764c73a7fc7f7c",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/package-lock.json",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/package-lock.json",
+      "bytes": 15258,
+      "sha256": "6ea0d73c7b960f1b8199ee3c8fb75d5b857f5c81bde617b2de01f18d7e7fbca1",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/README-zh.md",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/README-zh.md",
+      "bytes": 5456,
+      "sha256": "f62045721235a125730742b431881d98af592f22f29272ae356a8db9dab1ea39",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/README-v51-historical.md",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/README-v51-historical.md",
+      "bytes": 9757,
+      "sha256": "ada94bc467bc09b51eb5b72940032ff2854910785f3c43bf15eb582cddce04cd",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/start.sh",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/start.sh",
+      "bytes": 178,
+      "sha256": "cb617184775a0cf6ad5c362f4c5b9c371c80873961985b75eff819e8588ec595",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/tests/policy.test.mjs",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/tests/policy.test.mjs",
+      "bytes": 3809,
+      "sha256": "bc2c81e1423bc366ffd7c26335a8bbd02321e5eb54058373e0449b6973c7e301",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/tests/seamless-source.test.mjs",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/tests/seamless-source.test.mjs",
+      "bytes": 2030,
+      "sha256": "23ef1b2e7e55608f3feaa4c6a880e23a25b25a52d88e9c028ce892dea660a02d",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/tests/frame-queue.test.mjs",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/tests/frame-queue.test.mjs",
+      "bytes": 1640,
+      "sha256": "c88e686da3fce92e49cac62b0d902d065f82a90a045f4dc0085933034c363634",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/tests/python-worker.test.mjs",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/tests/python-worker.test.mjs",
+      "bytes": 3560,
+      "sha256": "2cb7d806751101e9f0dfe7ad2776f7993a5d987725db655d33e3b73e66c1de0f",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/tests/worker.test.mjs",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/tests/worker.test.mjs",
+      "bytes": 1545,
+      "sha256": "44ad17cc2ca89c3f009c262c9d8b585c564d2118aaad039e339ed26d6eb52eaf",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/assets/model-manifest.json",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/assets/model-manifest.json",
+      "bytes": 387,
+      "sha256": "b0ce1d0a3737c96a3a9783a00d74937799e1b7b30a4f62c79c9a934bc7ab2449",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/scripts/verify_transport.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/scripts/verify_transport.py",
+      "bytes": 870,
+      "sha256": "d13b50dc2c36f1e3909c7bb7a216c12ad191046c5f56f426a3d6960bdbd95b14",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/scripts/test_range.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/scripts/test_range.py",
+      "bytes": 695,
+      "sha256": "0b8facb329ae9ad1937c3d9db16ee164043aecb014589a2f6d304635b0a93b6e",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/scripts/summarize_round.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/scripts/summarize_round.py",
+      "bytes": 5835,
+      "sha256": "2a5db4d8e2ab43c9b4d2d626826f07ec139b9db0b9e8e1f418950c4c4f5762e1",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/scripts/hash_source.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/scripts/hash_source.py",
+      "bytes": 879,
+      "sha256": "13cd54cd45e2d7f422e56718fad42758de62431431b32048654324ce2e52d1f3",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/scripts/package_v52.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/scripts/package_v52.py",
+      "bytes": 3869,
+      "sha256": "463d74bc202517f28b5ed0832bd23d34b17b89a43a3bcacf927aef3eca9fda4f",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/scripts/package_delivery.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/scripts/package_delivery.py",
+      "bytes": 8230,
+      "sha256": "f238dbc55f9cfc57dbe9330ea3e33c41f9cb2d142d6022939defe32e0571e842",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/scripts/export_recordings.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/scripts/export_recordings.py",
+      "bytes": 1482,
+      "sha256": "397fe903877ac51738e5b2e940f93d9738bb6a20ff83fea63f71df26f942f640",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/scripts/download_assets.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/scripts/download_assets.py",
+      "bytes": 1241,
+      "sha256": "04144a7876fa7dc3d8357d8a3ab479cd548a159b0d1efc9144b95fa8679fab54",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/scripts/build_seamless_assets.py",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/scripts/build_seamless_assets.py",
+      "bytes": 2145,
+      "sha256": "c9a705797523379f365513f11d186b491408ea904759addd98837ec4035eeb00",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/public/joint-policy-v51.js",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/public/joint-policy-v51.js",
+      "bytes": 5199,
+      "sha256": "dccd9be314ee1f23ee2b93855df9b6c8054fa791c115b17e67edafdda8175a73",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/public/joint-policy-v4.js",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/public/joint-policy-v4.js",
+      "bytes": 5836,
+      "sha256": "0385f6c8758f323f45a02a8185ee46d4e41618186a4ca24e0fc7e7a5227d78ed",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/public/record-comparison.js",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/public/record-comparison.js",
+      "bytes": 3135,
+      "sha256": "d70dcb9a88f6cc450a69f4469c2a843f4f7136a130a265c8c340eda8b5f406d9",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/public/source-manifest.json",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/public/source-manifest.json",
+      "bytes": 2127,
+      "sha256": "a3a757c242688d8dcd5126f368229d97590ee535ae75bbdff353bed3cbf920b6",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/public/joint-policy.js",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/public/joint-policy.js",
+      "bytes": 5199,
+      "sha256": "dccd9be314ee1f23ee2b93855df9b6c8054fa791c115b17e67edafdda8175a73",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/public/transport-test.html",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/public/transport-test.html",
+      "bytes": 1444,
+      "sha256": "1cb5662a71c53ed9a4952369f00d4f375ae56485c1930bcf4c4ff1a1b665b557",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/public/seamless-source.js",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/public/seamless-source.js",
+      "bytes": 4185,
+      "sha256": "61de94f6a41a89e666580ff38696989eed2f3eaf26af446158fe50d869a1a042",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/public/index.html",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/public/index.html",
+      "bytes": 4247,
+      "sha256": "2ab0208c0f222f9bba420c6feb8eae2d807c04d34c53a337b4a671c779403055",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/public/frame-queue.js",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/public/frame-queue.js",
+      "bytes": 1921,
+      "sha256": "cefb640a0adc95c362038b3864fd9256ef4ab5e36e1c6a63f34069bbc4f733e3",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/public/app-v4-reference.js",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/public/app-v4-reference.js",
+      "bytes": 22872,
+      "sha256": "5f8eb5f94d8b8fe0722d4c0892813a3001be874738dad1509d3556a0d1f7ddde",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/public/app.js",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/public/app.js",
+      "bytes": 38382,
+      "sha256": "993323617d22c90c5b015afdaceaea3165dfe2370231d457b4ccb6357d16961f",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/public/pose-worker.js",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/public/pose-worker.js",
+      "bytes": 9035,
+      "sha256": "87280a46dd5e166853202fc890d77dc62ca1bdaa2610c9ca78fcc9f8337d0048",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/public/style.css",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/public/style.css",
+      "bytes": 4154,
+      "sha256": "be47abce7c7c9ee5b948c1be8d0a987aa2c74922fdc6769de6c2e10409398c9d",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/assets/videos/manifest.json",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/assets/videos/manifest.json",
+      "bytes": 9336,
+      "sha256": "40f2b22ad96959c805ee7da1f7edd4c110b0a4c85fe0c26c6ccee3df0aa51ef1",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/assets/videos/ALTERNATIVE-SOURCES.md",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/assets/videos/ALTERNATIVE-SOURCES.md",
+      "bytes": 4231,
+      "sha256": "a900b799e8e021c2efbbb1c12f572c9649208d178b665ec8950017752e4612df",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/assets/videos/intel-LICENSE",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/assets/videos/intel-LICENSE",
+      "bytes": 18652,
+      "sha256": "e7edaaaeb0cd6da6a3dd97c54f3e8443ef027be685253fab64bf6eed2419ee7e",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/assets/videos/active-inputs.json",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/assets/videos/active-inputs.json",
+      "bytes": 492,
+      "sha256": "48d6238acb0658f4cff0b6f6757049735a1e48828d1ad9477f795655129d82d7",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/assets/videos/COMMONS-SOURCES.md",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/assets/videos/COMMONS-SOURCES.md",
+      "bytes": 6365,
+      "sha256": "ff761a4bb1b5381fefb9de0c9189d4b270e880793206d41a60d8dc1c7444d5b8",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/assets/videos/active-candidates.json",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/assets/videos/active-candidates.json",
+      "bytes": 5315,
+      "sha256": "9f60e95a1254a48f4536b51310a349803ef614de0eb8d91fe8125ed03e9f00ce",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/assets/videos/SOURCES.md",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/assets/videos/SOURCES.md",
+      "bytes": 5090,
+      "sha256": "18352ed76faa5063c74d6dc4e489215bcc6f2e84deb60ca09284e9bac6674ba9",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/assets/videos/alternative-input-manifest.json",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/assets/videos/alternative-input-manifest.json",
+      "bytes": 4693,
+      "sha256": "002b4892f74696904d191e993f5da0dbfc91436154e410e63f65fa433b6ffb8a",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/assets/videos/seamless/commons-pirouettes25.json",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/assets/videos/seamless/commons-pirouettes25.json",
+      "bytes": 6176,
+      "sha256": "a381dd5db075ed280942d8566793ceae5c864f8f0a9a7f99d7c288e983dcd322",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/assets/videos/seamless/commons-overhead25.json",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/assets/videos/seamless/commons-overhead25.json",
+      "bytes": 5489,
+      "sha256": "75cd6d6758990a592bc5298570687d3a65d769ea1433e49f5a1ef2848f008964",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/live-app/pose-v52/assets/videos/seamless/commons-jumping2997.json",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/live-app/pose-v52/assets/videos/seamless/commons-jumping2997.json",
+      "bytes": 8367,
+      "sha256": "8bff3c4a83fa7d77a97a52d7833dc76c111014d5f8083faba7ffc99fe871758f",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/README-zh.md",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/README-zh.md",
+      "bytes": 7305,
+      "sha256": "adb330189a5f4e9686bae8edc730b59305a022bb45f1f559923fdf51f43bd344",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/INSTALL-zh.md",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/INSTALL-zh.md",
+      "bytes": 3393,
+      "sha256": "82c4aad3f024bbf8ba58b91da7efc132ab963924b1dd42431bd796310d05b0f6",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/requirements-minimal.txt",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/requirements-minimal.txt",
+      "bytes": 105,
+      "sha256": "14d8e896273b9ee7e902c8b85137c9ff5bb00cb78849adae6b0dda5288e2d5a0",
+      "content": "unchanged archival source"
+    },
+    {
+      "path": "experiments/pose-ik-v6/baseline-sha256.txt",
+      "archive": "pose-v6-01-source-and-report.zip",
+      "archive_member": "pose-ik-v6/baseline-sha256.txt",
+      "bytes": 11064,
+      "sha256": "136e680f86f7d1a9d9188346cfad260f352722dac5bdd87b7d34ba79d246cdfe",
+      "content": "unchanged archival source"
+    }
+  ],
+  "excluded": [
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/@mediapipe/tasks-vision/vision_bundle.cjs",
+      "bytes": 156240,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/@mediapipe/tasks-vision/README.md",
+      "bytes": 9259,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/@mediapipe/tasks-vision/vision_bundle.js",
+      "bytes": 156161,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/@mediapipe/tasks-vision/vision_bundle.cjs.map",
+      "bytes": 391569,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/@mediapipe/tasks-vision/vision_bundle.mjs",
+      "bytes": 156135,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/@mediapipe/tasks-vision/vision_bundle.mjs.map",
+      "bytes": 391569,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/@mediapipe/tasks-vision/vision.d.ts",
+      "bytes": 132671,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/@mediapipe/tasks-vision/package.json",
+      "bytes": 1192,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/@mediapipe/tasks-vision/wasm/vision_wasm_nosimd_internal.wasm",
+      "bytes": 12168316,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/@mediapipe/tasks-vision/wasm/vision_wasm_internal.js",
+      "bytes": 335393,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/@mediapipe/tasks-vision/wasm/vision_wasm_internal.wasm",
+      "bytes": 12997248,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/@mediapipe/tasks-vision/wasm/vision_wasm_module_internal.js",
+      "bytes": 335431,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/@mediapipe/tasks-vision/wasm/vision_wasm_nosimd_internal.js",
+      "bytes": 335196,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/@mediapipe/tasks-vision/wasm/vision_wasm_module_internal.wasm",
+      "bytes": 12997272,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/three/build/three.webgpu.js",
+      "bytes": 1875505,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/three/build/three.module.js",
+      "bytes": 603113,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/three/build/three.core.js",
+      "bytes": 1403455,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/three/build/three.webgpu.nodes.js",
+      "bytes": 1868520,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/three/build/three.webgpu.nodes.min.js",
+      "bytes": 578388,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/three/build/three.module.min.js",
+      "bytes": 338908,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/three/build/three.tsl.min.js",
+      "bytes": 22331,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/three/build/three.core.min.js",
+      "bytes": 381124,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/three/build/three.tsl.js",
+      "bytes": 32271,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/three/build/three.webgpu.min.js",
+      "bytes": 579780,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/three/build/three.cjs",
+      "bytes": 2006834,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/three/examples/jsm/controls/OrbitControls.js",
+      "bytes": 38703,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/three/package.json",
+      "bytes": 4635,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/node_modules/three/LICENSE",
+      "bytes": 1081,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-program-source.zip",
+      "member": "pose-live-v4/assets/pose_landmarker_lite.task",
+      "bytes": 5777746,
+      "reason": "Model/media/binary payload excluded"
+    },
+    {
+      "archive": "pose-live-v5.2-source.zip",
+      "member": "pose-v52/assets/pose_landmarker_lite.task",
+      "bytes": 5777746,
+      "reason": "Model/media/binary payload excluded"
+    },
+    {
+      "archive": "pose-live-v5.2-source.zip",
+      "member": "pose-v52/assets/videos/restoration-report.json",
+      "bytes": 7758,
+      "reason": "Derived audit/runtime/media diagnostic output excluded"
+    },
+    {
+      "archive": "pose-live-v5.2-source.zip",
+      "member": "pose-v52/assets/videos/candidates-commons/grands-battements-pirouettes-720p.source-frame-map.csv",
+      "bytes": 10052,
+      "reason": "Non-source diagnostic or generated data excluded"
+    },
+    {
+      "archive": "pose-live-v5.2-source.zip",
+      "member": "pose-v52/assets/videos/candidates-commons/grands-battements-pirouettes-720p.ffprobe.json",
+      "bytes": 2351,
+      "reason": "Derived audit/runtime/media diagnostic output excluded"
+    },
+    {
+      "archive": "pose-live-v5.2-source.zip",
+      "member": "pose-v52/assets/videos/candidates-commons/overhead-kettlebell-squat-720p.ffprobe.json",
+      "bytes": 2346,
+      "reason": "Derived audit/runtime/media diagnostic output excluded"
+    },
+    {
+      "archive": "pose-live-v5.2-source.zip",
+      "member": "pose-v52/assets/videos/candidates-commons/overhead-kettlebell-squat-720p.source-frame-map.csv",
+      "bytes": 10465,
+      "reason": "Non-source diagnostic or generated data excluded"
+    },
+    {
+      "archive": "pose-live-v5.2-source.zip",
+      "member": "pose-v52/assets/videos/candidates-commons/jumping-jacks-burpees-20s.ffprobe.json",
+      "bytes": 2406,
+      "reason": "Derived audit/runtime/media diagnostic output excluded"
+    },
+    {
+      "archive": "pose-live-v5.2-source.zip",
+      "member": "pose-v52/assets/videos/candidates-commons/jumping-jacks-burpees-20s.frame-audit.json",
+      "bytes": 703,
+      "reason": "Derived audit/runtime/media diagnostic output excluded"
+    },
+    {
+      "archive": "pose-live-v5.2-source.zip",
+      "member": "pose-v52/assets/videos/candidates-commons/grands-battements-pirouettes-720p.frame-audit.json",
+      "bytes": 694,
+      "reason": "Derived audit/runtime/media diagnostic output excluded"
+    },
+    {
+      "archive": "pose-live-v5.2-source.zip",
+      "member": "pose-v52/assets/videos/candidates-commons/jumping-jacks-burpees-20s.source-frame-map.csv",
+      "bytes": 17122,
+      "reason": "Non-source diagnostic or generated data excluded"
+    },
+    {
+      "archive": "pose-live-v5.2-source.zip",
+      "member": "pose-v52/assets/videos/candidates-commons/overhead-kettlebell-squat-720p.frame-audit.json",
+      "bytes": 700,
+      "reason": "Derived audit/runtime/media diagnostic output excluded"
+    },
+    {
+      "archive": "pose-live-v5.2-source.zip",
+      "member": "pose-v52/node_modules/three/package.json",
+      "bytes": 4635,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-v5.2-source.zip",
+      "member": "pose-v52/node_modules/three/LICENSE",
+      "bytes": 1081,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-v5.2-source.zip",
+      "member": "pose-v52/node_modules/@mediapipe/tasks-vision/package.json",
+      "bytes": 1192,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-v5.2-source.zip",
+      "member": "pose-v52/node_modules/@mediapipe/tasks-vision/README.md",
+      "bytes": 9259,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-v5.2-source.zip",
+      "member": "pose-v52/node_modules/@mediapipe/tasks-vision/vision_bundle.js",
+      "bytes": 156161,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-v5.2-source.zip",
+      "member": "pose-v52/node_modules/@mediapipe/tasks-vision/vision_bundle.mjs",
+      "bytes": 156135,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-v5.2-source.zip",
+      "member": "pose-v52/node_modules/@mediapipe/tasks-vision/wasm/vision_wasm_nosimd_internal.wasm",
+      "bytes": 12168316,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-v5.2-source.zip",
+      "member": "pose-v52/node_modules/@mediapipe/tasks-vision/wasm/vision_wasm_internal.wasm",
+      "bytes": 12997248,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-v5.2-source.zip",
+      "member": "pose-v52/node_modules/@mediapipe/tasks-vision/wasm/vision_wasm_internal.js",
+      "bytes": 335393,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-v5.2-source.zip",
+      "member": "pose-v52/node_modules/@mediapipe/tasks-vision/wasm/vision_wasm_nosimd_internal.js",
+      "bytes": 335196,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-v5.2-source.zip",
+      "member": "pose-v52/node_modules/@mediapipe/tasks-vision/wasm/vision_wasm_module_internal.js",
+      "bytes": 335431,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-v5.2-source.zip",
+      "member": "pose-v52/node_modules/@mediapipe/tasks-vision/wasm/vision_wasm_module_internal.wasm",
+      "bytes": 12997272,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-v5.2-source.zip",
+      "member": "pose-v52/node_modules/three/build/three.core.js",
+      "bytes": 1403455,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-v5.2-source.zip",
+      "member": "pose-v52/node_modules/three/build/three.module.js",
+      "bytes": 603113,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-live-v5.2-source.zip",
+      "member": "pose-v52/node_modules/three/examples/jsm/controls/OrbitControls.js",
+      "bytes": 38703,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/audit/live_addendum.json",
+      "bytes": 9731,
+      "reason": "Derived audit/runtime/media diagnostic output excluded"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/audit/wrapper_results.json",
+      "bytes": 7390,
+      "reason": "Derived audit/runtime/media diagnostic output excluded"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/audit/baseline_integrity.json",
+      "bytes": 1407,
+      "reason": "Derived audit/runtime/media diagnostic output excluded"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/audit/synthetic_results.json",
+      "bytes": 4067,
+      "reason": "Derived audit/runtime/media diagnostic output excluded"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/audit/real_output_audit.json",
+      "bytes": 4831,
+      "reason": "Derived audit/runtime/media diagnostic output excluded"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/audit/audit_summary.json",
+      "bytes": 2760,
+      "reason": "Derived audit/runtime/media diagnostic output excluded"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/audit/boundary_results.json",
+      "bytes": 5821,
+      "reason": "Derived audit/runtime/media diagnostic output excluded"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/live-app/pose-v52/assets/pose_landmarker_lite.task",
+      "bytes": 5777746,
+      "reason": "Model/media/binary payload excluded"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/live-app/pose-v52/node_modules/three/package.json",
+      "bytes": 4635,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/live-app/pose-v52/node_modules/three/LICENSE",
+      "bytes": 1081,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/live-app/pose-v52/node_modules/@mediapipe/tasks-vision/package.json",
+      "bytes": 1192,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/live-app/pose-v52/node_modules/@mediapipe/tasks-vision/vision_bundle.mjs",
+      "bytes": 156135,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/live-app/pose-v52/node_modules/@mediapipe/tasks-vision/README.md",
+      "bytes": 9259,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/live-app/pose-v52/node_modules/@mediapipe/tasks-vision/vision_bundle.js",
+      "bytes": 156161,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/live-app/pose-v52/node_modules/@mediapipe/tasks-vision/wasm/vision_wasm_module_internal.wasm",
+      "bytes": 12997272,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/live-app/pose-v52/node_modules/@mediapipe/tasks-vision/wasm/vision_wasm_internal.wasm",
+      "bytes": 12997248,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/live-app/pose-v52/node_modules/@mediapipe/tasks-vision/wasm/vision_wasm_module_internal.js",
+      "bytes": 335431,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/live-app/pose-v52/node_modules/@mediapipe/tasks-vision/wasm/vision_wasm_internal.js",
+      "bytes": 335393,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/live-app/pose-v52/node_modules/@mediapipe/tasks-vision/wasm/vision_wasm_nosimd_internal.wasm",
+      "bytes": 12168316,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/live-app/pose-v52/node_modules/@mediapipe/tasks-vision/wasm/vision_wasm_nosimd_internal.js",
+      "bytes": 335196,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/live-app/pose-v52/node_modules/three/build/three.module.js",
+      "bytes": 603113,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/live-app/pose-v52/node_modules/three/build/three.core.js",
+      "bytes": 1403455,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/live-app/pose-v52/node_modules/three/examples/jsm/controls/OrbitControls.js",
+      "bytes": 38703,
+      "reason": "Vendored dependencies; restore from pinned package lock"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/live-app/pose-v52/assets/videos/restoration-report.json",
+      "bytes": 7758,
+      "reason": "Derived audit/runtime/media diagnostic output excluded"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/live-app/pose-v52/assets/videos/candidates-commons/jumping-jacks-burpees-20s.frame-audit.json",
+      "bytes": 703,
+      "reason": "Derived audit/runtime/media diagnostic output excluded"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/live-app/pose-v52/assets/videos/candidates-commons/overhead-kettlebell-squat-720p.ffprobe.json",
+      "bytes": 2346,
+      "reason": "Derived audit/runtime/media diagnostic output excluded"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/live-app/pose-v52/assets/videos/candidates-commons/jumping-jacks-burpees-20s.ffprobe.json",
+      "bytes": 2406,
+      "reason": "Derived audit/runtime/media diagnostic output excluded"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/live-app/pose-v52/assets/videos/candidates-commons/jumping-jacks-burpees-20s.source-frame-map.csv",
+      "bytes": 17122,
+      "reason": "Non-source diagnostic or generated data excluded"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/live-app/pose-v52/assets/videos/candidates-commons/grands-battements-pirouettes-720p.frame-audit.json",
+      "bytes": 694,
+      "reason": "Derived audit/runtime/media diagnostic output excluded"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/live-app/pose-v52/assets/videos/candidates-commons/grands-battements-pirouettes-720p.ffprobe.json",
+      "bytes": 2351,
+      "reason": "Derived audit/runtime/media diagnostic output excluded"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/live-app/pose-v52/assets/videos/candidates-commons/overhead-kettlebell-squat-720p.frame-audit.json",
+      "bytes": 700,
+      "reason": "Derived audit/runtime/media diagnostic output excluded"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/live-app/pose-v52/assets/videos/candidates-commons/grands-battements-pirouettes-720p.source-frame-map.csv",
+      "bytes": 10052,
+      "reason": "Non-source diagnostic or generated data excluded"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/live-app/pose-v52/assets/videos/candidates-commons/overhead-kettlebell-squat-720p.source-frame-map.csv",
+      "bytes": 10465,
+      "reason": "Non-source diagnostic or generated data excluded"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/live-summary.json",
+      "bytes": 107114,
+      "reason": "Historical environment or runtime results excluded"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/environment.json",
+      "bytes": 786,
+      "reason": "Historical environment or runtime results excluded"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "阅读说明.txt",
+      "bytes": 417,
+      "reason": "Archive-level delivery note; not algorithm source"
+    },
+    {
+      "archive": "pose-v6-01-source-and-report.zip",
+      "member": "pose-ik-v6/requirements-environment.txt",
+      "bytes": 2504,
+      "reason": "Machine-specific environment inventory with unrelated local package path; omitted from public backup. Exact runtime dependencies remain in requirements-minimal.txt."
+    }
+  ]
+}

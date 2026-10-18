@@ -1,0 +1,3 @@
+import {spawnSync} from 'node:child_process';
+const checks=[['node',['--check','public/seamless-source.js']],['node',['tests/seamless-source.test.mjs']],['node',['--check','public/app.js']],['node',['--check','public/joint-policy.js']],['node',['--check','public/pose-worker.js']],['node',['tests/policy.test.mjs']],['node',['tests/frame-queue.test.mjs']],['node',['tests/worker.test.mjs']],['node',['tests/python-worker.test.mjs']],['python3',['scripts/test_range.py']]];
+for(const [cmd,args]of checks){const p=spawnSync(cmd,args,{stdio:'inherit'});if(p.status!==0)process.exit(p.status||1);}console.log('All v5 syntax, causal policy, worker contract and Range tests passed. Real browser runs are separately audited.');

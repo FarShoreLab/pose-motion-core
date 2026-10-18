@@ -1,0 +1,11 @@
+{
+  "model": "pose_landmarker_lite",
+  "type": "float16",
+  "revision": 1,
+  "url": "https://storage.googleapis.com/mediapipe-models/pose_landmarker/pose_landmarker_lite/float16/1/pose_landmarker_lite.task",
+  "sha256": "59929e1d1ee95287735ddd833b19cf4ac46d29bc7afddbbf6753c459690d574a",
+  "bytes": 5777746,
+  "mediapipe_tasks_vision": "1.1.0",
+  "delegate": "CPU",
+  "runtime": "WASM"
+}

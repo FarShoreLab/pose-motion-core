@@ -1,0 +1,2 @@
+# Preserve exact archival bytes on all platforms; hashes must not change on checkout.
+* -text

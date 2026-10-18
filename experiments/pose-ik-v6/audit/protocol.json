@@ -1,0 +1,21 @@
+{
+  "status": "preregistered audit protocol, not results",
+  "purpose": "Test whether bounded fixed-length IK suppresses known corruptions without suppressing known motion or promoting missing measurements.",
+  "real_replay_limit": "No independent 3D truth. Anatomical constraints and lower speed tails alone cannot establish accuracy. MediaPipe world coordinates are hip centered.",
+  "real_comparison": [
+    "Match frame_id, epoch and source_pts_ms; compare the exact same raw input and joint masks.",
+    "Keep raw observed/uncertain/lost states distinct from fitted or predicted model coordinates.",
+    "Report full cohort and shared-measured subset; count resets, solver failures, unavailable outputs and extra runtime.",
+    "Separate structural bone/range compliance from raw fit residual, motion amplitude, lag and recovery.",
+    "Treat fitted projection as a 2D consistency proxy unless source camera calibration is known.",
+    "Do not count repeated source loops as independent movements or include context resets in velocity metrics."
+  ],
+  "synthetic_checks": [
+    {"name":"clean_model_motion", "segments":["static", "fast flexion", "full yaw turn across angle wrap", "combined trunk and limb motion"], "position_error_limit":"1 percent of median major limb length", "amplitude_ratio":[0.95,1.05], "max_lag_frames":1},
+    {"name":"known_corruptions", "random_seed":20261014, "noise_sd_m":0.02, "isolated_distal_spike_m":0.25, "primary_metric":"3D error to known clean truth", "secondary_metrics":["clean-frame degradation", "amplitude ratio", "lag"]},
+    {"name":"missing_and_recovery", "missing_frames":10, "joint_types":["wrist", "ankle"], "max_frames_to_recover":2, "hard_failure":"Any unobserved joint certified as observed"},
+    {"name":"frozen_negative_control", "output":"First fitted pose for every time", "required_outcome":"Fail motion-amplitude or known-truth accuracy gate despite zero temporal jumps"}
+  ],
+  "structural_review":["Actual constrained-coordinate enforcement, axes, ordering and units", "Free root versus hidden global clamps", "Causal calibration and priors", "Coordinate wrap and singularity behavior", "No speed clamps or adaptive metrics that predetermine success"],
+  "interpretation":"Thresholds above are engineering prototype acceptance checks, not clinical or anatomical validation. Passing synthetic tests does not imply correct pose on real images."
+}

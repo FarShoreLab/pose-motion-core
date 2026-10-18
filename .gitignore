@@ -1,0 +1,39 @@
+# Local dependencies and caches
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.cache/
+.mplconfig/
+system-libs/
+.DS_Store
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+.npmrc
+.pypirc
+*.pem
+*.key
+credentials*.json
+# Model weights, videos, captures, raw output and private logs
+*.task
+*.wasm
+*.mp4
+*.webm
+*.ogv
+*.mov
+*.avi
+*.npz
+*.npy
+*.jsonl
+*.log
+results/
+output/
+deliverables/
+recordings/
+metric-reference/
+# Repackaged archives and repository exports belong outside this source tree
+*.zip
+*.bundle

@@ -1,0 +1,17 @@
+{
+  "smoke5fps": {
+    "src": "./assets/videos/smoke-google-squats-5fps.mp4",
+    "fps": 5,
+    "label": "Google 5fps 冒烟测试"
+  },
+  "worker5994": {
+    "src": "./assets/videos/intel-worker-zone-detection.mp4",
+    "fps": 59.94005994005994,
+    "label": "真人步行与转向 59.94fps（替代输入）"
+  },
+  "aisle5994": {
+    "src": "./assets/videos/intel-store-aisle-detection.mp4",
+    "fps": 59.94005994005994,
+    "label": "多人货架遮挡 59.94fps（压力样本）"
+  }
+}

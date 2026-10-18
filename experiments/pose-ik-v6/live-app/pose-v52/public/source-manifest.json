@@ -1,0 +1,62 @@
+{
+  "version": "5.2.0",
+  "created_utc": "2026-10-13T02:50:31.441559+00:00",
+  "files": {
+    "public/seamless-source.js": {
+      "sha256": "61de94f6a41a89e666580ff38696989eed2f3eaf26af446158fe50d869a1a042",
+      "bytes": 4185
+    },
+    "public/joint-policy-v51.js": {
+      "sha256": "dccd9be314ee1f23ee2b93855df9b6c8054fa791c115b17e67edafdda8175a73",
+      "bytes": 5199
+    },
+    "public/app.js": {
+      "sha256": "1815aa2b92ea4b6583058aee68accb52b2afe6af6df8c4c3411b21983c0b38f6",
+      "bytes": 35223
+    },
+    "public/frame-queue.js": {
+      "sha256": "cefb640a0adc95c362038b3864fd9256ef4ab5e36e1c6a63f34069bbc4f733e3",
+      "bytes": 1921
+    },
+    "public/joint-policy.js": {
+      "sha256": "dccd9be314ee1f23ee2b93855df9b6c8054fa791c115b17e67edafdda8175a73",
+      "bytes": 5199
+    },
+    "public/joint-policy-v4.js": {
+      "sha256": "0385f6c8758f323f45a02a8185ee46d4e41618186a4ca24e0fc7e7a5227d78ed",
+      "bytes": 5836
+    },
+    "public/pose-worker.js": {
+      "sha256": "e7a2cd8cf823f5ed348e387c58a36fcef537f3e5c18f8bbbdfba109d84b94da2",
+      "bytes": 7515
+    },
+    "public/index.html": {
+      "sha256": "11e52b6b06f90ff61de074a940a7dea0a6a1e85fd57dd6b1dcea77e0529af18b",
+      "bytes": 3885
+    },
+    "public/style.css": {
+      "sha256": "47b006be25bfc5b8151be2b0fe316495733eb1597c998208427776fa8e7e7231",
+      "bytes": 3732
+    },
+    "server.py": {
+      "sha256": "26ed4b3ad5747c3cb89af66408408466e4ef9efff33b1020d56236955c71b682",
+      "bytes": 2546
+    },
+    "package.json": {
+      "sha256": "9cdcfdd19572714ddedee7f9ed3677f3113587ccab2fdc65be8a3d25b0895398",
+      "bytes": 314
+    },
+    "node_modules/@mediapipe/tasks-vision/vision_bundle.js": {
+      "sha256": "022cbbfcdb74bae18e4bbc722e429e046d5fdd35f6183f1359c56b652b8b87f7",
+      "bytes": 156161
+    },
+    "node_modules/three/build/three.module.js": {
+      "sha256": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a",
+      "bytes": 603113
+    },
+    "assets/pose_landmarker_lite.task": {
+      "sha256": "59929e1d1ee95287735ddd833b19cf4ac46d29bc7afddbbf6753c459690d574a",
+      "bytes": 5777746
+    }
+  }
+}

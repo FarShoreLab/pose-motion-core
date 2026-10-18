@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "created_at_utc": "2026-10-10T17:38:29.588786+00:00",
+  "purpose": "Explicit alternative inputs after original three Pexels files could not be restored. Not equivalent test coverage; use same bytes in both implementations for a new paired comparison.",
+  "original_manifest": "manifest.json remains historical and unchanged; original MP4s are absent.",
+  "clips": [
+    {
+      "file": "intel-worker-zone-detection.mp4",
+      "label": "Real walking and turning, 59.94 fps",
+      "role": "Optional higher-frame-rate walking input; single-person and multi-person intervals; not squat/basketball/dance replacement coverage.",
+      "source_page": "https://github.com/intel-iot-devkit/sample-videos/blob/master/worker-zone-detection.mp4",
+      "download_url": "https://raw.githubusercontent.com/intel-iot-devkit/sample-videos/master/worker-zone-detection.mp4",
+      "creator": "Intel IoT DevKit sample-videos contributors",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_license_url": "https://github.com/intel-iot-devkit/sample-videos/blob/master/LICENSE",
+      "license_local_file": "intel-LICENSE",
+      "downloaded_at_utc": "2026-10-10T17:38:27.345331+00:00",
+      "downloaded_original_bytes": true,
+      "local_edits": "None: no trimming, cropping, transcoding, frame duplication, interpolation, time change, or FPS conversion.",
+      "whole_source_interval_seconds": [
+        0,
+        75.8758
+      ],
+      "width": 1920,
+      "height": 1080,
+      "r_frame_rate": "60000/1001",
+      "avg_frame_rate": "60000/1001",
+      "time_base": "1/60000",
+      "stream_duration_seconds": 75.8758,
+      "container_duration_seconds": 75.8758,
+      "video_nb_frames": 4548,
+      "decoded_frame_count": 4548,
+      "sha256": "b8b58b8100a81600bc42ee7ee082ced777b12a32a3619139ef289d27cbdcd284",
+      "size_bytes": 12596893,
+      "audit": {
+        "file": "intel-worker-zone-detection.mp4",
+        "decoded_frames": 4548,
+        "unique_decoded_frame_hashes": 4498,
+        "adjacent_exact_duplicates": 50,
+        "first_pts_seconds": 0.0,
+        "last_pts_seconds": 75.859117,
+        "strictly_increasing_pts": true,
+        "minimum_pts_delta_seconds": 0.016683,
+        "maximum_pts_delta_seconds": 0.016684
+      },
+      "known_limitations": "Original provider video contains some exactly repeated decoded frames; counts are audited, not hidden. These are distinct replacement scenes and cannot support comparison to historical Pexels runs."
+    },
+    {
+      "file": "intel-store-aisle-detection.mp4",
+      "label": "Multiple people and shelf occlusion, 59.94 fps",
+      "role": "Optional multi-person/occlusion pressure test; not a clean single-person benchmark.",
+      "source_page": "https://github.com/intel-iot-devkit/sample-videos/blob/master/store-aisle-detection.mp4",
+      "download_url": "https://raw.githubusercontent.com/intel-iot-devkit/sample-videos/master/store-aisle-detection.mp4",
+      "creator": "Intel IoT DevKit sample-videos contributors",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_license_url": "https://github.com/intel-iot-devkit/sample-videos/blob/master/LICENSE",
+      "license_local_file": "intel-LICENSE",
+      "downloaded_at_utc": "2026-10-10T17:38:29.578694+00:00",
+      "downloaded_original_bytes": true,
+      "local_edits": "None: no trimming, cropping, transcoding, frame duplication, interpolation, time change, or FPS conversion.",
+      "whole_source_interval_seconds": [
+        0,
+        65.41535
+      ],
+      "width": 720,
+      "height": 404,
+      "r_frame_rate": "60000/1001",
+      "avg_frame_rate": "60000/1001",
+      "time_base": "1/60000",
+      "stream_duration_seconds": 65.41535,
+      "container_duration_seconds": 65.415375,
+      "video_nb_frames": 3921,
+      "decoded_frame_count": 3921,
+      "sha256": "3526fee39cac70d6366471e4324a6d63b337c8f8ab99c015521bee0d60ed6e04",
+      "size_bytes": 9214573,
+      "audit": {
+        "file": "intel-store-aisle-detection.mp4",
+        "decoded_frames": 3921,
+        "unique_decoded_frame_hashes": 3888,
+        "adjacent_exact_duplicates": 29,
+        "first_pts_seconds": 0.0,
+        "last_pts_seconds": 65.398667,
+        "strictly_increasing_pts": true,
+        "minimum_pts_delta_seconds": 0.016683,
+        "maximum_pts_delta_seconds": 0.016684
+      },
+      "known_limitations": "Original provider video contains some exactly repeated decoded frames; counts are audited, not hidden. These are distinct replacement scenes and cannot support comparison to historical Pexels runs."
+    }
+  ]
+}
