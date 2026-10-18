@@ -1,0 +1,65 @@
+{
+  "status": "all six Library uploads succeeded",
+  "branch": "research/conflict-tracklets-2026-10-18",
+  "experiment_commit": "91f87658a4c2f25d12c4bc0875cfee00dbe645de",
+  "verified_bytes_unchanged_after_xattr": true,
+  "remote_branch_verified": true,
+  "library_listing_verified": true,
+  "publication_verified_at": "2026-10-18T14:49:30.170123+00:00",
+  "artifacts": [
+    {
+      "file_name": "basketball-conflict-preview.mp4",
+      "file_size_bytes": 3047773,
+      "sha256": "9238a07544cb85ec879f2f8d2cb21a091a1e87906985544388f23cb220862a62",
+      "file_id": "file_000000008abc8230a02b4a9414ce9120",
+      "library_file_id": "libfile_4d10750b64c48191ace79dd66afdec08",
+      "current_version_number": 0,
+      "download_url": "https://chatgpt.com/api/library/files/libfile_4d10750b64c48191ace79dd66afdec08/download"
+    },
+    {
+      "file_name": "six-regression-conflict-replays.mp4",
+      "file_size_bytes": 8645299,
+      "sha256": "3d016771c3fc12cf7e70943c54b18b6b8b0b9b876ccdaebb63f8c2da2b34e860",
+      "file_id": "file_00000000067081f6a223ef689bf554d5",
+      "library_file_id": "libfile_b01d5614929081919b70081cfce8a2c4",
+      "current_version_number": 0,
+      "download_url": "https://chatgpt.com/api/library/files/libfile_b01d5614929081919b70081cfce8a2c4/download"
+    },
+    {
+      "file_name": "conflict-tracklets-report-2026-10-18.html",
+      "file_size_bytes": 786710,
+      "sha256": "81ab3aa998a87b50c56137b5fc19303aee6b07d234518356530687578a73e526",
+      "file_id": "file_000000002b1482309539b87d1e0d76e1",
+      "library_file_id": "libfile_daa2472fd35c8191952442ab76ddcbc5",
+      "current_version_number": 0,
+      "download_url": "https://chatgpt.com/api/library/files/libfile_daa2472fd35c8191952442ab76ddcbc5/download"
+    },
+    {
+      "file_name": "conflict-tracklets-diagnostics-2026-10-18.zip",
+      "file_size_bytes": 13525864,
+      "sha256": "40f83a62b333b84222ab8c26fd4acfc4a813bad8373fcb466309eaf04a991a0b",
+      "file_id": "file_00000000b1048230b89aa76cd4dc7f97",
+      "library_file_id": "libfile_bee9bd701138819197b526f481f6709f",
+      "current_version_number": 0,
+      "download_url": "https://chatgpt.com/api/library/files/libfile_bee9bd701138819197b526f481f6709f/download"
+    },
+    {
+      "file_name": "conflict-tracklets-regression-review-2026-10-18.zip",
+      "file_size_bytes": 13204212,
+      "sha256": "4455030bc0b1cf1b82fc992c9ab30f1cea582196e5e73b179f2719099f2b56bf",
+      "file_id": "file_0000000093b481fda70fb9c89c198682",
+      "library_file_id": "libfile_80dca77a0da08191afba69ffa4a3b46b",
+      "current_version_number": 0,
+      "download_url": "https://chatgpt.com/api/library/files/libfile_80dca77a0da08191afba69ffa4a3b46b/download"
+    },
+    {
+      "file_name": "conflict-tracklets-input-clips-2026-10-18.zip",
+      "file_size_bytes": 13567585,
+      "sha256": "78f94ac4695b8abe09872f8868f3d1abf25e9017dc786239ce3181ec8fb43133",
+      "file_id": "file_00000000738081fdb7185dae56329ed3",
+      "library_file_id": "libfile_05a61db3ec6c8191b343a31099ed1b8e",
+      "current_version_number": 0,
+      "download_url": "https://chatgpt.com/api/library/files/libfile_05a61db3ec6c8191b343a31099ed1b8e/download"
+    }
+  ]
+}
